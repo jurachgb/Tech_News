@@ -33,7 +33,7 @@ public static class ReportWriter
 
             foreach (var article in source.OrderByDescending(a => a.Score))
             {
-                sb.AppendLine($"- **[{article.Titulo}]({article.Url})** — ⭐ {article.Score}");
+                sb.AppendLine($"- **[{article.Titulo}]({article.Url})** — {article.Score}");
 
                 if (article.Tag.Count > 0)
                     sb.AppendLine($"  `{string.Join("` `", article.Tag.Take(4))}`");
