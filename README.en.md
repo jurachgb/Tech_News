@@ -2,7 +2,7 @@
 
 A technology news scraper built in C# to gather relevant articles from popular sources such as Hacker News and Dev.to, then export them as JSON and Markdown files.
 
-## ✨ Features
+## Features
 
 - Fetches the top stories from Hacker News
 - Fetches articles from Dev.to using tags such as .NET, C#, AI, webdev, and DevOps
@@ -12,16 +12,16 @@ A technology news scraper built in C# to gather relevant articles from popular s
   - `output/news.json`
   - `output/news.md`
 
-## 🧩 How it works
+## How it works
 
 The project uses `HttpClient` to call public APIs from the supported sources and organizes the data in shared models. After that, the program writes the collected results to files in the `output` folder.
 
-## ✅ Requirements
+## Requirements
 
 - .NET 10 SDK
 - Internet connection
 
-## ▶️ How to run
+##  How to run
 
 From the project directory, execute:
 
@@ -37,7 +37,7 @@ output/
 └── news.md
 ```
 
-## 📁 Main structure
+## Main structure
 
 - `Program.cs` — application entry point
 - `Services/HackerNews.cs` — Hacker News API integration
@@ -45,12 +45,12 @@ output/
 - `Output/Writer.cs` — JSON and Markdown report generation
 - `Models/Artigo.cs` — data models
 
-## 🔎 Notes
+## Notes
 
 - The app sends a User-Agent for HTTP requests
 - Data collection is performed in parallel to improve speed
 - Items without a URL are ignored to avoid invalid entries
 
-## 📌 Purpose
+## Purpose
 
 This project aims to provide an automated summary of technical news and articles, making it easier to track trends and relevant content from the developer community.

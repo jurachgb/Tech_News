@@ -2,7 +2,7 @@
 
 Coletor de notícias de tecnologia em C# para reunir artigos relevantes de fontes populares como Hacker News e Dev.to e exportá-los em arquivos JSON e Markdown.
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Busca as principais histórias do Hacker News
 - Busca artigos do Dev.to por tags como .NET, C#, IA, webdev e DevOps
@@ -12,16 +12,16 @@ Coletor de notícias de tecnologia em C# para reunir artigos relevantes de fonte
   - `output/news.json`
   - `output/news.md`
 
-## 🧩 Como funciona
+## Como funciona
 
 O projeto usa `HttpClient` para consultar as APIs públicas das fontes e organiza os dados em modelos compartilhados. Em seguida, o programa grava os resultados em arquivos na pasta `output`.
 
-## ✅ Requisitos
+## Requisitos
 
 - .NET 10 SDK
 - Conexão com a internet
 
-## ▶️ Como executar
+##  Como executar
 
 No diretório do projeto, rode:
 
@@ -37,7 +37,7 @@ output/
 └── news.md
 ```
 
-## 📁 Estrutura principal
+## Estrutura principal
 
 - `Program.cs` — fluxo principal da aplicação
 - `Services/HackerNews.cs` — integração com a API do Hacker News
@@ -45,12 +45,12 @@ output/
 - `Output/Writer.cs` — geração dos relatórios em JSON e Markdown
 - `Models/Artigo.cs` — modelos de dados
 
-## 🔎 Observações
+## Observações
 
 - A aplicação usa um User-Agent para chamadas HTTP
 - A coleta é feita em paralelo para otimizar a velocidade
 - Itens sem URL são ignorados para evitar entradas inválidas
 
-## 📌 Objetivo
+## Objetivo
 
 O objetivo do projeto é montar um resumo automatizado de notícias e artigos técnicos para facilitar acompanhamento de tendências e conteúdos relevantes da comunidade.
