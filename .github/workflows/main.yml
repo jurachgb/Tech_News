@@ -19,13 +19,13 @@ jobs:
           dotnet-version: '8.0.x'
 
       - name: Restaurar dependências
-        run: dotnet restore src/TechNewsScraper/TechNewsScraper.csproj
+        run: dotnet restore TechNewsScraper.csproj
 
       - name: Build
-        run: dotnet build src/TechNewsScraper/TechNewsScraper.csproj --no-restore --configuration Release
+        run: dotnet build TechNewsScraper.csproj --no-restore --configuration Release
 
       - name: Executar scraper
-        run: dotnet run --project src/TechNewsScraper/TechNewsScraper.csproj --configuration Release
+        run: dotnet run --project TechNewsScraper.csproj --configuration Release
 
       - name: Commitar resultados
         run: |
