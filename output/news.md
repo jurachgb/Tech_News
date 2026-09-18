@@ -1,149 +1,142 @@
 ﻿#Tech News Report
 
-> Gerado em: 17/09/2026 14:02 UTC | Total: 84 artigos
+> Gerado em: 18/09/2026 13:18 UTC | Total: 81 artigos
 
 ## Hacker News
 
-- **[Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)** — 2212
-- **[Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)** — 803
-- **[Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl)** — 612
-- **[Small programming tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)** — 587
-- **[Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/)** — 484
-- **[AWS says it can't restore some data from mideast facilities struck by Iran](https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d)** — 473
-- **[Backups Aren't Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html)** — 281
-- **[The engineering behind the US Strategic Petroleum Reserve](https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve)** — 235
-- **[Keys Not Included: recovering the signing keys for US driver's license barcodes](https://ryan.science/blog/keys-not-included)** — 225
-- **[One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)** — 221
-- **[Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338)** — 220
-- **[My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it](https://jakeasmith.com/blog/http-build-url/)** — 208
-- **[GLM Built Its Own Inference Infrastructure](https://z.ai/blog/glm-built-its-inference-infrastructure)** — 177
-- **[HarnessTax: How Much Does the Harness Matter for Coding Agents?](https://harnesstax.github.io/)** — 174
-- **[OpenSpec – A lightweight and configurable AI spec framework](https://openspec.dev/)** — 167
-- **[Developing provably correct Rust code with Verus](https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus)** — 135
-- **[Cloudflare/Security-Audit-Skill](https://github.com/cloudflare/security-audit-skill)** — 125
-- **[CCC invites all model citizens to 40C3](https://events.ccc.de/en/2026/09/12/40c3-model-citizens/)** — 112
-- **[The Relation Between Mathematics and Physics by Paul Dirac](https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html)** — 103
-- **[Comparison of Malloc() Algorithms](https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html)** — 98
-- **[A 32-year-old bug walks into a Telnet server](https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/)** — 80
-- **[Canada welcomes EU proposal to become 'associate member'](https://www.bbc.com/news/articles/cwly7vkke4jxo)** — 61
-- **[Lucasart's Afterlife](https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/)** — 56
-- **[Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA](https://global.fujitsu/en-global/pr/news/2026/09/14-02)** — 53
-- **[Better Vector Search for Long Documents: Chunking Inside Manticore Search](https://manticoresearch.com/blog/auto-chunking/)** — 40
-- **[Show HN: I built a new version of my fun spatial 3D online meeting app](https://flat.social)** — 34
-- **[Online Z3 Guide](https://microsoft.github.io/z3guide/)** — 32
-- **[The American Religion of Self-Storage Facilities](https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities)** — 18
-- **[I had Gemini train its own replacement for $9](https://www.petervijeh.com/projects/reddit-ner)** — 13
+- **[Hister: A private search engine for the pages you visit and the files you keep](https://github.com/asciimoo/hister)** — 654
+- **[Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA](https://global.fujitsu/en-global/pr/news/2026/09/14-02)** — 612
+- **[Astra for Law](https://openai.com/index/astra-for-law/)** — 522
+- **[Bend – A language that blocks AI mistakes via proof, on CPU and GPU](https://bend-lang.com/)** — 513
+- **[Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b)** — 491
+- **[Wax motor](https://en.wikipedia.org/wiki/Wax_motor)** — 452
+- **[A heap overflow and SSO misconfiguration to compromise OpenAI internal repos](https://www.hacktron.ai/blog/hacking-openai)** — 383
+- **[Microsoft exec called AI scraping 'the largest theft of labor in human history'](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/)** — 382
+- **[Qwen 3.8 Omni Flash](https://qwen.ai/blog?id=qwen3.8-omni-flash)** — 267
+- **[OpenJev](https://openjev.com/)** — 239
+- **[How to Write with an LLM](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/)** — 222
+- **[Jemalloc 5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)** — 213
+- **[The scourge of x86 emulation](https://fex-emu.com/Scourge-of-emulation/)** — 192
+- **[Flet 1.0 – Build cross-platform apps in Python](https://flet.dev/)** — 138
+- **[ZCode, the GLM coding agent, silently uploads your Git history](https://tokenstead.ai/guides/zcode-silent-git-history-upload)** — 135
+- **[Bend 2 and the Vibe-Coding Trap](https://blog.liampwll.com/posts/bend_vibe_coding/)** — 128
+- **[I don't like passkeys](https://hawksley.dev/blog/i-dont-like-passkeys)** — 110
+- **[Pre-Greek: The lost language hidden within Ancient Greek](https://linguisticdiscovery.com/posts/pre-greek/)** — 102
+- **[Shapelearn Qwen 3.8 27B (13.1 GB VRAM)](https://byteshape.com/blogs/Qwen3.8-27B/)** — 83
+- **[Diplodocus, Long Thought Exclusively American, Turns Up in Spain](https://www.sci.news/paleontology/spanish-diplodocus-15064.html)** — 80
+- **[Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him](https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html)** — 75
+- **[Telstra outage: The night a network decided the year was 2006](https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006)** — 74
+- **[Replacing Pull Requests with Delta](https://zed.dev/blog/delta-public-beta)** — 69
+- **[When the fractional part of a float fixes your shader](https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/)** — 60
+- **[Ask A Monk – A digital wilderness for thoughts with no immediate answer](https://askamonk.online)** — 51
+- **[Subnormal floating-point numbers are expensive on Intel processors](https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/)** — 30
+- **[Speeding up gearhash on ARM64](https://sam.dev/blog/gearhash-on-arm64)** — 28
+- **[Dr Julius Neubronner's Miniature Pigeon Camera](https://publicdomainreview.org/collection/dr-julius-neubronner-s-miniature-pigeon-camera/)** — 17
+- **[The Shadows Lurking in the Equations – Underwater Islands](https://gods.art/articles/equation_shadows)** — 7
+- **[Cekura (YC F24) Is Hiring](https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us)** — 1
 
 ## Dev.to
 
-- **[Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe](https://dev.to/googleai/build-real-time-voice-applications-with-gemini-38-live-and-35-transcribe-4nb5)** — 23
-  `ai` `live` `voice` `gemini`
-- **[API Performance Testing: How to Design Realistic Tests](https://dev.to/gramli/api-performance-testing-how-to-design-realistic-tests-59gn)** — 20
-  `testing` `performance` `api` `webdev`
-- **[A Million Go Map Entries Take 38MB, Not 16MB](https://dev.to/nazar-boyko/a-million-go-map-entries-take-38mb-not-16mb-2ij3)** — 16
-  `go` `performance` `programming` `webdev`
-- **[Building PoCs with Codex and GitHub Copilot while they try to adjust my PoC requirements along the way](https://dev.to/missamarakay/building-pocs-with-codex-and-github-copilot-while-they-try-to-adjust-my-poc-requirements-along-the-1fc9)** — 15
-  `ai` `productivity`
-- **[How AI Actually Calls an API? Tool Calling Explained from Scratch](https://dev.to/aws/how-ai-actually-calls-an-api-tool-calling-explained-from-scratch-4lf8)** — 15
-  `ai` `mcp` `aws` `tutorial`
-- **[Temp Squads: How to Organize Ephemeral and Mixed Teams for Hyper-Performance with AI.](https://dev.to/felipperegazio/temp-squads-how-to-organize-ephemeral-and-mixed-teams-for-hyper-performance-with-ai-50nj)** — 14
-  `ai` `business` `productivity` `discuss`
-- **[Show a model your old code and it writes your old bugs: 32 runs, 0% reuse](https://dev.to/remdore/show-a-model-your-old-code-and-it-writes-your-old-bugs-32-runs-0-reuse-2epm)** — 12
-  `ai` `codequality` `programming` `refactoring`
-- **[AI Can Write the Code. Can It Prove the Fix?](https://dev.to/prince_panchani_f971a20ec/ai-can-write-the-code-can-it-prove-the-fix-3glg)** — 11
-  `opensource` `ai` `testing` `python`
-- **[Progressive Disclosure: What, Where, When, and Why](https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3)** — 9
-  `ai` `claude` `performance` `productivity`
-- **[I Let AI Plan 170 Changes. It Made the Same 3 Mistakes Every Time.](https://dev.to/debashish_ghosal/i-let-ai-plan-170-changes-it-made-the-same-3-mistakes-every-time-33ne)** — 9
-  `ai` `agents` `llm` `testing`
-- **[The Code I Couldn't Leave Alone](https://dev.to/shubhradev/the-code-i-couldnt-leave-alone-33hf)** — 8
-  `react` `nextjs` `webdev` `discuss`
-- **[My OSS Projects: Mages](https://dev.to/florianrappl/my-oss-projects-mages-31cl)** — 7
-  `dotnet` `opensource` `csharp` `compiling`
-- **[Stop Debouncing Resize. The Browser Already Watches It.](https://dev.to/parsajiravand/stop-debouncing-resize-the-browser-already-watches-it-1eh6)** — 7
-  `javascript` `webdev` `css` `browser`
-- **[I had a model translate my locale file. The bug it introduced was correct Japanese.](https://dev.to/remdore/i-had-a-model-translate-my-locale-file-the-bug-it-introduced-was-correct-japanese-58nk)** — 7
-  `i18n` `ai` `webdev` `localization`
-- **[Why we stopped using one Elasticsearch index per tenant and built our own](https://dev.to/seacloud-labs/why-we-stopped-using-one-elasticsearch-index-per-tenant-and-built-our-own-1a7c)** — 7
-  `opensource` `go` `elasticsearch` `architecture`
-- **[My First AI Judge Interview: What Could Possibly Go Wrong?](https://dev.to/earlgreyhot1701d/my-first-ai-judge-interview-what-could-possibly-go-wrong-22el)** — 5
-  `ai` `hackathon` `learning` `discuss`
-- **[How to Auto-Revoke a Claude Agent's Access When a User Is Offboarded With Kinde Webhooks](https://dev.to/sholajegede/how-to-auto-revoke-a-claude-agents-access-when-a-user-is-offboarded-with-kinde-webhooks-1ccf)** — 5
-  `ai` `kinde` `webdev` `claude`
-- **[AI agents introduced several new layers to the development stack. You are probably missing this one.](https://dev.to/naw103/ai-agents-introduced-several-new-layers-to-the-development-stack-you-are-probably-missing-this-one-54dg)** — 4
-  `ai` `devtools` `git` `productivity`
-- **[AI Can Write Code Faster Than I Can Trust It](https://dev.to/dmitry-truhanovich/ai-can-write-code-faster-than-i-can-trust-it-1olf)** — 1
-  `ai` `programming` `softwaredevelopment` `dotnet`
-- **[How to deploy a dotnet application without a Dockerfile or Docker build process](https://dev.to/tj-tronics/how-to-deploy-a-dotnet-application-without-a-dockerfile-or-docker-build-process-3315)** — 1
-  `docker` `dotnet` `linux` `webdev`
-- **[Generating AWS S3 presigned URLs in dotnet without dependencies](https://dev.to/tj-tronics/generating-aws-s3-presigned-urls-in-dotnet-without-dependencies-25jg)** — 1
-  `aws` `cloud` `dotnet` `programming`
-- **[Building a Tap-Timing Hyper-Casual Game in Unity: The Engineering Behind 'One Perfect Tap'](https://dev.to/unitysourcecode/building-a-tap-timing-hyper-casual-game-in-unity-the-engineering-behind-one-perfect-tap-24g7)** — 1
-  `unity3d` `csharp` `gamedev` `mobile`
-- **[SaaS Empty States: Help a New User Finish the First Task](https://dev.to/urielbitton/saas-empty-states-help-a-new-user-finish-the-first-task-3fkb)** — 1
-  `webdev` `ux` `saas`
-- **[Kubelet watches inodes. Just not until it's an emergency.](https://dev.to/onkar_s/kubelet-watches-inodes-just-not-until-its-an-emergency-351c)** — 1
-  `kubernetes` `devops` `linux` `docker`
-- **[One API Key Turned the Gateway's Cooldown Into a 60-Second Blackout, and I Blamed the Vendor for Months](https://dev.to/hexisteme/one-api-key-turned-the-gateways-cooldown-into-a-60-second-blackout-and-i-blamed-the-vendor-for-3a9p)** — 1
-  `devops` `debugging` `api` `ai`
-- **[Your Self-Hosted Agent Will Break at 3 a.m. Here Is What Should Happen Next.](https://dev.to/frederikvonderheyden/your-self-hosted-agent-will-break-at-3-am-here-is-what-should-happen-next-4g6j)** — 1
-  `ai` `devops` `automation` `opensource`
-- **[What If Your Terminal Had an Infinite Canvas? Meet Fuse.](https://dev.to/vladbevs/what-if-your-terminal-had-an-infinite-canvas-meet-fuse-b1i)** — 1
-  `opensource` `macos` `rust` `productivity`
-- **[Capbroker: I gave an AI agent a fake GitHub key, then watched it get tricked into trying to delete a repo anyway](https://dev.to/suryanshu_singh_91afc11dd/capbroker-i-gave-an-ai-agent-a-fake-github-key-then-watched-it-get-tricked-into-trying-to-delete-21ah)** — 1
-  `ai` `security` `opensource` `mcp`
-- **[Talking to a PLC from C#: A .NET Developer's Intro to Beckhoff ADS](https://dev.to/mridulkrishna/talking-to-a-plc-from-c-a-net-developers-intro-to-beckhoff-ads-15k8)** — 0
-  `dotnet` `csharp` `iot` `tutorial`
-- **[CLIENT TRACKING landed in Redis 6 four years ago. StackExchange.Redis still doesn't support it.](https://dev.to/magnanz/client-tracking-landed-in-redis-6-four-years-ago-stackexchangeredis-still-doesnt-support-it-199j)** — 0
-  `dotnet` `redis` `csharp`
-- **[High-Performance .NET: Reducing Garbage Collector Overhead by Cutting Allocations](https://dev.to/alexey_popov/high-performance-net-reducing-garbage-collector-overhead-by-cutting-allocations-295l)** — 0
-  `dotnet` `aspnetcore` `performance` `latencyspikes`
-- **[Memory Management in C#](https://dev.to/rhuturaj_takle/memory-management-in-c-5mh)** — 0
+- **[The clipboard bridge that had to wait for the device](https://dev.to/joduchan/the-clipboard-bridge-that-had-to-wait-for-the-device-31jb)** — 13
+  `webdev` `javascript` `programming` `ios`
+- **[Node.js 26.9 turns node:ffi on by default at 37 nanoseconds a call](https://dev.to/alexgeorgiev17/nodejs-269-turns-nodeffi-on-by-default-at-37-nanoseconds-a-call-ngj)** — 12
+  `node` `performance` `javascript` `devops`
+- **[From Solo Builder to Co-Founder: How I Launched a Tech Holding Company at 12 Years Old](https://dev.to/koda2026/from-solo-builder-to-co-founder-how-i-launched-a-tech-holding-company-at-12-years-old-22f8)** — 10
+  `webdev` `startup`
+- **[The Bottleneck Moved From Writing Code to Proving It](https://dev.to/debashish_ghosal/the-bottleneck-moved-from-writing-code-to-proving-it-5bpm)** — 9
+  `ai` `llm` `programming` `testing`
+- **[Drop Your Fav Portfolio Websites](https://dev.to/jainsakshi/drop-your-fav-portfolio-websites-48eo)** — 9
+  `portfolio` `web` `webdev` `discuss`
+- **[Bypassing a WAF and a CSP with Google Tag Manager: An Attacker’s Perspective and Remediation Advice](https://dev.to/raxis/bypassing-a-waf-and-a-csp-with-google-tag-manager-an-attackers-perspective-and-remediation-advice-2pig)** — 6
+  `cybersecurity` `security` `webdev` `redteam`
+- **[Frameworks Are Institutional Memory](https://dev.to/kenwalger/frameworks-are-institutional-memory-b3l)** — 5
+  `ai` `webdev` `programming` `beginners`
+- **[What If Your Coding Agent Could Remember What It Learned Yesterday?](https://dev.to/nishikantaray/what-if-your-coding-agent-could-remember-what-it-learned-yesterday-2okj)** — 5
+  `ai` `claude` `tooling` `programming`
+- **[I Accidentally Built a Dark Software Factory. Here's How.](https://dev.to/bendechrai/i-accidentally-built-a-dark-software-factory-heres-how-27k7)** — 5
+  `ai` `agents` `architecture` `llm`
+- **[Dependency Injection in ASP.NET Core](https://dev.to/rhuturaj_takle/dependency-injection-in-aspnet-core-15n6)** — 4
   `csharp` `dotnet` `programming` `learning`
-- **[Why I Stopped Letting Screens Talk to the Database](https://dev.to/blessloaded/why-i-stopped-letting-screens-talk-to-the-database-530o)** — 0
-  `dotnet` `maui` `cleanarchitecture` `softwareengineering`
-- **[MVVM Explained: Refactoring the Task Tracker, Properly](https://dev.to/manoharij/mvvm-explained-refactoring-the-task-tracker-properly-1h7g)** — 0
-  `csharp` `dotnet` `wpf` `mvvm`
-- **[OOP Concepts Explained Through a Real Payroll System, Not Animals and Shapes](https://dev.to/dhanagani_lakshmi_2487ad0/oop-concepts-explained-through-a-real-payroll-system-not-animals-and-shapes-jli)** — 0
-  `oop` `csharp` `dotnet` `dotnetfundamentals`
-- **[𝗔𝗦𝗣.𝗡𝗘𝗧 𝗪𝗲𝗯 𝗔𝗣𝗜 𝗦𝗲𝗿𝗶𝗲𝘀 | 𝗚𝗹𝗼𝗯𝗮𝗹 𝗘𝘅𝗰𝗲𝗽𝘁𝗶𝗼𝗻 𝗛𝗮𝗻𝗱𝗹𝗶𝗻𝗴 𝗶𝗻 𝗔𝗦𝗣.𝗡𝗘𝗧 𝗖𝗼𝗿𝗲 𝗪𝗲𝗯 𝗔𝗣𝗜](https://dev.to/syed_mohamed/--7jl)** — 0
-  `webapi` `dotnet` `aspdotnet` `csharp`
-- **[Visitor Pattern in C#: acyclic, type-safe, no downcasts, no runtime checks with Visitor.NET](https://dev.to/steponeit/visitor-pattern-in-c-acyclic-type-safe-no-downcasts-no-runtime-checks-with-visitornet-267b)** — 0
-  `dotnet` `csharp` `programming` `architecture`
-- **[How to protect C# source code from being decompiled](https://dev.to/zero_heartbeat_06a3625d7a/how-to-protect-c-source-code-from-being-decompiled-2mg0)** — 0
-  `guide` `csharp` `security`
-- **[Merge and Combine PowerPoint PPT/PPTX Presentations in C#](https://dev.to/groupdocs-cloud/merge-and-combine-powerpoint-pptpptx-presentations-in-c-4k37)** — 0
-  `csharp` `dotnet` `api` `tutorial`
-- **[How to Lead DevRel in the AI Era: Stop Playing It Safe](https://dev.to/blackgirlbytes/how-to-lead-devrel-in-the-ai-boom-stop-playing-it-safe-19jo)** — 0
-  `ai` `agents` `devrel`
-- **[I Built an AI Agent That Talks Like Me. Here's What Actually Broke.](https://dev.to/ominator/i-built-an-ai-agent-that-talks-like-me-heres-what-actually-broke-5apl)** — 0
-  `ai` `voiceai` `webdev` `showdev`
-- **[Hidratación isomórfica en Fitz: first paint en el server, y después WASM adopta el DOM](https://dev.to/martin_palopoli/hidratacion-isomorfica-en-fitz-first-paint-en-el-server-y-despues-wasm-adopta-el-dom-4b7m)** — 0
-  `webdev` `rust` `opensource` `frontend`
-- **[Why I Put PostgreSQL in WebAssembly to Fix SQL Interview Prep](https://dev.to/rahmanfrr/why-i-put-postgresql-in-webassembly-to-fix-sql-interview-prep-24fc)** — 0
-  `postgres` `sql` `webassembly` `webdev`
-- **[Every apply we ran was a small one on purpose](https://dev.to/sergey_shinder_ab2d943365/every-apply-we-ran-was-a-small-one-on-purpose-22ld)** — 0
+- **[Algorithmic Trading: Debug Your Backtest Before Upgrading Your Model](https://dev.to/copyleftdev/algorithmic-trading-debug-your-backtest-before-upgrading-your-model-57gf)** — 3
+  `python` `machinelearning` `testing` `ai`
+- **[Build an Agent UI That Explains Its State with Angular Signals](https://dev.to/raju_dandigam/build-an-agent-ui-that-explains-its-state-with-angular-signals-28op)** — 3
+  `angular` `ai` `typescript` `webdev`
+- **[I connected my audit Actor to Claude, and it audited three packages nobody asked for](https://dev.to/apify/i-connected-my-audit-actor-to-claude-and-it-audited-three-packages-nobody-asked-for-3m1d)** — 3
+  `ai` `mcp` `automation` `webdev`
+- **[A failed compaction wiped my AI session, so I built it infinite memory](https://dev.to/geco_50/a-failed-compaction-wiped-my-ai-session-so-i-built-it-infinite-memory-18ie)** — 2
+  `showdev` `ai` `opensource` `tutorial`
+- **[Capbroker: I gave an AI agent a fake GitHub key, then watched it get tricked into trying to delete a repo anyway](https://dev.to/suryanshu_singh_91afc11dd/capbroker-i-gave-an-ai-agent-a-fake-github-key-then-watched-it-get-tricked-into-trying-to-delete-21ah)** — 2
+  `ai` `security` `opensource` `mcp`
+- **[I Built an AI-Native Local Crawler to Audit My Clients' Websites](https://dev.to/shantodotdev/i-built-an-ai-native-local-crawler-to-audit-my-clients-websites-293a)** — 2
+  `ai` `rust` `webdev` `mcp`
+- **[Testing webhook retries deterministically: a fault sequence per Idempotency-Key](https://dev.to/emma_teelylabs/testing-webhook-retries-deterministically-a-fault-sequence-per-idempotency-key-1k19)** — 2
+  `webdev` `testing` `devops` `showdev`
+- **[Jev vs Claude: Who Wins?](https://dev.to/bengreenberg/jev-vs-claude-who-wins-4mln)** — 1
+  `ai` `machinelearning` `typescript` `todayilearned`
+- **[Agentic AI Security: Credentials and Permissions Define the Blast Radius](https://dev.to/gitguardian/agentic-ai-security-credentials-and-permissions-define-the-blast-radius-4o3i)** — 1
+  `security` `ai` `appsec` `devsecops`
+- **[Your Beauty AR Demo Is Smooth—Now Test the Session It Will Actually Run](https://dev.to/susiewang/your-beauty-ar-demo-is-smooth-now-test-the-session-it-will-actually-run-m4e)** — 1
+  `testing` `performance` `webdev` `tencentrtc`
+- **[What I Learned Quantizing DistilBERT to ONNX for Browser Inference](https://dev.to/fuxionixt/what-i-learned-quantizing-distilbert-to-onnx-for-browser-inference-5fok)** — 1
+  `machinelearning` `onnx` `webdev` `python`
+- **[I almost replaced Lovable with a $5 VPS, Dokploy and one MCP gateway](https://dev.to/k2sodev/i-almost-replaced-lovable-with-a-5-vps-dokploy-and-one-mcp-gateway-3mn9)** — 1
+  `ai` `devops` `opensource` `mcp`
+- **[Privilege Grants Do Not Belong on Free Inference](https://dev.to/aiio_6471/privilege-grants-do-not-belong-on-free-inference-6dd)** — 1
+  `ai` `security` `devops` `aws`
+- **[An open model that writes Atlassian Forge apps](https://dev.to/mihai_leanzero/an-open-model-that-writes-atlassian-forge-apps-5de)** — 1
+  `machinelearning` `llm` `atlassian` `opensource`
+- **[How I post every day without a content team (or a lying robot): the writer pipeline that turns real work into blog posts](https://dev.to/c1-anderson/how-i-post-every-day-without-a-content-team-or-a-lying-robot-the-writer-pipeline-that-turns-real-4kgb)** — 1
+  `ai` `automation` `writing` `opensource`
+- **[Your SKILL.md is production config. Test it like one.](https://dev.to/scs0209/your-skillmd-is-production-config-test-it-like-one-d91)** — 1
+  `ai` `programming` `testing` `opensource`
+- **[Can Big-O Complexity Be Detected at Compile Time?](https://dev.to/rodri-oliveira-dev/can-big-o-complexity-be-detected-at-compile-time-1nk1)** — 0
+  `csharp` `roslyn` `algorithms` `dotnet`
+- **[FIX 4.4 in C# From Scratch: Build, Checksum and Parse Orders Without a Library](https://dev.to/sergiy_lutsak_hft/fix-44-in-c-from-scratch-build-checksum-and-parse-orders-without-a-library-10pg)** — 0
+  `csharp` `dotnet` `fintech` `tutorial`
+- **[Troubleshooting .NET MAUI on macOS: From Build Errors to Device Debugging](https://dev.to/sanket00123/troubleshooting-net-maui-on-macos-from-build-errors-to-device-debugging-3ok2)** — 0
+  `dotnet` `mobile` `ios` `android`
+- **[No Python, No PhD: Train Real ML Models in C# with ML.NET (Regression, Classification, Clustering)](https://dev.to/kirandeepjassalcrypto/no-python-no-phd-train-real-ml-models-in-c-with-mlnet-regression-classification-clustering-ml6)** — 0
+  `dotnet` `csharp` `machinelearning` `ai`
+- **[Setting Up a Reliable .NET MAUI Development Environment on macOS](https://dev.to/sanket00123/setting-up-a-reliable-net-maui-development-environment-on-macos-4omb)** — 0
+  `dotnet` `mobile` `android` `ios`
+- **[Generate Background Music from JSON in .NET](https://dev.to/dharangutti/generate-background-music-from-json-in-net-1806)** — 0
+  `csharp` `dotnet` `json` `music`
+- **[Procedural Game and Application Audio in .NET](https://dev.to/dharangutti/procedural-game-and-application-audio-in-net-4709)** — 0
+  `dotnet` `gamedev` `software`
+- **[Deterministic Audio Fixtures for Automated Testing in .NET](https://dev.to/dharangutti/deterministic-audio-fixtures-for-automated-testing-in-net-41f7)** — 0
+  `dotnet` `softwaredevelopment` `testing`
+- **[Generate MIDI and WAV from the Same C# Source with SoundScript](https://dev.to/dharangutti/generate-midi-and-wav-from-the-same-c-source-with-soundscript-1m2l)** — 0
+  `csharp` `dotnet` `programming` `tutorial`
+- **[Getting Started with Amazon ECS Express Mode](https://dev.to/aws-builders/getting-started-with-amazon-ecs-express-mode-2pcd)** — 0
+  `aws` `csharp` `tutorial` `terraform`
+- **[Observabilidade com .NET, Prometheus e Grafana: Métricas, Docker e /metrics - Parte 2](https://dev.to/marciusbezerra/observabilidade-com-net-prometheus-e-grafana-metricas-docker-e-metrics-parte-2-24od)** — 0
+  `netcore` `aspnetcore` `csharp` `docker`
+- **[Observabilidade com .NET, Prometheus e Grafana: Métricas, Docker e /metrics](https://dev.to/marciusbezerra/observabilidade-com-net-prometheus-e-grafana-metricas-docker-e-metrics-4f1f)** — 0
+  `netcore` `csharp` `docker` `grafana`
+- **[Por que uma aplicação Python em larga escala precisa de mais servidores que uma equivalente em .NET? | O caso do Habitat da OpenAI](https://dev.to/claudio_filho87/por-que-uma-aplicacao-python-em-larga-escala-precisa-de-mais-servidores-que-uma-equivalente-em-5em8)** — 0
+  `python` `csharp` `rust` `openai`
+- **[Expressing SQL Outer Joins in LINQ — Implementing LeftJoin, RightJoin and Shuffle](https://dev.to/s-iguchi09/expressing-sql-outer-joins-in-linq-implementing-leftjoin-rightjoin-and-shuffle-476n)** — 0
+  `csharp` `dotnet` `linq`
+- **[A regex DLP layer for an LLM gateway: blocking keys, masking IDs, and what to do with chat history](https://dev.to/mafeis/a-regex-dlp-layer-for-an-llm-gateway-blocking-keys-masking-ids-and-what-to-do-with-chat-history-4md5)** — 0
+  `security` `ai` `opensource` `devops`
+- **[Your Certificate Monitoring Only Checks the Leaf. That Is Not the Same Thing as Your Chain Being Valid.](https://dev.to/riskbitsdotnet/your-certificate-monitoring-only-checks-the-leaf-that-is-not-the-same-thing-as-your-chain-being-1k00)** — 0
+  `security` `tls` `devops` `sre`
+- **[4 Automation Chrome Processes Were Killing My Real Browser: Bundle-ID Isolation and a 6-Hour Self-Repair Loop](https://dev.to/bokuwalily/4-automation-chrome-processes-were-killing-my-real-browser-bundle-id-isolation-and-a-6-hour-41eg)** — 0
+  `automation` `macos` `playwright` `devops`
+- **[Why Agent Infrastructure Is Its Own Discipline](https://dev.to/aloknecessary/why-agent-infrastructure-is-its-own-discipline-4778)** — 0
+  `ai` `kubernetes` `devops` `infrastructure`
+- **[How to Build an AI-Powered Log Summarizer for DevOps](https://dev.to/ayinedjimi-consultants/how-to-build-an-ai-powered-log-summarizer-for-devops-23eb)** — 0
+  `python` `devops` `ai` `llm`
+- **[Deleting one subnet from a list rebuilt six of them](https://dev.to/sergey_shinder_ab2d943365/deleting-one-subnet-from-a-list-rebuilt-six-of-them-4jna)** — 0
   `sergeyshinder` `terraform` `iac` `devops`
-- **[Self-Hosted CI Runners Are Shared Secrets: Threat Modelling Your Build Infrastructure](https://dev.to/kozhevniko/self-hosted-ci-runners-are-shared-secrets-threat-modelling-your-build-infrastructure-2ji3)** — 0
-  `cicd` `supplychain` `devops` `runnersecurity`
-- **[A one line fix took three weeks of unreleased work to production](https://dev.to/sergey_shinder_ab2d943365/a-one-line-fix-took-three-weeks-of-unreleased-work-to-production-3h9l)** — 0
-  `sergeyshinder` `releaseengineering` `git` `devops`
-- **[How I Built a Self-Healing, Multi-AZ Infrastructure on AWS — And What Broke Along the Way](https://dev.to/knirl/how-i-built-a-self-healing-multi-az-infrastructure-on-aws-and-what-broke-along-the-way-72j)** — 0
-  `architecture` `aws` `devops` `infrastructure`
-- **[4 Ways a 'Retired' launchd Job Kept Running on a 160+ Job Fleet — and the 3 Commands That Actually Stop It](https://dev.to/bokuwalily/4-ways-a-retired-launchd-job-kept-running-on-a-160-job-fleet-and-the-3-commands-that-actually-1fk6)** — 0
-  `launchd` `macos` `automation` `devops`
-- **[Reviewing Generated Terraform: The Destroy Count, count vs for_each, and a Comment in the Wrong Place](https://dev.to/thecopilotstack/reviewing-generated-terraform-the-destroy-count-count-vs-foreach-and-a-comment-in-the-wrong-57o9)** — 0
-  `terraform` `devops` `aws` `githubcopilot`
-- **[A deadlock doesn't care how many times you retry it](https://dev.to/itaisagi/a-deadlock-doesnt-care-how-many-times-you-retry-it-4be2)** — 0
-  `aws` `devops` `reliability` `startup`
-- **[Building a Lightweight AI Agent in Go: Baize's Architecture and Trade-offs](https://dev.to/rebornace/building-a-lightweight-ai-agent-in-go-baizes-architecture-and-trade-offs-4c0k)** — 0
-  `ai` `agents` `go` `opensource`
-- **[My Open Source Journey: From a license switch to the first PR](https://dev.to/ipt/my-open-source-journey-from-a-license-switch-to-the-first-pr-270h)** — 0
-  `valkey` `opensource` `kubernetes` `operator`
-- **[How Do You Actually Test an AI System? A Layered Strategy From Five Tools I Built](https://dev.to/royalpinto007/how-do-you-actually-test-an-ai-system-a-layered-strategy-from-five-tools-i-built-2hhb)** — 0
-  `ai` `testing` `llm` `opensource`
-- **[Freeze the Manifest Before the Agent Leaderboard](https://dev.to/apppro_5726/freeze-the-manifest-before-the-agent-leaderboard-1kop)** — 0
-  `ai` `testing` `python` `opensource`
-- **[4 Agent Skills for backend engineers: design review, zero-downtime migration, production GenAI, forecasting](https://dev.to/shubhamkumbhalkar/4-agent-skills-for-backend-engineers-design-review-zero-downtime-migration-production-genai-3fj3)** — 0
-  `ai` `opensource` `architecture` `llm`
+- **[Apache Data Lakehouse Weekly: September 9 to 17, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-september-9-to-17-2026-1509)** — 0
+  `database` `opensource` `softwaredevelopment`
+- **[Laurels from the Edge: 4 Overlooked #weekendchallenge Projects That Deserved Way More Love](https://dev.to/mike_cramblett_7050830f0c/laurels-from-the-edge-4-overlooked-weekendchallenge-projects-that-deserved-way-more-love-2gge)** — 0
+  `weekendchallenge` `devchallenge` `opensource` `programming`
+- **[Why Splitting Logs by Business Key Becomes a Resource-Management Problem](https://dev.to/egaybxe/why-splitting-logs-by-business-key-becomes-a-resource-management-problem-2534)** — 0
+  `java` `logging` `performance` `opensource`
+- **[Three ways I miscounted my own AI agents, and what the transcripts actually say](https://dev.to/kostakurta/three-ways-i-miscounted-my-own-ai-agents-and-what-the-transcripts-actually-say-4kjg)** — 0
+  `typescript` `ai` `claude` `opensource`
+- **[Inside an unattended coding run: from a dropped file to a reviewed branch](https://dev.to/daniel_firu/inside-an-unattended-coding-run-from-a-dropped-file-to-a-reviewed-branch-lgc)** — 0
+  `ai` `architecture` `sdlc` `opensource`
 
