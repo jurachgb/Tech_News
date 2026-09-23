@@ -1,80 +1,84 @@
 ﻿#Tech News Report
 
-> Gerado em: 22/09/2026 13:49 UTC | Total: 68 artigos
+> Gerado em: 23/09/2026 14:00 UTC | Total: 77 artigos
 
 ## Hacker News
 
-- **[MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)** — 975
-- **[Attention is all you have](https://alicegg.tech/2026/09/21/attention)** — 916
-- **[I don't want to read what you didn't write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)** — 819
-- **[What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/)** — 625
-- **[Spymarks, Not Watermarks](https://brand.io/article/spymarks/)** — 546
-- **[Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/)** — 498
-- **[I said no and Apple said yes](https://dbushell.com/2026/09/22/apple-intelligence/)** — 432
-- **[NASA’s Mars Sample Return mission is dead](https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead)** — 423
-- **[AI coding has made CI a bottleneck, so we reworked ours to keep up](https://linear.app/now/ci-bottleneck-reworked)** — 281
-- **[Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/)** — 252
-- **[Python Workers are now generally available](https://blog.cloudflare.com/python-workers-ga/)** — 252
-- **[AI Has No Wisdom and Neither Will You](https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/)** — 187
-- **[Divide by depth for instant 3D](https://gabrieloc.com/2026/09/15/perspective.html)** — 182
-- **[Looking forward to Git 2.56 – and 3.0](https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/)** — 166
-- **[HERMES radio enables voice and data communication over vast distances](https://spectrum.ieee.org/hermes-shortwave-radio-digital-data)** — 159
-- **[AMD's random number generator can't generate a 0?](https://board.flatassembler.net/topic.php?t=24261)** — 149
-- **[The Advisory Group on Mathematics and Artificial Intelligence](https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/)** — 148
-- **[Claude Status – Elevated errors for multiple models](https://status.claude.com/incidents/7g1qpkyz5gxh)** — 129
-- **[9 Ads per Minute: FIFA Cup 26 – "the price of the beautiful game"](https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html)** — 122
-- **[MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/mimo-v2-6-pro)** — 112
-- **[How do traffic signals work? (2019)](https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work)** — 99
-- **[Verda (Finland) raises $189M in Series B](https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers)** — 60
-- **[Socrates vs. the Written Word (2011)](https://wondermark.com/socrates-vs-writing/)** — 60
-- **[A font that reads what you wrote](https://rohanadwankar.github.io/posts/semfont.html)** — 47
-- **[Line Scan Photos from MUNI Heritage Weekend in San Francisco](https://daniel.lawrence.lu/blog/2026-09-20-muni-heritage-weekend/)** — 38
-- **[Engineering Memory: On learning to memorize first 100 digits of pi (2024)](https://gregorygundersen.com/blog/2024/12/21/engineering-memory/)** — 35
-- **[What It's Like to Work in One of America's Data Centers](https://www.wsj.com/business/what-its-like-to-work-in-one-of-americas-data-centers-b4358003)** — 32
-- **[World Wide Words](https://www.worldwidewords.org/genindex.html)** — 31
-- **[AI Is Antithetical to Learning](https://jola.dev/posts/ai-antithetical-learning)** — 13
-- **[A build graph that rolls dice](https://fzakaria.com/2026/09/20/a-build-graph-that-rolls-dice)** — 10
+- **[Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)** — 1646
+- **[GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)** — 1635
+- **[Pentagon says overreliance on AI contributed to missile strike on Iran school](https://www.bloomberg.com/graphics/2026-iran-school-attack/)** — 755
+- **['We hacked the FBI:' Hackers say they have data on all FBI employees](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/)** — 699
+- **[OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)** — 696
+- **[How did AMD Ryzen get 50% faster in two years?](https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/)** — 399
+- **[Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived](https://foxscript.org/)** — 395
+- **[Jev in 25 Lines of Python](https://www.nobodywho.ai/posts/jev-in-25-lines/)** — 371
+- **[Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)](https://artificialanalysis.ai/models/claude-opus-5-5)** — 314
+- **[SAML: A fractal of bad design](https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/)** — 289
+- **[What California is learning from solar panels built over irrigation canals](https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals)** — 267
+- **[Unreal Agent](https://unreallabs.ai/blog/unreal-agent/)** — 217
+- **[WordPress: Unauthenticated path traversal leading to conditional RCE](https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp)** — 214
+- **[Claude Code reads AGENTS.md only when telemetry is on](https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/)** — 196
+- **[ReBarUEFI: Resizable BAR for almost any UEFI system](https://github.com/xCuri0/ReBarUEFI)** — 195
+- **[Transit rewards](https://waymo.com/blog/2026/09/transit-rewards/)** — 193
+- **[OpenAI is enlisting an influencer army to make it look 'good for the world'](https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9)** — 96
+- **[Data-only attacks are easier than you think (2024)](https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think)** — 77
+- **[Z80 REPL](https://abagames.github.io/z80-repl/index.html)** — 66
+- **[Samsung accidentally freezes its smart fridges with a software update](https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/)** — 62
+- **[I Don't Want the Details](https://michaelheap.com/i-dont-want-the-details/)** — 49
+- **[Show HN: Npunlock – Run custom C kernels for Intel NPUs](https://github.com/hsfzxjy/npunlock)** — 49
+- **[Tokens Too Cheap to Meter](https://jyn.dev/tokens-too-cheap-to-meter/)** — 35
+- **[The GitHub wiki is an anti-pattern](https://michaelheap.com/github-wiki-is-an-antipattern/)** — 29
+- **[Two Git ignore files nobody told me about](https://mihai.dinculescu.dev/posts/two-git-ignore-files-nobody-told-me-about/)** — 23
+- **[Show HN: RxFilm Studio–Create and edit your product videos with AI agent](https://filmstudio.rxlab.app)** — 15
+- **[Show HN: Ive Sent It – online courier for files, with signed proof of delivery](https://ivesentit.com)** — 11
+- **[The Price of Intelligence Is Falling Rapidly](https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html)** — 11
+- **[Show HN: Jevper – the Jev interface on top of any OpenAI-compatible model](https://github.com/zhulinchng/jevper)** — 3
+- **[QuestDB (YC S20) Is Hiring a Sales Engineer](https://questdb.com/careers/pre-sales-engineer-north-america/)** — 1
 
 ## Dev.to
 
-- **[Two Weeks In: A 15-Year QA Veteran, Back to Being the New Guy](https://dev.to/xulingfeng/two-weeks-in-a-15-year-qa-veteran-back-to-being-the-new-guy-39g3)** — 57
-  `discuss` `career` `testing` `ai`
-- **[Cheap RAG in Go with Gemini File Search: no vector DB, two calls, one hosted store](https://dev.to/lovestaco/cheap-rag-in-go-with-gemini-file-search-no-vector-db-two-calls-one-hosted-store-4kb5)** — 25
-  `go` `ai` `rag` `gemini`
-- **[The Git Recovery Guide: How to Undo Anything (Without Panic)](https://dev.to/james_anderson_h/the-git-recovery-guide-how-to-undo-anything-without-panic-547e)** — 20
-  `git` `programming` `webdev` `beginners`
-- **[An Agent That Counts My Receipts, Not My Claims](https://dev.to/kenielzep97/an-agent-that-counts-my-receipts-not-my-claims-a3h)** — 17
+- **[We All Have a "Serious Work" AI and a "Just Vibing" AI. When Did That Happen?](https://dev.to/dj29/we-all-have-a-serious-work-ai-and-a-just-vibing-ai-when-did-that-happen-5fl2)** — 48
+  `discuss` `ai` `gemini` `antigravity`
+- **[AI Is Writing More of the Code — But Developers Are Becoming Responsible for More Than Ever](https://dev.to/robertadam987_/ai-is-writing-more-of-the-code-but-developers-are-becoming-responsible-for-more-than-ever-55ni)** — 21
+  `ai` `programming` `discuss` `productivity`
+- **[Something About Coding Stopped Feeling Good — and It Took Me a While to Figure Out What](https://dev.to/james_anderson_h/something-about-coding-stopped-feeling-good-and-it-took-me-a-while-to-figure-out-what-2op2)** — 20
+  `career` `ai` `discuss` `watercooler`
+- **[Stop building side projects. Nobody cares — and here's the uncomfortable math.](https://dev.to/infoinlet1/stop-building-side-projects-nobody-cares-and-heres-the-uncomfortable-math-1eoc)** — 19
+  `ai` `webdev` `productivity` `discuss`
+- **[Per-Agent Cost Tracking for Multi-Agent AI on AWS](https://dev.to/sarvar_04/per-agent-cost-tracking-for-multi-agent-ai-on-aws-10eg)** — 18
+  `aws` `observability` `ai` `discuss`
+- **[I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare](https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd)** — 13
+  `buildinpublic` `webdev` `nextjs` `ai`
+- **[Docker Engine 29.8's --umask flag fixes permissions docker exec used to reset](https://dev.to/alexgeorgiev17/docker-engine-298s-umask-flag-fixes-permissions-docker-exec-used-to-reset-edj)** — 12
+  `docker` `devops` `security` `containers`
+- **[PNG admits when it is damaged and JPEG does not](https://dev.to/remdore/i-flipped-one-bit-in-an-image-file-png-died-jpeg-lied-35b3)** — 11
+  `python` `webdev` `computerscience` `showdev`
+- **[Stop Writing JavaScript To Fix `100vh` On Mobile](https://dev.to/parsajiravand/stop-writing-javascript-to-fix-100vh-on-mobile-42bk)** — 10
+  `css` `webdev` `frontend` `tutorial`
+- **[The Grand Unifying Architecture of Frontend](https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk)** — 9
+  `webdev` `javascript` `solidjs` `architecture`
+- **[Vue Composables: The Shared State Trap (+ Cheat Sheet)](https://dev.to/parsajiravand/vue-composables-the-shared-state-trap-cheat-sheet-37ia)** — 8
+  `vue` `javascript` `tutorial` `webdev`
+- **[The missing layer in AI tooling: sharing what your assistant already knows](https://dev.to/uri_shmueli_a403e7acc04a8/the-missing-layer-in-ai-tooling-sharing-what-your-assistant-already-knows-1nch)** — 6
+  `ai` `opensource` `mcp` `devtools`
+- **[About 1,800 tests passed. Running the real app found 14 bugs](https://dev.to/serhii_fedorenko/about-1800-tests-passed-running-the-real-app-found-14-bugs-l46)** — 5
+  `laravel` `php` `testing` `webdev`
+- **[I made my agent prove every quote against the source document](https://dev.to/chanadev/i-made-my-agent-prove-every-quote-against-the-source-document-1700)** — 4
   `devchallenge` `sanitychallenge` `sanity` `ai`
-- **[Async Task Systems: C# Customer Queue](https://dev.to/acatnigh/async-task-systems-c-customer-queue-lld)** — 15
-  `csharp` `dotnet` `beginners` `programming`
-- **[I interviewed the people who rejected me. Here's what their hiring process is actually optimizing for.](https://dev.to/infoinlet1/i-interviewed-the-people-who-rejected-me-heres-what-their-hiring-process-is-actually-optimizing-i9f)** — 14
-  `ai` `career` `hiring` `discuss`
-- **[React 19's useTransition Looked Simple. Then I Found a Second Bug Hiding Inside the First One](https://dev.to/shubhradev/react-19s-usetransition-looked-simple-then-i-found-a-second-bug-hiding-inside-the-first-one-35dk)** — 13
-  `webdev` `programming` `react` `javascript`
-- **[Laravel Is Not As Heavy As You Think](https://dev.to/nazar-boyko/laravel-is-not-as-heavy-as-you-think-571h)** — 11
-  `laravel` `php` `programming` `webdev`
-- **[The Curiosity Gap: Why We've Stopped Asking Questions](https://dev.to/ale3oula/the-curiosity-gap-why-weve-stopped-asking-questions-39e4)** — 9
-  `discuss` `ai`
-- **[We Measured the 200x Claim, and Got It Wrong Twice First](https://dev.to/devopsdaily/we-measured-the-200x-claim-and-got-it-wrong-twice-first-5ch5)** — 7
-  `ai` `llm` `benchmarking` `jev`
-- **[I Cut 2,490 Agent Test Runs to 206 and Kept the Same Coverage](https://dev.to/debashish_ghosal/i-cut-2490-agent-test-runs-to-206-and-kept-the-same-coverage-1cke)** — 7
-  `ai` `programming` `testing` `llm`
-- **[I wired Django to Next.js. Four things broke and only one of them threw an error.](https://dev.to/remdore/i-wired-django-to-nextjs-four-things-broke-and-only-one-of-them-threw-an-error-1g02)** — 6
-  `django` `nextjs` `webdev` `api`
-- **[What happens when enterprise requirements hit Strands, LangGraph, and CrewAI - 45 runs measured](https://dev.to/sunnydachs/what-happens-when-enterprise-requirements-hit-strands-langgraph-and-crewai-45-runs-measured-ocg)** — 5
-  `agents` `ai` `llm` `python`
-- **[I Told a PR Nothing Would Break. Qodo Checked.](https://dev.to/dannwaneri/i-told-a-pr-nothing-would-break-qodo-checked-32nd)** — 5
-  `ai` `security` `discuss` `webdev`
-- **[When Is a Library Ready for Version 1.0?](https://dev.to/stinklewinks/when-is-a-library-ready-for-version-10-32cg)** — 2
-  `opensource` `webdev` `css` `architecture`
-- **[How Desktop Apps Detect and Kill Stale Processes on Startup](https://dev.to/susumun/how-desktop-apps-detect-and-kill-stale-processes-on-startup-209o)** — 2
-  `python` `webdev` `programming`
-- **[IdentityServer4 Is End-of-Life — Your Options in 2026](https://dev.to/_stefano_pinato/identityserver4-is-end-of-life-your-options-in-2026-2ddp)** — 1
-  `dotnet` `csharp` `aspnetcore` `security`
-- **[Building an Idle Market Tycoon Game in Unity: The Engineering Behind Incremental Economies](https://dev.to/unitysourcecode/building-an-idle-market-tycoon-game-in-unity-the-engineering-behind-incremental-economies-j8g)** — 1
-  `tycoon` `unity3d` `gamedev` `csharp`
-- **[React is Officially Dead in 2026 (Thanks to AI)](https://dev.to/holasoymalva/react-is-officially-dead-in-2026-thanks-to-ai-290m)** — 1
-  `react` `javascript` `programming` `webdev`
+- **[What Nobody Is Using in Your Google Cloud Projects, and What It Costs](https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0)** — 4
+  `googlecloud` `python` `devops` `opensource`
+- **[Making Claude Code concise without making it dumber: the engineering behind two open-source plugins](https://dev.to/nguyen_jesse_8602dc05abd6/making-claude-code-concise-without-making-it-dumber-the-engineering-behind-two-open-source-plugins-3ll9)** — 2
+  `claudecode` `opensource` `ai` `terminal`
+- **[The one law the whole series assumes: an AI that goes down silently is worse than one that's dead](https://dev.to/derekwang85/the-one-law-the-whole-series-assumes-an-ai-that-goes-down-silently-is-worse-than-one-thats-dead-3fc7)** — 2
+  `ai` `programming` `productivity` `devops`
+- **[Progressive Disclosure: Shaping Claude Code's Output](https://dev.to/reporails/progressive-disclosure-shaping-claude-codes-output-4dg4)** — 1
+  `ai` `claude` `tutorial` `agents`
+- **[12 Important Concepts All Software Developers Should Know](https://dev.to/bradtraversy/12-important-concepts-all-software-developers-should-know-1lfj)** — 1
+  `programming` `webdev` `beginners` `javascript`
+- **[Automating Android Play Store Releases, Part 3: The Storage-Quota Wall](https://dev.to/cynthizo/automating-android-play-store-releases-part-3-the-storage-quota-wall-2663)** — 1
+  `androiddev` `githubactions` `cicd` `devops`
+- **[Don't Trust a Lonely p95](https://dev.to/dporwal/dont-trust-a-lonely-p95-eng)** — 1
+  `testing` `performance` `devops` `softwareengineering`
 - **[Talking to a PLC from C#, Part 2: Notifications and Whole-Struct Reads](https://dev.to/mridulkrishna/talking-to-a-plc-from-c-part-2-notifications-and-whole-struct-reads-44a0)** — 0
   `dotnet` `csharp` `iot` `tutorial`
 - **[Set up a .NET application w/th OpenTelemetry, and trace/evaluate in Langfuse](https://dev.to/thangchung/set-up-a-net-application-wth-opentelemetry-and-traceevaluate-in-langfuse-249f)** — 0
@@ -95,22 +99,36 @@
   `csharp` `dotnet` `softwaredevelopment` `tutorial`
 - **[Top 10 Unexpected NuGet Packages for .NET Developers](https://dev.to/steponeit/top-10-unexpected-nuget-packages-for-net-developers-59a1)** — 0
   `csharp` `dotnet` `software` `softwaredevelopment`
-- **[Authorization in ASP.NET Core](https://dev.to/rhuturaj_takle/authorization-in-aspnet-core-2emm)** — 0
+- **[While Microsoft Is Busy Learning Rust, I'm Rebuilding .NET for WASI](https://dev.to/zionsati/while-microsoft-is-busy-learning-rust-im-rebuilding-net-for-wasi-52fk)** — 0
+  `dotnet` `csharp` `webassembly` `showdev`
+- **[REST (Representational State Transfer)](https://dev.to/rhuturaj_takle/rest-representational-state-transfer-26n7)** — 0
   `csharp` `dotnet` `programming` `learning`
-- **[Select Like a Surgeon: LINQ Projection That Doesn't Bleed Data](https://dev.to/homolibere/select-like-a-surgeon-linq-projection-that-doesnt-bleed-data-4loo)** — 0
-  `backend` `csharp` `dotnet` `performance`
-- **[System.Text.Json vs Newtonsoft.Json on a Crestron MC4-R (Mono/net472): measured on the processor](https://dev.to/oznetmaster/systemtextjson-vs-newtonsoftjson-on-a-crestron-mc4-r-mononet472-measured-on-the-processor-4p9f)** — 0
-  `dotnet` `csharp` `performance` `crestron`
-- **[Revoke an Established SignalR Connection Safely](https://dev.to/iqtechsolutions/revoke-an-established-signalr-connection-safely-4e9b)** — 0
-  `csharp` `dotnet` `programming`
-- **[Humanizer in .NET: Turn Strings, Dates, and Numbers Into Human-Friendly Text](https://dev.to/antonmartyniuk/humanizer-in-net-turn-strings-dates-and-numbers-into-human-friendly-text-10ck)** — 0
-  `programming` `dotnet` `csharp` `productivity`
-- **[Why Is My ASP.NET Core API Slow? 5 Things to Check First](https://dev.to/convergesol/why-is-my-aspnet-core-api-slow-5-things-to-check-first-3i71)** — 0
-  `dotnet` `aspnetcore` `csharp` `webdev`
-- **["Tech stack doesn't matter" is terrible advice when you're a solo dev](https://dev.to/azhadsuhaimi/tech-stack-doesnt-matter-is-terrible-advice-when-youre-a-solo-dev-4oei)** — 0
-  `dotnet` `saas` `webdev` `csharp`
-- **[AI Coding Tip 037 - Stop Patching Blind](https://dev.to/mcsee/ai-coding-tip-037-stop-patching-blind-227f)** — 0
-  `ai` `webdev` `programming` `security`
-- **[example.com and example.com/ were two rows, and 86.9% of my database was one bug](https://dev.to/juanauriti/examplecom-and-examplecom-were-two-rows-and-869-of-my-database-was-one-bug-2p8h)** — 0
-  `webdev` `database` `postgres` `debugging`
+- **[Registering a Concrete Class Instead of an Interface: A Small DI Detail With a Big Testing Cost](https://dev.to/dhanagani_lakshmi_2487ad0/registering-a-concrete-class-instead-of-an-interface-a-small-di-detail-with-a-big-testing-cost-4da3)** — 0
+  `dotnet` `dependencyinversion` `csharp` `unittest`
+- **[LINQ GroupBy: The Operator Everyone Uses Wrong](https://dev.to/homolibere/linq-groupby-the-operator-everyone-uses-wrong-59d5)** — 0
+  `csharp` `dotnet` `programming` `softwaredevelopment`
+- **[Without This, It’s Not a Cloud](https://dev.to/pykpyky/without-this-its-not-a-cloud-1e79)** — 0
+  `cloud` `csharp` `linux` `automation`
+- **[Sans ça, pas de cloud](https://dev.to/pykpyky/sans-ca-pas-de-cloud-58c2)** — 0
+  `cloud` `csharp` `linux` `automation`
+- **[FIX Session Layer in C#: Logon, Heartbeats, Sequence Numbers and Resend](https://dev.to/sergiy_lutsak_hft/fix-session-layer-in-c-logon-heartbeats-sequence-numbers-and-resend-43c6)** — 0
+  `csharp` `dotnet` `fintech` `tutorial`
+- **[Observabilidade com .NET 10: Grafana Loki, Serilog e Docker](https://dev.to/marciusbezerra/observabilidade-com-net-10-grafana-loki-serilog-e-docker-53dk)** — 0
+  `netcore` `csharp` `docker` `grafana`
+- **[Consumindo a API do Discogs com Blazor e C# .NET: busca, paginação e DI - Parte 2](https://dev.to/marciusbezerra/consumindo-a-api-do-discogs-com-blazor-e-c-net-busca-paginacao-e-di-parte-2-4mj3)** — 0
+  `netcore` `blazor` `bootstrap` `csharp`
+- **[Consumindo a API do Discogs com Blazor e C# .NET: busca, paginação e DI - Parte 3](https://dev.to/marciusbezerra/consumindo-a-api-do-discogs-com-blazor-e-c-net-busca-paginacao-e-di-parte-3-lie)** — 0
+  `netcore` `blazor` `bootstrap` `csharp`
+- **[My CI hadn't run a single one of those tests in two months and stayed green the whole time](https://dev.to/juanauriti/my-ci-hadnt-run-a-single-one-of-those-tests-in-two-months-and-stayed-green-the-whole-time-n15)** — 0
+  `testing` `python` `devops` `webdev`
+- **[INP and Partytown: give the main thread back to your users](https://dev.to/playfulprogramming/inp-and-partytown-give-the-main-thread-back-to-your-users-o9m)** — 0
+  `webdev` `performance` `webperf` `javascript`
+- **[My code checker was wrong. How I turned its false positives into tests](https://dev.to/navesz/my-code-checker-was-wrong-how-i-turned-its-false-positives-into-tests-1bim)** — 0
+  `codequality` `devops` `opensource` `testing`
+- **[I diffed GitHub's, Stripe's and OpenAI's OpenAPI specs. Three vendors, three totally different change regimes.](https://dev.to/skyblueballykid/i-diffed-githubs-stripes-and-openais-openapi-specs-three-vendors-three-totally-different-3pe1)** — 0
+  `api` `openapi` `devops` `github`
+- **[My Scheduled Agent Ran 40 Times and Did Nothing — Here's the Assertion That Fixed It](https://dev.to/samhartley_dev/my-scheduled-agent-ran-40-times-and-did-nothing-heres-the-assertion-that-fixed-it-50g2)** — 0
+  `ai` `devops` `python` `automation`
+- **[Nothing in My Framework Could Go Stale on Its Own](https://dev.to/todd_linnertz_871a076f68e/nothing-in-my-framework-could-go-stale-on-its-own-4g4l)** — 0
+  `platformengineering` `observability` `devops` `ai`
 
