@@ -11,6 +11,7 @@ public static class ReportWriter
     public static async Task WriteJsonAsync(News report, string path)
     {
         var reports =new List<News>();
+        var hoje=report.DataNoticia.Date;
         if(File.Exists(path))
         {
             var texto =await File.ReadAllTextAsync(path,Encoding.UTF8);
@@ -28,7 +29,29 @@ public static class ReportWriter
                 }
             }
         }
-        reports.Add(report);
+        var artigosDeHoje = reports
+        .Where(r => r.DataNoticia.Date == hoje)
+        .SelectMany(r => r.Artigo)
+        .Concat(report.Artigo)
+        .GroupBy(a => a.Url)
+        .Select(g => g.Last())
+        .ToList();
+
+    var relatoriosAntigos = reports
+        .Where(r => r.DataNoticia.Date != hoje)
+        .ToList();
+
+    if (artigosDeHoje.Count > 0)
+    {
+        relatoriosAntigos.Add(new News
+        {
+            DataNoticia = report.DataNoticia,
+            NumeroArtigos = artigosDeHoje.Count,
+            Artigo = artigosDeHoje
+        });
+    }
+
+        reports = relatoriosAntigos;
         var json =JsonSerializer.Serialize(reports ,JsonOptions);
         await File.WriteAllTextAsync(path,json,Encoding.UTF8);
         Console.WriteLine($"[Output] Json salvo em {path}");
@@ -58,7 +81,7 @@ public static class ReportWriter
             sb.AppendLine();
         }
 
-        await File.AppendAllTextAsync(path, sb.ToString(), Encoding.UTF8);
+        await File.WriteAllTextAsync(path, sb.ToString(), Encoding.UTF8);
         Console.WriteLine($"[Output] Markdown salvo em: {path}");
     }
 }
