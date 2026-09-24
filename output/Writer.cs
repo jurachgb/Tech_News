@@ -9,19 +9,16 @@ public static class ReportWriter
     private static readonly JsonSerializerOptions JsonOptions = new() { WriteIndented = true };
 
     public static async Task WriteJsonAsync(News report, string path)
-{
-    var dir = Path.GetDirectoryName(path);
-    if (!string.IsNullOrEmpty(dir))
-        Directory.CreateDirectory(dir);
+    {
+        var json = JsonSerializer.Serialize(report, JsonOptions);
+        await File.WriteAllTextAsync(path, json, Encoding.UTF8);
+        Console.WriteLine($"[Output] JSON salvo em: {path}");
+    }
 
-    var json = JsonSerializer.Serialize(report, JsonOptions);
-    await File.WriteAllTextAsync(path, json, Encoding.UTF8);
-    Console.WriteLine($"[Output] JSON salvo em: {path}");
-}
     public static async Task WriteMarkdownAsync(News report, string path)
     {
         var sb = new StringBuilder();
-        sb.AppendLine("#Tech News Report");
+        sb.AppendLine("# Tech News Report");
         sb.AppendLine();
         sb.AppendLine($"> Gerado em: {report.DataNoticia:dd/MM/yyyy HH:mm} UTC | Total: {report.NumeroArtigos} artigos");
         sb.AppendLine();

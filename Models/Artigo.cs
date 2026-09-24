@@ -2,7 +2,6 @@ namespace Models;
 
 public class NewsArticle
 {
-    
     public string Titulo {get;set;}= string.Empty;
     public string Url {get;set;} =string.Empty;
     public string Fonte {get;set;}=string.Empty;

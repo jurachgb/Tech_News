@@ -11,11 +11,11 @@ public class HackerNewsService(HttpClient httpClient)
     {
         Console.WriteLine("[Hacker News] Buscando top stories...");
 
-        // 1. Busca a lista de IDs
+        
         var idsJson = await httpClient.GetStringAsync($"{BaseUrl}/topstories.json");
         var ids = JsonSerializer.Deserialize<List<int>>(idsJson) ?? [];
 
-        // 2. Busca cada artigo em paralelo
+
         var tasks = ids.Take(limit).Select(id => FetchItemAsync(id));
         var results = await Task.WhenAll(tasks);
 
@@ -33,7 +33,7 @@ public class HackerNewsService(HttpClient httpClient)
             using var doc = JsonDocument.Parse(json);
             var root = doc.RootElement;
 
-            // Ignora itens sem URL (ex: posts de discussão)
+            
             if (!root.TryGetProperty("url", out var urlProp)) return null;
 
             return new NewsArticle
