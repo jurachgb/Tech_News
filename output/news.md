@@ -1,39 +1,39 @@
 ﻿# Tech News Report
 
-> Gerado em: 25/09/2026 13:42 UTC | Total: 76 artigos
+> Gerado em: 25/09/2026 13:58 UTC | Total: 76 artigos
 
 ## Hacker News
 
-- **[F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)** —  Score:1322
-- **[Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com)** —  Score:761
-- **[Dutch governments builds alternative for Microsoft based on NixOS](https://www.dawo.community/en/)** —  Score:540
-- **[Two-tier encryption in the UK](https://macanorak.com/two-tier-encryption-in-the-uk/)** —  Score:478
-- **[Why is the liver so weirdly regenerative?](https://dynomight.substack.com/p/liver)** —  Score:461
-- **[Toyota is taking the Corolla electric](https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/)** —  Score:368
-- **[Rails World 2026 Opening Keynote [video]](https://www.youtube.com/watch?v=vDjW_dRyKXY)** —  Score:366
-- **[My weird new hobby: Wandering around Tokyo on Google Maps](https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/)** —  Score:361
-- **[Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)** —  Score:343
-- **[Opus 5.5 is good at explainer videos](https://launchvideo.io)** —  Score:313
-- **[Fearless SIMD v1.0](https://linebender.org/blog/fearless-simd-1-0/)** —  Score:276
-- **[2DWillNeverDie](https://2dwillneverdie.com/)** —  Score:272
-- **[Using LLMs to trace alchemical knowledge and decode 17th century letters](https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical)** —  Score:146
-- **[Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini](https://nyaa.sh/reviews/mac-mini-m6-emulation)** —  Score:135
-- **[What About Rails?](https://jardo.dev/what-about-rails)** —  Score:131
-- **[The Mafia may be keeping fentanyl out of Italy](https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy)** —  Score:130
-- **[Oracle on the hook to pay data centre investors even if site has no electricity](https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016)** —  Score:88
-- **[Ink and Switch Interactive Homepage](https://www.inkandswitch.com/)** —  Score:81
-- **[CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2](https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2)** —  Score:75
-- **[Platform-Independent SIMD in Go](https://go.dev/blog/simd-experiment)** —  Score:68
-- **[Git-bug: Distributed, offline-first bug tracker embedded in Git](https://github.com/git-bug/git-bug)** —  Score:64
-- **[I'm Tired of Being on the Network](https://matduggan.com/im-tired-of-being-on-the-network/)** —  Score:55
-- **[Topcoat is pushing the boundary of server applications with Rust](https://tokio.rs/blog/2026-09-24-topcoat-server-applications)** —  Score:42
-- **[Special Projects (2016)](https://openai.com/index/special-projects/)** —  Score:41
-- **[Amiga Screens: A Primer](https://www.datagubbe.se/amscr/)** —  Score:38
-- **[Silicon Valley 'sex assault list' with 'over 100' names circulated](https://nypost.com/2026/09/24/tech/silicon-valley-sex-assault-list-with-over-100-names-circulated-warning-female-tech-workers-of-predators-to-avoid/)** —  Score:34
-- **[The Test](https://tante.cc/2026/09/24/the-test/)** —  Score:29
+- **[F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)** —  Score:1328
+- **[Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com)** —  Score:768
+- **[Dutch governments builds alternative for Microsoft based on NixOS](https://www.dawo.community/en/)** —  Score:564
+- **[Why is the liver so weirdly regenerative?](https://dynomight.substack.com/p/liver)** —  Score:466
+- **[Toyota is taking the Corolla electric](https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/)** —  Score:369
+- **[Rails World 2026 Opening Keynote [video]](https://www.youtube.com/watch?v=vDjW_dRyKXY)** —  Score:367
+- **[My weird new hobby: Wandering around Tokyo on Google Maps](https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/)** —  Score:362
+- **[Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)** —  Score:344
+- **[Opus 5.5 is good at explainer videos](https://launchvideo.io)** —  Score:316
+- **[Fearless SIMD v1.0](https://linebender.org/blog/fearless-simd-1-0/)** —  Score:277
+- **[2DWillNeverDie](https://2dwillneverdie.com/)** —  Score:273
+- **[Using LLMs to trace alchemical knowledge and decode 17th century letters](https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical)** —  Score:147
+- **[Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini](https://nyaa.sh/reviews/mac-mini-m6-emulation)** —  Score:141
+- **[What About Rails?](https://jardo.dev/what-about-rails)** —  Score:136
+- **[The Mafia may be keeping fentanyl out of Italy](https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy)** —  Score:132
+- **[Oracle on the hook to pay data centre investors even if site has no electricity](https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016)** —  Score:93
+- **[Ink and Switch Interactive Homepage](https://www.inkandswitch.com/)** —  Score:89
+- **[Platform-Independent SIMD in Go](https://go.dev/blog/simd-experiment)** —  Score:77
+- **[CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2](https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2)** —  Score:77
+- **[Git-bug: Distributed, offline-first bug tracker embedded in Git](https://github.com/git-bug/git-bug)** —  Score:76
+- **[I'm Tired of Being on the Network](https://matduggan.com/im-tired-of-being-on-the-network/)** —  Score:72
+- **[Silicon Valley 'sex assault list' with 'over 100' names circulated](https://nypost.com/2026/09/24/tech/silicon-valley-sex-assault-list-with-over-100-names-circulated-warning-female-tech-workers-of-predators-to-avoid/)** —  Score:51
+- **[Topcoat is pushing the boundary of server applications with Rust](https://tokio.rs/blog/2026-09-24-topcoat-server-applications)** —  Score:49
+- **[Amiga Screens: A Primer](https://www.datagubbe.se/amscr/)** —  Score:45
+- **[Special Projects (2016)](https://openai.com/index/special-projects/)** —  Score:42
+- **[The Test](https://tante.cc/2026/09/24/the-test/)** —  Score:34
+- **[Boards of Casio](https://www.ambionix.com/blog/boards-of-casio/)** —  Score:24
 - **[Show HN: Agentic CUDA Kernel Optimizer](https://github.com/bertaye/agentic-cuda-optimizer)** —  Score:23
-- **[Boards of Casio](https://www.ambionix.com/blog/boards-of-casio/)** —  Score:22
-- **[Nobody Asked for a Crab Chair](https://newmobility.com/nobody-asked-for-a-crab-chair/)** —  Score:9
+- **[Nobody Asked for a Crab Chair](https://newmobility.com/nobody-asked-for-a-crab-chair/)** —  Score:18
+- **[ASML says it sold 'absolutely nothing' in Europe in 2026](https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand)** —  Score:6
 
 ## Dev.to
 
@@ -43,10 +43,10 @@
   `ai` `llm` `controlplane` `agents`
 - **[FinePrint: an agent that checks your hackathon entry against the rules it reads](https://dev.to/himanshu_748/fineprint-an-agent-that-checks-your-hackathon-entry-against-the-rules-it-reads-5fpa)** —  Score:8
   `devchallenge` `sanitychallenge` `sanity` `ai`
+- **[Double Engine Failure: Back to the Hangar After Two Data Providers Changed Course](https://dev.to/georgekobaidze/double-engine-failure-back-to-the-hangar-after-two-data-providers-changed-course-3o3)** —  Score:8
+  `debugging` `showdev` `webdev` `node`
 - **[When should an agent stop?](https://dev.to/azankhyder/a-stop-rule-that-trusts-one-score-is-worse-than-a-dumb-budget-428c)** —  Score:7
   `ai` `agents` `machinelearning` `research`
-- **[Double Engine Failure: Back to the Hangar After Two Data Providers Changed Course](https://dev.to/georgekobaidze/double-engine-failure-back-to-the-hangar-after-two-data-providers-changed-course-3o3)** —  Score:7
-  `debugging` `showdev` `webdev` `node`
 - **[INKSHIFT: cross out a table, keep the booking](https://dev.to/himanshu_748/inkshift-cross-out-a-table-keep-the-booking-344i)** —  Score:6
   `devchallenge` `sanitychallenge` `sanity` `ai`
 - **[I Think AI Is Making Coding Easier and Learning Harder](https://dev.to/jaideepparashar/i-think-ai-is-making-coding-easier-and-learning-harder-5hjf)** —  Score:6
@@ -81,12 +81,18 @@
   `ai` `claudecode` `observability` `devops`
 - **[I Built a Free IP Lookup Tool with Vanilla JS — Here's What I Learned](https://dev.to/adado_2e958757fa4dbf/i-built-a-free-ip-lookup-tool-with-vanilla-js-heres-what-i-learned-3h5j)** —  Score:1
   `javascript` `showdev` `webdev`
+- **[Why should request state survive after the request is finished?](https://dev.to/hasanh47/why-should-request-state-survive-after-the-request-is-finished-1i99)** —  Score:1
+  `typescript` `backend` `node` `webdev`
 - **[Day 2: The Art of Forgetting (How an AI Survives on 6GB RAM Before It Dies)](https://dev.to/donbasi1io/day-2-the-art-of-forgetting-how-an-ai-survives-on-6gb-ram-before-it-dies-5a09)** —  Score:1
   `ai` `selfhosted` `linux` `devops`
+- **[What Protobuf descriptors don't tell you: building a generic mock generator](https://dev.to/pretaporter/what-protobuf-descriptors-dont-tell-you-building-a-generic-mock-generator-2a5d)** —  Score:1
+  `protobuf` `typescript` `testing` `opensource`
 - **[I Built a Memory Allocator for Microcontrollers That Refuses to Fragment](https://dev.to/igwestarking/i-built-a-memory-allocator-for-microcontrollers-that-refuses-to-fragment-ege)** —  Score:1
   `c` `github` `opensource` `programming`
 - **[I built a tool that pulls the power cord on your program (thousands of times)](https://dev.to/zaydmulani09/i-built-a-tool-that-pulls-the-power-cord-on-your-program-thousands-of-times-3ejp)** —  Score:1
   `rust` `testing` `database` `opensource`
+- **[Your Tests Pass. So Does the Wrong Code](https://dev.to/jay_stride/your-tests-pass-so-does-the-wrong-code-1eam)** —  Score:1
+  `testing` `typescript` `devtools` `opensource`
 - **[Exception Handling in ASP.NET Core](https://dev.to/rhuturaj_takle/exception-handling-in-aspnet-core-nc9)** —  Score:0
   `csharp` `dotnet` `programming` `learning`
 - **[Understanding System Design as a .NET/MAUI Engineer](https://dev.to/nuvyantralabs_ccee/understanding-system-design-as-a-netmaui-engineer-n57)** —  Score:0
@@ -109,8 +115,6 @@
   `programming` `dotnet` `csharp` `postgres`
 - **[n8n and NVIDIA NemoClaw to Demonstrate Governed AI Agent Actions at GTC Berlin 2026](https://dev.to/alifar/n8n-and-nvidia-nemoclaw-to-demonstrate-governed-ai-agent-actions-at-gtc-berlin-2026-30il)** —  Score:0
   `ai` `automation` `tools` `n8n`
-- **[I almost translated my product. The demand was 90.6% English, and most of it wasn't from English-speaking countries](https://dev.to/juanauriti/i-almost-translated-my-product-the-demand-was-906-english-and-most-of-it-wasnt-from-j8m)** —  Score:0
-  `i18n` `seo` `webdev` `ai`
 - **[I gave my AI agent one harmless permission. It became a backdoor for everyone.](https://dev.to/roee_hershko_bc6f44186f8e/i-gave-my-ai-agent-one-harmless-permission-it-became-a-backdoor-for-everyone-355d)** —  Score:0
   `ai` `security` `devops` `llm`
 - **[How DNS Actually Works: A Practical Guide for Engineers](https://dev.to/rakshyak/how-dns-actually-works-a-practical-guide-for-engineers-dd9)** —  Score:0
@@ -121,12 +125,8 @@
   `ai` `kubernetes` `devops` `sre`
 - **[Stop the Send When a Log Field Is Still Hot](https://dev.to/devrs_886/stop-the-send-when-a-log-field-is-still-hot-2031)** —  Score:0
   `security` `privacy` `python` `devops`
-- **[Stop AI Slop - The 22 patterns of AI code slop, and how to delete them](https://dev.to/kirankunapuli/the-22-patterns-of-ai-code-slop-and-how-to-delete-13de)** —  Score:0
-  `ai` `programming` `opensource` `productivity`
-- **[How Fast Can a 421M-Parameter Decision Model Run? I Benchmarked Laya Across NVIDIA GPUs](https://dev.to/cookies_c9dc8b91f33d29250/how-fast-can-a-421m-parameter-decision-model-run-i-benchmarked-laya-across-nvidia-gpus-2863)** —  Score:0
-  `machinelearning` `cuda` `performance` `opensource`
+- **[Keeping up with docs reviews: Building a tracker for Mautic's documentation PRs](https://dev.to/adiatiayu/keeping-up-with-docs-reviews-building-a-tracker-for-mautics-documentation-prs-10lm)** —  Score:0
+  `opensource` `documentation` `ai` `github`
 - **[How I Built and Published a Vue 3 Starter Kit CLI](https://dev.to/hdjerry/how-i-built-and-published-a-vue-3-starter-kit-cli-28gc)** —  Score:0
   `vue` `opensource` `frontend` `typescript`
-- **[MCP Nexus 1.0: the routing &amp; discovery layer for MCP tools](https://dev.to/dskdevai/mcp-nexus-10-the-routing-amp-discovery-layer-for-mcp-tools-16ed)** —  Score:0
-  `mcp` `typescript` `ai` `opensource`
 

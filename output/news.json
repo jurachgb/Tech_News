@@ -1,142 +1,142 @@
 ﻿[
   {
-    "DataNoticia": "2026-09-25T13:42:43.3197579Z",
-    "NumeroArtigos": 76,
+    "DataNoticia": "2026-09-25T13:58:24.5121878Z",
+    "NumeroArtigos": 81,
     "Artigo": [
       {
         "Titulo": "Dutch governments builds alternative for Microsoft based on NixOS",
         "Url": "https://www.dawo.community/en/",
         "Fonte": "Hacker News",
-        "Score": 540,
-        "Data": "2026-09-25T13:42:43.0576541Z",
+        "Score": 564,
+        "Data": "2026-09-25T13:58:23.7775601Z",
         "Tag": []
       },
       {
         "Titulo": "Platform-Independent SIMD in Go",
         "Url": "https://go.dev/blog/simd-experiment",
         "Fonte": "Hacker News",
-        "Score": 68,
-        "Data": "2026-09-25T13:42:43.0642419Z",
+        "Score": 77,
+        "Data": "2026-09-25T13:58:23.8105275Z",
         "Tag": []
       },
       {
         "Titulo": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
         "Url": "https://github.com/git-bug/git-bug",
         "Fonte": "Hacker News",
-        "Score": 64,
-        "Data": "2026-09-25T13:42:43.0679019Z",
+        "Score": 76,
+        "Data": "2026-09-25T13:58:23.8456535Z",
         "Tag": []
       },
       {
         "Titulo": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
         "Url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
         "Fonte": "Hacker News",
-        "Score": 135,
-        "Data": "2026-09-25T13:42:43.0601973Z",
+        "Score": 141,
+        "Data": "2026-09-25T13:58:23.9004Z",
         "Tag": []
       },
       {
         "Titulo": "Ink and Switch Interactive Homepage",
         "Url": "https://www.inkandswitch.com/",
         "Fonte": "Hacker News",
-        "Score": 81,
-        "Data": "2026-09-25T13:42:43.0603929Z",
+        "Score": 89,
+        "Data": "2026-09-25T13:58:23.9003283Z",
         "Tag": []
       },
       {
         "Titulo": "Topcoat is pushing the boundary of server applications with Rust",
         "Url": "https://tokio.rs/blog/2026-09-24-topcoat-server-applications",
         "Fonte": "Hacker News",
-        "Score": 42,
-        "Data": "2026-09-25T13:42:43.063668Z",
+        "Score": 49,
+        "Data": "2026-09-25T13:58:23.9018583Z",
         "Tag": []
       },
       {
         "Titulo": "F-Droid 2.0",
         "Url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
         "Fonte": "Hacker News",
-        "Score": 1322,
-        "Data": "2026-09-25T13:42:43.0674847Z",
+        "Score": 1328,
+        "Data": "2026-09-25T13:58:23.9038277Z",
         "Tag": []
       },
       {
         "Titulo": "Nobody Asked for a Crab Chair",
         "Url": "https://newmobility.com/nobody-asked-for-a-crab-chair/",
         "Fonte": "Hacker News",
-        "Score": 9,
-        "Data": "2026-09-25T13:42:43.0639996Z",
+        "Score": 18,
+        "Data": "2026-09-25T13:58:23.864067Z",
         "Tag": []
       },
       {
         "Titulo": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
         "Url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
         "Fonte": "Hacker News",
-        "Score": 75,
-        "Data": "2026-09-25T13:42:43.0509118Z",
+        "Score": 77,
+        "Data": "2026-09-25T13:58:23.8987366Z",
         "Tag": []
       },
       {
         "Titulo": "Show HN: Make cursed fonts like Times New Bastard",
         "Url": "https://bastardica.mitpit.com",
         "Fonte": "Hacker News",
-        "Score": 761,
-        "Data": "2026-09-25T13:42:43.0631052Z",
+        "Score": 768,
+        "Data": "2026-09-25T13:58:23.9010188Z",
         "Tag": []
       },
       {
         "Titulo": "Boards of Casio",
         "Url": "https://www.ambionix.com/blog/boards-of-casio/",
         "Fonte": "Hacker News",
-        "Score": 22,
-        "Data": "2026-09-25T13:42:43.069884Z",
+        "Score": 24,
+        "Data": "2026-09-25T13:58:23.8877914Z",
         "Tag": []
       },
       {
         "Titulo": "Amiga Screens: A Primer",
         "Url": "https://www.datagubbe.se/amscr/",
         "Fonte": "Hacker News",
-        "Score": 38,
-        "Data": "2026-09-25T13:42:43.0699231Z",
+        "Score": 45,
+        "Data": "2026-09-25T13:58:23.9018057Z",
         "Tag": []
       },
       {
         "Titulo": "Special Projects (2016)",
         "Url": "https://openai.com/index/special-projects/",
         "Fonte": "Hacker News",
-        "Score": 41,
-        "Data": "2026-09-25T13:42:43.066155Z",
+        "Score": 42,
+        "Data": "2026-09-25T13:58:23.8317775Z",
         "Tag": []
       },
       {
         "Titulo": "Show HN: Whiteboard (YC W26) \u2013 An open-source IDE for thoughtful software design",
         "Url": "https://github.com/devdotfast/whiteboard",
         "Fonte": "Hacker News",
-        "Score": 343,
-        "Data": "2026-09-25T13:42:43.0644284Z",
+        "Score": 344,
+        "Data": "2026-09-25T13:58:23.8717649Z",
         "Tag": []
       },
       {
         "Titulo": "I\u0027m Tired of Being on the Network",
         "Url": "https://matduggan.com/im-tired-of-being-on-the-network/",
         "Fonte": "Hacker News",
-        "Score": 55,
-        "Data": "2026-09-25T13:42:43.0465474Z",
+        "Score": 72,
+        "Data": "2026-09-25T13:58:23.8691711Z",
         "Tag": []
       },
       {
         "Titulo": "Why is the liver so weirdly regenerative?",
         "Url": "https://dynomight.substack.com/p/liver",
         "Fonte": "Hacker News",
-        "Score": 461,
-        "Data": "2026-09-25T13:42:43.0623871Z",
+        "Score": 466,
+        "Data": "2026-09-25T13:58:23.8990349Z",
         "Tag": []
       },
       {
         "Titulo": "The Test",
         "Url": "https://tante.cc/2026/09/24/the-test/",
         "Fonte": "Hacker News",
-        "Score": 29,
-        "Data": "2026-09-25T13:42:43.066804Z",
+        "Score": 34,
+        "Data": "2026-09-25T13:58:23.901127Z",
         "Tag": []
       },
       {
@@ -144,95 +144,95 @@
         "Url": "https://github.com/bertaye/agentic-cuda-optimizer",
         "Fonte": "Hacker News",
         "Score": 23,
-        "Data": "2026-09-25T13:42:43.062204Z",
+        "Data": "2026-09-25T13:58:23.8450565Z",
         "Tag": []
       },
       {
         "Titulo": "2DWillNeverDie",
         "Url": "https://2dwillneverdie.com/",
         "Fonte": "Hacker News",
-        "Score": 272,
-        "Data": "2026-09-25T13:42:43.064252Z",
+        "Score": 273,
+        "Data": "2026-09-25T13:58:23.9005425Z",
         "Tag": []
       },
       {
         "Titulo": "The Mafia may be keeping fentanyl out of Italy",
         "Url": "https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy",
         "Fonte": "Hacker News",
-        "Score": 130,
-        "Data": "2026-09-25T13:42:43.0639818Z",
+        "Score": 132,
+        "Data": "2026-09-25T13:58:23.9007859Z",
         "Tag": []
       },
       {
         "Titulo": "Silicon Valley \u0027sex assault list\u0027 with \u0027over 100\u0027 names circulated",
         "Url": "https://nypost.com/2026/09/24/tech/silicon-valley-sex-assault-list-with-over-100-names-circulated-warning-female-tech-workers-of-predators-to-avoid/",
         "Fonte": "Hacker News",
-        "Score": 34,
-        "Data": "2026-09-25T13:42:43.0676759Z",
+        "Score": 51,
+        "Data": "2026-09-25T13:58:23.9035892Z",
         "Tag": []
       },
       {
         "Titulo": "Oracle on the hook to pay data centre investors even if site has no electricity",
         "Url": "https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016",
         "Fonte": "Hacker News",
-        "Score": 88,
-        "Data": "2026-09-25T13:42:43.0488551Z",
+        "Score": 93,
+        "Data": "2026-09-25T13:58:23.9033153Z",
         "Tag": []
       },
       {
         "Titulo": "Rails World 2026 Opening Keynote [video]",
         "Url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
         "Fonte": "Hacker News",
-        "Score": 366,
-        "Data": "2026-09-25T13:42:43.0583539Z",
+        "Score": 367,
+        "Data": "2026-09-25T13:58:23.9018646Z",
         "Tag": []
       },
       {
         "Titulo": "Fearless SIMD v1.0",
         "Url": "https://linebender.org/blog/fearless-simd-1-0/",
         "Fonte": "Hacker News",
-        "Score": 276,
-        "Data": "2026-09-25T13:42:43.0657893Z",
+        "Score": 277,
+        "Data": "2026-09-25T13:58:23.9007546Z",
         "Tag": []
       },
       {
         "Titulo": "Toyota is taking the Corolla electric",
         "Url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
         "Fonte": "Hacker News",
-        "Score": 368,
-        "Data": "2026-09-25T13:42:43.0693855Z",
+        "Score": 369,
+        "Data": "2026-09-25T13:58:23.8550215Z",
         "Tag": []
       },
       {
         "Titulo": "What About Rails?",
         "Url": "https://jardo.dev/what-about-rails",
         "Fonte": "Hacker News",
-        "Score": 131,
-        "Data": "2026-09-25T13:42:43.0596189Z",
+        "Score": 136,
+        "Data": "2026-09-25T13:58:23.9039355Z",
         "Tag": []
       },
       {
         "Titulo": "My weird new hobby: Wandering around Tokyo on Google Maps",
         "Url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
         "Fonte": "Hacker News",
-        "Score": 361,
-        "Data": "2026-09-25T13:42:43.0465478Z",
+        "Score": 362,
+        "Data": "2026-09-25T13:58:23.8361243Z",
         "Tag": []
       },
       {
         "Titulo": "Opus 5.5 is good at explainer videos",
         "Url": "https://launchvideo.io",
         "Fonte": "Hacker News",
-        "Score": 313,
-        "Data": "2026-09-25T13:42:43.0633326Z",
+        "Score": 316,
+        "Data": "2026-09-25T13:58:23.8876451Z",
         "Tag": []
       },
       {
         "Titulo": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
         "Url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
         "Fonte": "Hacker News",
-        "Score": 146,
-        "Data": "2026-09-25T13:42:43.0674931Z",
+        "Score": 147,
+        "Data": "2026-09-25T13:58:23.9033852Z",
         "Tag": []
       },
       {
@@ -248,7 +248,7 @@
         "Url": "https://dev.to/stevenkamwaza/stop-wiring-quill-by-hand-razorrichtext-for-aspnet-core-3p2h",
         "Fonte": "Dev.to",
         "Score": 5,
-        "Data": "2026-09-25T13:42:43.0014915Z",
+        "Data": "2026-09-25T13:58:23.7044706Z",
         "Tag": [
           "dotnet",
           "webdev",
@@ -261,7 +261,7 @@
         "Url": "https://dev.to/sunny56/your-ledger-is-losing-money-and-your-tests-will-never-tell-you-gbo",
         "Fonte": "Dev.to",
         "Score": 1,
-        "Data": "2026-09-25T13:42:43.0015355Z",
+        "Data": "2026-09-25T13:58:23.7046168Z",
         "Tag": [
           "dotnet",
           "csharp",
@@ -274,7 +274,7 @@
         "Url": "https://dev.to/lovelacecoding/sql-database-projects-and-ai-a-match-made-in-heaven-4pn2",
         "Fonte": "Dev.to",
         "Score": 1,
-        "Data": "2026-09-25T13:42:43.0015379Z",
+        "Data": "2026-09-25T13:58:23.7046211Z",
         "Tag": [
           "dotnet",
           "sql",
@@ -287,7 +287,7 @@
         "Url": "https://dev.to/rhuturaj_takle/exception-handling-in-aspnet-core-nc9",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-09-25T13:42:43.001543Z",
+        "Data": "2026-09-25T13:58:23.7046272Z",
         "Tag": [
           "csharp",
           "dotnet",
@@ -300,7 +300,7 @@
         "Url": "https://dev.to/nuvyantralabs_ccee/understanding-system-design-as-a-netmaui-engineer-n57",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-09-25T13:42:43.0015449Z",
+        "Data": "2026-09-25T13:58:23.7046441Z",
         "Tag": [
           "dotnet",
           "maui",
@@ -313,7 +313,7 @@
         "Url": "https://dev.to/nuvyantralabs_ccee/net-11-coreclr-and-google-plays-dex-optimization-what-net-maui-developers-need-to-know-443f",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-09-25T13:42:43.001547Z",
+        "Data": "2026-09-25T13:58:23.7046473Z",
         "Tag": [
           "android",
           "dotnet",
@@ -326,7 +326,7 @@
         "Url": "https://dev.to/antonmartyniuk/how-to-add-jwt-authentication-to-signalr-hubs-in-aspnet-core-5d03",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-09-25T13:42:43.0015494Z",
+        "Data": "2026-09-25T13:58:23.7046504Z",
         "Tag": [
           "programming",
           "dotnet",
@@ -339,7 +339,7 @@
         "Url": "https://dev.to/homolibere/the-n1-query-problem-why-your-linq-query-makes-1001-database-calls-18hg",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-09-25T13:42:43.0015559Z",
+        "Data": "2026-09-25T13:58:23.7046533Z",
         "Tag": [
           "csharp",
           "database",
@@ -352,7 +352,7 @@
         "Url": "https://dev.to/manoharij/blazor-fundamentals-making-the-task-tracker-interactive-2iha",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-09-25T13:42:43.0015578Z",
+        "Data": "2026-09-25T13:58:23.704656Z",
         "Tag": [
           "csharp",
           "dotnet",
@@ -365,7 +365,7 @@
         "Url": "https://dev.to/dhanagani_lakshmi_2487ad0/interface-for-testability-a-readers-pushback-made-me-reconsider-1ll4",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-09-25T13:42:43.0015598Z",
+        "Data": "2026-09-25T13:58:23.7046589Z",
         "Tag": [
           "unittest",
           "dotnet",
@@ -378,7 +378,7 @@
         "Url": "https://dev.to/juliocax/my-attempt-at-singing-along-to-whatevers-playing-4lo",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-09-25T13:42:43.1634633Z",
+        "Data": "2026-09-25T13:58:23.7192599Z",
         "Tag": [
           "opensource",
           "showdev",
@@ -391,7 +391,7 @@
         "Url": "https://dev.to/lukaswalter/building-the-net-ai-app-foundation-9m9",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-09-25T13:42:43.1634692Z",
+        "Data": "2026-09-25T13:58:23.7192685Z",
         "Tag": [
           "dotnet",
           "csharp",
@@ -403,7 +403,7 @@
         "Url": "https://dev.to/antonmartyniuk/getting-started-with-event-sourcing-in-net-with-marten-and-postgresql-2bpj",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-09-25T13:42:43.1634711Z",
+        "Data": "2026-09-25T13:58:23.7192714Z",
         "Tag": [
           "programming",
           "dotnet",
@@ -416,7 +416,7 @@
         "Url": "https://dev.to/himanshu_748/fineprint-an-agent-that-checks-your-hackathon-entry-against-the-rules-it-reads-5fpa",
         "Fonte": "Dev.to",
         "Score": 8,
-        "Data": "2026-09-25T13:42:43.2008953Z",
+        "Data": "2026-09-25T13:58:24.0085693Z",
         "Tag": [
           "devchallenge",
           "sanitychallenge",
@@ -429,7 +429,7 @@
         "Url": "https://dev.to/himanshu_748/inkshift-cross-out-a-table-keep-the-booking-344i",
         "Fonte": "Dev.to",
         "Score": 6,
-        "Data": "2026-09-25T13:42:43.2008979Z",
+        "Data": "2026-09-25T13:58:24.008578Z",
         "Tag": [
           "devchallenge",
           "sanitychallenge",
@@ -442,7 +442,7 @@
         "Url": "https://dev.to/debashish_ghosal/i-trusted-my-agent-demos-for-years-then-i-built-a-gate-that-says-no-4183",
         "Fonte": "Dev.to",
         "Score": 13,
-        "Data": "2026-09-25T13:42:43.2008998Z",
+        "Data": "2026-09-25T13:58:24.0085747Z",
         "Tag": [
           "ai",
           "llm",
@@ -455,7 +455,7 @@
         "Url": "https://dev.to/nathanspeich/what-the-ai-isnt-allowed-to-do-163d",
         "Fonte": "Dev.to",
         "Score": 3,
-        "Data": "2026-09-25T13:42:43.2009017Z",
+        "Data": "2026-09-25T13:58:24.0085814Z",
         "Tag": [
           "wordpress",
           "opensource",
@@ -468,7 +468,7 @@
         "Url": "https://dev.to/jaideepparashar/i-think-ai-is-making-coding-easier-and-learning-harder-5hjf",
         "Fonte": "Dev.to",
         "Score": 6,
-        "Data": "2026-09-25T13:42:43.2009068Z",
+        "Data": "2026-09-25T13:58:24.0085879Z",
         "Tag": [
           "ai",
           "webdev",
@@ -481,7 +481,7 @@
         "Url": "https://dev.to/yureki_lab/how-i-added-opentelemetry-tracing-to-47-services-with-claude-code-in-9-days-36ea",
         "Fonte": "Dev.to",
         "Score": 1,
-        "Data": "2026-09-25T13:42:43.2009134Z",
+        "Data": "2026-09-25T13:58:24.0085914Z",
         "Tag": [
           "ai",
           "claudecode",
@@ -494,7 +494,7 @@
         "Url": "https://dev.to/nikolas_dimitroulakis_d23/we-described-our-api-twice-once-for-humans-once-for-agents-4e4g",
         "Fonte": "Dev.to",
         "Score": 54,
-        "Data": "2026-09-25T13:42:43.2009152Z",
+        "Data": "2026-09-25T13:58:24.0085946Z",
         "Tag": [
           "ai",
           "api",
@@ -507,7 +507,7 @@
         "Url": "https://dev.to/alifar/n8n-and-nvidia-nemoclaw-to-demonstrate-governed-ai-agent-actions-at-gtc-berlin-2026-30il",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-09-25T13:42:43.200917Z",
+        "Data": "2026-09-25T13:58:24.0085979Z",
         "Tag": [
           "ai",
           "automation",
@@ -520,7 +520,7 @@
         "Url": "https://dev.to/naveen_alavilli/i-built-nabsun-an-open-source-ai-browser-that-works-in-your-real-tabs-1ea3",
         "Fonte": "Dev.to",
         "Score": 3,
-        "Data": "2026-09-25T13:42:43.2009188Z",
+        "Data": "2026-09-25T13:58:24.0086012Z",
         "Tag": [
           "opensource",
           "ai",
@@ -533,7 +533,7 @@
         "Url": "https://dev.to/azankhyder/a-stop-rule-that-trusts-one-score-is-worse-than-a-dumb-budget-428c",
         "Fonte": "Dev.to",
         "Score": 7,
-        "Data": "2026-09-25T13:42:43.2009205Z",
+        "Data": "2026-09-25T13:58:24.0086087Z",
         "Tag": [
           "ai",
           "agents",
@@ -545,8 +545,8 @@
         "Titulo": "Double Engine Failure: Back to the Hangar After Two Data Providers Changed Course",
         "Url": "https://dev.to/georgekobaidze/double-engine-failure-back-to-the-hangar-after-two-data-providers-changed-course-3o3",
         "Fonte": "Dev.to",
-        "Score": 7,
-        "Data": "2026-09-25T13:42:43.2379569Z",
+        "Score": 8,
+        "Data": "2026-09-25T13:58:24.2284671Z",
         "Tag": [
           "debugging",
           "showdev",
@@ -559,7 +559,7 @@
         "Url": "https://dev.to/remdore/copying-chromes-handshake-opened-18-doors-that-had-been-closed-5h75",
         "Fonte": "Dev.to",
         "Score": 6,
-        "Data": "2026-09-25T13:42:43.2379598Z",
+        "Data": "2026-09-25T13:58:24.2284759Z",
         "Tag": [
           "security",
           "networking",
@@ -572,7 +572,7 @@
         "Url": "https://dev.to/lagario/i-rebuilt-my-2018-agario-clone-around-real-orbital-physics-with-no-game-server-1e7d",
         "Fonte": "Dev.to",
         "Score": 2,
-        "Data": "2026-09-25T13:42:43.2379617Z",
+        "Data": "2026-09-25T13:58:24.228481Z",
         "Tag": [
           "showdev",
           "gamedev",
@@ -585,7 +585,7 @@
         "Url": "https://dev.to/remdore/what-a-server-knows-about-you-before-it-reads-a-single-header-hig",
         "Fonte": "Dev.to",
         "Score": 6,
-        "Data": "2026-09-25T13:42:43.237965Z",
+        "Data": "2026-09-25T13:58:24.22852Z",
         "Tag": [
           "security",
           "networking",
@@ -598,7 +598,7 @@
         "Url": "https://dev.to/adado_2e958757fa4dbf/i-built-a-free-ip-lookup-tool-with-vanilla-js-heres-what-i-learned-3h5j",
         "Fonte": "Dev.to",
         "Score": 1,
-        "Data": "2026-09-25T13:42:43.2379698Z",
+        "Data": "2026-09-25T13:58:24.2285446Z",
         "Tag": [
           "javascript",
           "showdev",
@@ -610,7 +610,7 @@
         "Url": "https://dev.to/janarthanan_soundararajan/why-i-built-a-code-native-visual-studio-for-my-developer-posts-9f0",
         "Fonte": "Dev.to",
         "Score": 2,
-        "Data": "2026-09-25T13:42:43.2379719Z",
+        "Data": "2026-09-25T13:58:24.2285382Z",
         "Tag": [
           "webdev",
           "javascript",
@@ -623,7 +623,7 @@
         "Url": "https://dev.to/0xstoic_bit/how-i-rewrote-synapse-shield-in-rust-achieving-sub-millisecond-kinematic-biometrics-15-398a",
         "Fonte": "Dev.to",
         "Score": 2,
-        "Data": "2026-09-25T13:42:43.2379738Z",
+        "Data": "2026-09-25T13:58:24.2285512Z",
         "Tag": [
           "rust",
           "python",
@@ -649,7 +649,7 @@
         "Url": "https://dev.to/alexgeorgiev17/kubernetes-137s-kyaml-output-closes-a-yaml-bug-that-still-deletes-data-on-apply-527a",
         "Fonte": "Dev.to",
         "Score": 6,
-        "Data": "2026-09-25T13:42:43.2763205Z",
+        "Data": "2026-09-25T13:58:24.24624Z",
         "Tag": [
           "kubernetes",
           "yaml",
@@ -662,7 +662,7 @@
         "Url": "https://dev.to/donbasi1io/day-2-the-art-of-forgetting-how-an-ai-survives-on-6gb-ram-before-it-dies-5a09",
         "Fonte": "Dev.to",
         "Score": 1,
-        "Data": "2026-09-25T13:42:43.2763232Z",
+        "Data": "2026-09-25T13:58:24.2462469Z",
         "Tag": [
           "ai",
           "selfhosted",
@@ -675,7 +675,7 @@
         "Url": "https://dev.to/roee_hershko_bc6f44186f8e/i-gave-my-ai-agent-one-harmless-permission-it-became-a-backdoor-for-everyone-355d",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-09-25T13:42:43.2763257Z",
+        "Data": "2026-09-25T13:58:24.2462528Z",
         "Tag": [
           "ai",
           "security",
@@ -688,7 +688,7 @@
         "Url": "https://dev.to/rupa_tiwari_dd308948d710f/mcp-observability-how-to-trace-every-tool-call-in-production-21cp",
         "Fonte": "Dev.to",
         "Score": 5,
-        "Data": "2026-09-25T13:42:43.2763275Z",
+        "Data": "2026-09-25T13:58:24.2462578Z",
         "Tag": [
           "ai",
           "devops",
@@ -701,7 +701,7 @@
         "Url": "https://dev.to/rakshyak/how-dns-actually-works-a-practical-guide-for-engineers-dd9",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-09-25T13:42:43.2763294Z",
+        "Data": "2026-09-25T13:58:24.2462624Z",
         "Tag": [
           "cloud",
           "devops",
@@ -714,7 +714,7 @@
         "Url": "https://dev.to/derekwang85/why-a-swarm-of-ai-agents-is-the-hardest-thing-this-series-has-tried-to-tame-38g9",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-09-25T13:42:43.2763313Z",
+        "Data": "2026-09-25T13:58:24.2462669Z",
         "Tag": [
           "ai",
           "programming",
@@ -727,7 +727,7 @@
         "Url": "https://dev.to/sayokbose91/your-first-ai-sre-i-gave-the-worst-hour-of-on-call-to-a-team-of-agents-and-they-diagnosed-the-2fd0",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-09-25T13:42:43.276337Z",
+        "Data": "2026-09-25T13:58:24.2462738Z",
         "Tag": [
           "ai",
           "kubernetes",
@@ -740,7 +740,7 @@
         "Url": "https://dev.to/devrs_886/stop-the-send-when-a-log-field-is-still-hot-2031",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-09-25T13:42:43.276339Z",
+        "Data": "2026-09-25T13:58:24.2462827Z",
         "Tag": [
           "security",
           "privacy",
@@ -753,7 +753,7 @@
         "Url": "https://dev.to/igwestarking/i-built-a-memory-allocator-for-microcontrollers-that-refuses-to-fragment-ege",
         "Fonte": "Dev.to",
         "Score": 1,
-        "Data": "2026-09-25T13:42:43.3189731Z",
+        "Data": "2026-09-25T13:58:24.5110057Z",
         "Tag": [
           "c",
           "github",
@@ -766,7 +766,7 @@
         "Url": "https://dev.to/zaydmulani09/i-built-a-tool-that-pulls-the-power-cord-on-your-program-thousands-of-times-3ejp",
         "Fonte": "Dev.to",
         "Score": 1,
-        "Data": "2026-09-25T13:42:43.3189792Z",
+        "Data": "2026-09-25T13:58:24.511011Z",
         "Tag": [
           "rust",
           "testing",
@@ -805,7 +805,7 @@
         "Url": "https://dev.to/hdjerry/how-i-built-and-published-a-vue-3-starter-kit-cli-28gc",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-09-25T13:42:43.3189852Z",
+        "Data": "2026-09-25T13:58:24.5110324Z",
         "Tag": [
           "vue",
           "opensource",
@@ -818,7 +818,7 @@
         "Url": "https://dev.to/kanamija/launching-lemonbeam-onboarding-guides-for-github-repos-that-you-can-verify-21j5",
         "Fonte": "Dev.to",
         "Score": 4,
-        "Data": "2026-09-25T13:42:43.318987Z",
+        "Data": "2026-09-25T13:58:24.5110233Z",
         "Tag": [
           "showdev",
           "opensource",
@@ -836,6 +836,66 @@
           "mcp",
           "typescript",
           "ai",
+          "opensource"
+        ]
+      },
+      {
+        "Titulo": "ASML says it sold \u0027absolutely nothing\u0027 in Europe in 2026",
+        "Url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
+        "Fonte": "Hacker News",
+        "Score": 6,
+        "Data": "2026-09-25T13:58:23.9004274Z",
+        "Tag": []
+      },
+      {
+        "Titulo": "Why should request state survive after the request is finished?",
+        "Url": "https://dev.to/hasanh47/why-should-request-state-survive-after-the-request-is-finished-1i99",
+        "Fonte": "Dev.to",
+        "Score": 1,
+        "Data": "2026-09-25T13:58:24.2286156Z",
+        "Tag": [
+          "typescript",
+          "backend",
+          "node",
+          "webdev"
+        ]
+      },
+      {
+        "Titulo": "What Protobuf descriptors don\u0027t tell you: building a generic mock generator",
+        "Url": "https://dev.to/pretaporter/what-protobuf-descriptors-dont-tell-you-building-a-generic-mock-generator-2a5d",
+        "Fonte": "Dev.to",
+        "Score": 1,
+        "Data": "2026-09-25T13:58:24.5109943Z",
+        "Tag": [
+          "protobuf",
+          "typescript",
+          "testing",
+          "opensource"
+        ]
+      },
+      {
+        "Titulo": "Keeping up with docs reviews: Building a tracker for Mautic\u0027s documentation PRs",
+        "Url": "https://dev.to/adiatiayu/keeping-up-with-docs-reviews-building-a-tracker-for-mautics-documentation-prs-10lm",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-09-25T13:58:24.511002Z",
+        "Tag": [
+          "opensource",
+          "documentation",
+          "ai",
+          "github"
+        ]
+      },
+      {
+        "Titulo": "Your Tests Pass. So Does the Wrong Code",
+        "Url": "https://dev.to/jay_stride/your-tests-pass-so-does-the-wrong-code-1eam",
+        "Fonte": "Dev.to",
+        "Score": 1,
+        "Data": "2026-09-25T13:58:24.511019Z",
+        "Tag": [
+          "testing",
+          "typescript",
+          "devtools",
           "opensource"
         ]
       }
