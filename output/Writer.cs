@@ -24,10 +24,21 @@ public static class ReportWriter
             }
             catch(JsonException)
             {
-                var reportAnterior=JsonSerializer.Deserialize<News>(texto);
-                if (reportAnterior is not null)
+                try
                 {
-                    reports.Add(reportAnterior);
+                    var reportAnterior=JsonSerializer.Deserialize<News>(texto);
+                    if (reportAnterior is not null)
+                    {
+                        reports.Add(reportAnterior);
+                    }
+                    }
+                catch(JsonException ex)
+                {
+                   
+                    Console.WriteLine($"[Output] Aviso: não foi possível ler {path} ({ex.Message}). " +
+                        "O arquivo existente será preservado em .bak e um novo histórico será iniciado.");
+                    var backupPath = $"{path}.bak-{DateTime.UtcNow:yyyyMMddHHmmss}";
+                    File.Copy(path, backupPath, overwrite: true);
                 }
             }
         }
