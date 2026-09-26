@@ -1,132 +1,117 @@
 ﻿# Tech News Report
 
-> Gerado em: 25/09/2026 14:21 UTC | Total: 76 artigos
+> Gerado em: 26/09/2026 13:34 UTC | Total: 68 artigos
 
 ## Hacker News
 
-- **[F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)** —  Score:1334
-- **[Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com)** —  Score:775
-- **[Dutch governments builds alternative for Microsoft based on NixOS](https://www.dawo.community/en/)** —  Score:609
-- **[Why is the liver so weirdly regenerative?](https://dynomight.substack.com/p/liver)** —  Score:468
-- **[Rails World 2026 Opening Keynote [video]](https://www.youtube.com/watch?v=vDjW_dRyKXY)** —  Score:374
-- **[Toyota is taking the Corolla electric](https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/)** —  Score:372
-- **[My weird new hobby: Wandering around Tokyo on Google Maps](https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/)** —  Score:363
-- **[Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)** —  Score:346
-- **[Opus 5.5 is good at explainer videos](https://launchvideo.io)** —  Score:321
-- **[Fearless SIMD v1.0](https://linebender.org/blog/fearless-simd-1-0/)** —  Score:279
-- **[2DWillNeverDie](https://2dwillneverdie.com/)** —  Score:277
-- **[Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini](https://nyaa.sh/reviews/mac-mini-m6-emulation)** —  Score:151
-- **[What About Rails?](https://jardo.dev/what-about-rails)** —  Score:150
-- **[Using LLMs to trace alchemical knowledge and decode 17th century letters](https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical)** —  Score:147
-- **[The Mafia may be keeping fentanyl out of Italy](https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy)** —  Score:137
-- **[Oracle on the hook to pay data centre investors even if site has no electricity](https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016)** —  Score:100
-- **[Ink and Switch Interactive Homepage](https://www.inkandswitch.com/)** —  Score:94
-- **[Git-bug: Distributed, offline-first bug tracker embedded in Git](https://github.com/git-bug/git-bug)** —  Score:92
-- **[Platform-Independent SIMD in Go](https://go.dev/blog/simd-experiment)** —  Score:86
-- **[I'm Tired of Being on the Network](https://matduggan.com/im-tired-of-being-on-the-network/)** —  Score:85
-- **[CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2](https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2)** —  Score:80
-- **[Topcoat is pushing the boundary of server applications with Rust](https://tokio.rs/blog/2026-09-24-topcoat-server-applications)** —  Score:64
-- **[Amiga Screens: A Primer](https://www.datagubbe.se/amscr/)** —  Score:47
-- **[Special Projects (2016)](https://openai.com/index/special-projects/)** —  Score:47
-- **[The Test](https://tante.cc/2026/09/24/the-test/)** —  Score:43
-- **[Boards of Casio](https://www.ambionix.com/blog/boards-of-casio/)** —  Score:29
-- **[ASML says it sold 'absolutely nothing' in Europe in 2026](https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand)** —  Score:28
-- **[Show HN: Agentic CUDA Kernel Optimizer](https://github.com/bertaye/agentic-cuda-optimizer)** —  Score:25
-- **[Nobody Asked for a Crab Chair](https://newmobility.com/nobody-asked-for-a-crab-chair/)** —  Score:22
-- **[Allow Carriers on Planes](https://www.jefftk.com/p/allow-carriers-on-planes)** —  Score:13
+- **[Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)** —  Score:549
+- **[Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)** —  Score:497
+- **[Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html)** —  Score:383
+- **[Jury finds Facebook liable for deceiving users in Cambridge Analytica case](https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/)** —  Score:287
+- **[Gravity seems holographic. What does that mean for reality?](https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/)** —  Score:225
+- **[What even is an OS now?](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/)** —  Score:221
+- **[Show HN: Jev Plays Pokémon Red](https://jev-pokemon.vercel.app/)** —  Score:216
+- **[Excel now supports multiple values in a single cell](https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395)** —  Score:209
+- **[Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/)** —  Score:208
+- **[We're gonna need a lot more mathematicians](https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/)** —  Score:190
+- **[Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story)** —  Score:116
+- **[A single function Jev-like wrapper for LLMs, including vision models](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html)** —  Score:100
+- **[One Month Without AI](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)** —  Score:98
+- **[Floci: Locally emulating any cloud service](https://floci.io)** —  Score:62
+- **[Is your Postgres migration safe or not safe?](https://safenotsafe.dev/)** —  Score:61
+- **[The Murky History of Soviet-Born Tetris](https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/)** —  Score:59
+- **[16GB iPod Nano 3G Upgrade](https://tuckerosman.com/projects/16gb-ipod-nano)** —  Score:58
+- **[HomelabFest will be in St. Louis in September 2027](https://www.homelabfest.org)** —  Score:54
+- **[Fourier Analysis: Drawing Llamas with Circles](https://adekau.github.io/posts/2020/llamas.html)** —  Score:52
+- **[Lab on a Contact Lens Can Measure Stress Through Serotonin](https://spectrum.ieee.org/serotonin-stress-smart-contact-lens)** —  Score:50
+- **[Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML](https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html)** —  Score:46
+- **[ASML currently sells no chipmaking machines in Europe, executive says](https://nltimes.nl/2026/09/22/asml-currently-sells-chipmaking-machines-europe-executive-says)** —  Score:43
+- **[The Copilot+ PC brand is dead](https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding)** —  Score:32
+- **[Scientists build most accurate atomic clock](https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html)** —  Score:29
+- **[CEO of Mistral: AI is software. It can be controlled](https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html)** —  Score:24
+- **[The far side of the Moon provides clues to a previous magnetic field](https://ethz.ch/en/news-and-events/eth-news/news/2026/09/the-far-side-of-the-moon-provides-clues-to-a-previous-magnetic-field.html)** —  Score:13
+- **[Understanding the Impact of LLM Watermarking on AI Agent Behavior](https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior)** —  Score:11
+- **[Calculating atmospheric drag on satellites for a Cubesat [pdf]](https://www.osti.gov/servlets/purl/1124870)** —  Score:10
+- **[Modern Object Pascal Introduction for Programmers – Castle Game Engine](https://castle-engine.io/modern_pascal)** —  Score:8
 
 ## Dev.to
 
-- **[Your API's newest users are agents...](https://dev.to/nikolas_dimitroulakis_d23/we-described-our-api-twice-once-for-humans-once-for-agents-4e4g)** —  Score:54
-  `ai` `api` `mcp` `webdev`
-- **[I Trusted My Agent Demos for Years. Then I Built a Gate That Says No.](https://dev.to/debashish_ghosal/i-trusted-my-agent-demos-for-years-then-i-built-a-gate-that-says-no-4183)** —  Score:13
-  `ai` `llm` `controlplane` `agents`
-- **[FinePrint: an agent that checks your hackathon entry against the rules it reads](https://dev.to/himanshu_748/fineprint-an-agent-that-checks-your-hackathon-entry-against-the-rules-it-reads-5fpa)** —  Score:8
-  `devchallenge` `sanitychallenge` `sanity` `ai`
-- **[Double Engine Failure: Back to the Hangar After Two Data Providers Changed Course](https://dev.to/georgekobaidze/double-engine-failure-back-to-the-hangar-after-two-data-providers-changed-course-3o3)** —  Score:8
-  `debugging` `showdev` `webdev` `node`
-- **[When should an agent stop?](https://dev.to/azankhyder/a-stop-rule-that-trusts-one-score-is-worse-than-a-dumb-budget-428c)** —  Score:7
-  `ai` `agents` `machinelearning` `research`
-- **[INKSHIFT: cross out a table, keep the booking](https://dev.to/himanshu_748/inkshift-cross-out-a-table-keep-the-booking-344i)** —  Score:6
-  `devchallenge` `sanitychallenge` `sanity` `ai`
-- **[I Think AI Is Making Coding Easier and Learning Harder](https://dev.to/jaideepparashar/i-think-ai-is-making-coding-easier-and-learning-harder-5hjf)** —  Score:6
-  `ai` `webdev` `devops` `beginners`
-- **[Copying Chrome's handshake opened 18 doors that had been closed](https://dev.to/remdore/copying-chromes-handshake-opened-18-doors-that-had-been-closed-5h75)** —  Score:6
-  `security` `networking` `python` `webdev`
-- **[What a server knows about you before it reads a single header](https://dev.to/remdore/what-a-server-knows-about-you-before-it-reads-a-single-header-hig)** —  Score:6
-  `security` `networking` `python` `webdev`
-- **[Kubernetes 1.37's kyaml output closes a YAML bug that still deletes data on apply](https://dev.to/alexgeorgiev17/kubernetes-137s-kyaml-output-closes-a-yaml-bug-that-still-deletes-data-on-apply-527a)** —  Score:6
-  `kubernetes` `yaml` `devops` `kubectl`
-- **[Stop Wiring Quill by Hand: RazorRichText for ASP.NET Core](https://dev.to/stevenkamwaza/stop-wiring-quill-by-hand-razorrichtext-for-aspnet-core-3p2h)** —  Score:5
-  `dotnet` `webdev` `csharp` `blazor`
-- **[MCP Observability: How to Trace Every Tool Call in Production](https://dev.to/rupa_tiwari_dd308948d710f/mcp-observability-how-to-trace-every-tool-call-in-production-21cp)** —  Score:5
-  `ai` `devops` `mcp` `monitoring`
-- **[Launching LemonBeam: Onboarding Guides for GitHub Repos That You Can Verify](https://dev.to/kanamija/launching-lemonbeam-onboarding-guides-for-github-repos-that-you-can-verify-21j5)** —  Score:4
-  `showdev` `opensource` `ai` `javascript`
-- **[What the AI isn't allowed to do](https://dev.to/nathanspeich/what-the-ai-isnt-allowed-to-do-163d)** —  Score:3
-  `wordpress` `opensource` `ai` `buildinpublic`
-- **[I Built Nabsun: An Open-Source AI Browser That Works in Your Real Tabs](https://dev.to/naveen_alavilli/i-built-nabsun-an-open-source-ai-browser-that-works-in-your-real-tabs-1ea3)** —  Score:3
-  `opensource` `ai` `agents` `llm`
-- **[I rebuilt my 2018 agar.io clone around real orbital physics, with no game server](https://dev.to/lagario/i-rebuilt-my-2018-agario-clone-around-real-orbital-physics-with-no-game-server-1e7d)** —  Score:2
-  `showdev` `gamedev` `webdev` `javascript`
-- **[Why I Built a Code-Native Visual Studio for My Developer Posts](https://dev.to/janarthanan_soundararajan/why-i-built-a-code-native-visual-studio-for-my-developer-posts-9f0)** —  Score:2
-  `webdev` `javascript` `opensource` `tailwindcss`
-- **[How I Rewrote Synapse Shield in Rust: Achieving Sub-Millisecond Kinematic Biometrics & 15 Multi-Platform Native Wheels with Maturin](https://dev.to/0xstoic_bit/how-i-rewrote-synapse-shield-in-rust-achieving-sub-millisecond-kinematic-biometrics-15-398a)** —  Score:2
-  `rust` `python` `security` `webdev`
-- **[Your ledger is losing money and your tests will never tell you](https://dev.to/sunny56/your-ledger-is-losing-money-and-your-tests-will-never-tell-you-gbo)** —  Score:1
-  `dotnet` `csharp` `architecture` `ai`
-- **[SQL Database Projects and AI: A Match Made in Heaven](https://dev.to/lovelacecoding/sql-database-projects-and-ai-a-match-made-in-heaven-4pn2)** —  Score:1
-  `dotnet` `sql` `ai` `beginners`
-- **[How I Added OpenTelemetry Tracing to 47 Services With Claude Code in 9 Days](https://dev.to/yureki_lab/how-i-added-opentelemetry-tracing-to-47-services-with-claude-code-in-9-days-36ea)** —  Score:1
-  `ai` `claudecode` `observability` `devops`
-- **[I Built a Free IP Lookup Tool with Vanilla JS — Here's What I Learned](https://dev.to/adado_2e958757fa4dbf/i-built-a-free-ip-lookup-tool-with-vanilla-js-heres-what-i-learned-3h5j)** —  Score:1
-  `javascript` `showdev` `webdev`
-- **[Day 2: The Art of Forgetting (How an AI Survives on 6GB RAM Before It Dies)](https://dev.to/donbasi1io/day-2-the-art-of-forgetting-how-an-ai-survives-on-6gb-ram-before-it-dies-5a09)** —  Score:1
-  `ai` `selfhosted` `linux` `devops`
+- **[If AI Writes the Code and AI Reviews the Code, What Exactly Is the Developer Verifying?](https://dev.to/robertadam987_/if-ai-writes-the-code-and-ai-reviews-the-code-what-exactly-is-the-developer-verifying-b5h)** —  Score:23
+  `ai` `programming` `productivity` `discuss`
+- **[Everyone's learning to prompt better. That's the wrong skill.](https://dev.to/infoinlet1/everyones-learning-to-prompt-better-thats-the-wrong-skill-544o)** —  Score:17
+  `ai` `career` `webdev` `discuss`
+- **[A Field Guide to AI Documentation: Model Cards, Eval Reports, Agent Cards, and More](https://dev.to/james_anderson_h/a-field-guide-to-ai-documentation-model-cards-eval-reports-agent-cards-and-more-5h0f)** —  Score:15
+  `ai` `documentation` `webdev` `agents`
+- **[I Built a Better Codex Pet Than OpenAI Did](https://dev.to/mikachu/i-built-a-better-codex-pet-than-openai-did-eib)** —  Score:14
+  `opensource` `python` `linux` `showdev`
+- **[Vibe Was Never the Problem: The Missing Half of Vibe Coding](https://dev.to/copyleftdev/vibe-was-never-the-problem-the-missing-half-of-vibe-coding-50mi)** —  Score:13
+  `ai` `vibecoding` `discuss` `programming`
+- **[Can Two Local AI Agents Build an App Without Me? I Gave Them 6 Rounds to Find Out](https://dev.to/mikachu/can-two-local-ai-agents-build-an-app-without-me-i-gave-them-6-rounds-to-find-out-ko1)** —  Score:9
+  `ai` `llm` `showdev` `python`
+- **[SHIPCHECK: An Autonomous ReAct Agent That Stops Cloud Outages Before They Happen](https://dev.to/rajan_mishra_a9f78ad216b4/shipcheck-an-autonomous-react-agent-that-stops-cloud-outages-before-they-happen-5ag1)** —  Score:7
+  `sanitychallenge` `devchallenge` `ai` `mcp`
+- **[getCurrentPosition() Doesn't Just Check — It Prompts](https://dev.to/parsajiravand/getcurrentposition-doesnt-just-check-it-prompts-52ap)** —  Score:5
+  `javascript` `webdev` `browser` `tutorial`
+- **[The Background Task That Waited 40 Seconds for 'Idle'](https://dev.to/parsajiravand/the-background-task-that-waited-40-seconds-for-idle-5736)** —  Score:5
+  `javascript` `webdev` `performance` `frontend`
+- **[localStorage Isn't Free — It's Blocking Your Main Thread](https://dev.to/parsajiravand/localstorage-isnt-free-its-blocking-your-main-thread-nmn)** —  Score:5
+  `javascript` `webdev` `performance` `tutorial`
+- **[JSON.stringify Is Quietly Deleting Your File Uploads](https://dev.to/parsajiravand/jsonstringify-is-quietly-deleting-your-file-uploads-55ka)** —  Score:5
+  `javascript` `webdev` `tutorial` `html`
+- **[Your AI Agent Will Follow a Stranger's Instructions. Here's How I Actually Test For It.](https://dev.to/rudratosh/your-ai-agent-will-follow-a-strangers-instructions-heres-how-i-actually-test-for-it-1lg0)** —  Score:5
+  `ai` `security` `python` `opensource`
+- **[Okay, I've been sitting on this post for a while and I'm finally writing it. 😄](https://dev.to/surajrb/okay-ive-been-sitting-on-this-post-for-a-while-and-im-finally-writing-it-437f)** —  Score:2
+  `ai` `python` `security` `opensource`
+- **[Your Tests Pass. So Does the Wrong Code](https://dev.to/jay_stride/your-tests-pass-so-does-the-wrong-code-1eam)** —  Score:2
+  `testing` `typescript` `devtools` `opensource`
+- **[The CancellationToken That Never Propagated: A Subtle ASP.NET Core Timeout Bug I Missed in Code Review](https://dev.to/developerimranahmed/the-cancellationtoken-that-never-propagated-a-subtle-aspnet-core-timeout-bug-i-missed-in-code-2k1d)** —  Score:1
+  `csharp` `debugging` `dotnet` `performance`
+- **[How I built deferred tool discovery for my desktop AI assistant (no embeddings needed)](https://dev.to/krish_verma_77e28d3fd63ca/how-i-built-deferred-tool-discovery-for-my-desktop-ai-assistant-no-embeddings-needed-1f57)** —  Score:1
+  `opensource` `ai` `showdev` `architecture`
+- **[I handed a tiny business to Claude Code agents on a cron schedule. Here's the architecture.](https://dev.to/nick_t_eac6be7ee8e88de2f3/i-handed-a-tiny-business-to-claude-code-agents-on-a-cron-schedule-heres-the-architecture-2615)** —  Score:1
+  `claude` `ai` `githubactions` `automation`
+- **[SaaS File Uploads: Make Selection, Errors, and Success Clear](https://dev.to/urielbitton/saas-file-uploads-make-selection-errors-and-success-clear-3i9m)** —  Score:1
+  `webdev` `a11y` `ux` `saas`
+- **[What a Cron Expression Actually Means (With Examples)](https://dev.to/pulkitgovrani/what-a-cron-expression-actually-means-with-examples-4kcl)** —  Score:1
+  `developer` `webdev` `programming` `tutorial`
 - **[What Protobuf descriptors don't tell you: building a generic mock generator](https://dev.to/pretaporter/what-protobuf-descriptors-dont-tell-you-building-a-generic-mock-generator-2a5d)** —  Score:1
   `protobuf` `typescript` `testing` `opensource`
-- **[I Built a Memory Allocator for Microcontrollers That Refuses to Fragment](https://dev.to/igwestarking/i-built-a-memory-allocator-for-microcontrollers-that-refuses-to-fragment-ege)** —  Score:1
-  `c` `github` `opensource` `programming`
-- **[I built a tool that pulls the power cord on your program (thousands of times)](https://dev.to/zaydmulani09/i-built-a-tool-that-pulls-the-power-cord-on-your-program-thousands-of-times-3ejp)** —  Score:1
-  `rust` `testing` `database` `opensource`
-- **[Your Tests Pass. So Does the Wrong Code](https://dev.to/jay_stride/your-tests-pass-so-does-the-wrong-code-1eam)** —  Score:1
-  `testing` `typescript` `devtools` `opensource`
-- **[Exception Handling in ASP.NET Core](https://dev.to/rhuturaj_takle/exception-handling-in-aspnet-core-nc9)** —  Score:0
+- **[Logging in .NET](https://dev.to/rhuturaj_takle/logging-in-net-jbh)** —  Score:0
   `csharp` `dotnet` `programming` `learning`
-- **[Understanding System Design as a .NET/MAUI Engineer](https://dev.to/nuvyantralabs_ccee/understanding-system-design-as-a-netmaui-engineer-n57)** —  Score:0
-  `dotnet` `maui` `systemdesign` `nuvyntralabs`
-- **[.NET 11, CoreCLR and Google Play’s DEX Optimization: What .NET MAUI Developers Need to Know](https://dev.to/nuvyantralabs_ccee/net-11-coreclr-and-google-plays-dex-optimization-what-net-maui-developers-need-to-know-443f)** —  Score:0
-  `android` `dotnet` `mobile` `performance`
-- **[How to Add JWT Authentication to SignalR Hubs in ASP.NET Core](https://dev.to/antonmartyniuk/how-to-add-jwt-authentication-to-signalr-hubs-in-aspnet-core-5d03)** —  Score:0
-  `programming` `dotnet` `csharp` `aspnetcore`
-- **[The N+1 Query Problem: Why Your LINQ Query Makes 1001 Database Calls](https://dev.to/homolibere/the-n1-query-problem-why-your-linq-query-makes-1001-database-calls-18hg)** —  Score:0
-  `csharp` `database` `dotnet` `performance`
-- **[Blazor Fundamentals: Making the Task Tracker Interactive](https://dev.to/manoharij/blazor-fundamentals-making-the-task-tracker-interactive-2iha)** —  Score:0
-  `csharp` `dotnet` `blazor` `webdev`
-- **[Interface for Testability? A Reader's Pushback Made Me Reconsider](https://dev.to/dhanagani_lakshmi_2487ad0/interface-for-testability-a-readers-pushback-made-me-reconsider-1ll4)** —  Score:0
-  `unittest` `dotnet` `csharp` `testing`
-- **[My attempt at singing along to whatever's playing](https://dev.to/juliocax/my-attempt-at-singing-along-to-whatevers-playing-4lo)** —  Score:0
-  `opensource` `showdev` `python` `csharp`
-- **[Building the .NET AI App Foundation](https://dev.to/lukaswalter/building-the-net-ai-app-foundation-9m9)** —  Score:0
-  `dotnet` `csharp` `ai`
-- **[Getting Started With Event Sourcing in .NET With Marten and PostgreSQL](https://dev.to/antonmartyniuk/getting-started-with-event-sourcing-in-net-with-marten-and-postgresql-2bpj)** —  Score:0
-  `programming` `dotnet` `csharp` `postgres`
-- **[n8n and NVIDIA NemoClaw to Demonstrate Governed AI Agent Actions at GTC Berlin 2026](https://dev.to/alifar/n8n-and-nvidia-nemoclaw-to-demonstrate-governed-ai-agent-actions-at-gtc-berlin-2026-30il)** —  Score:0
-  `ai` `automation` `tools` `n8n`
-- **[I almost translated my product. The demand was 90.6% English, and most of it wasn't from English-speaking countries](https://dev.to/juanauriti/i-almost-translated-my-product-the-demand-was-906-english-and-most-of-it-wasnt-from-j8m)** —  Score:0
-  `i18n` `seo` `webdev` `ai`
-- **[I gave my AI agent one harmless permission. It became a backdoor for everyone.](https://dev.to/roee_hershko_bc6f44186f8e/i-gave-my-ai-agent-one-harmless-permission-it-became-a-backdoor-for-everyone-355d)** —  Score:0
-  `ai` `security` `devops` `llm`
-- **[How DNS Actually Works: A Practical Guide for Engineers](https://dev.to/rakshyak/how-dns-actually-works-a-practical-guide-for-engineers-dd9)** —  Score:0
-  `cloud` `devops` `infrastructure` `networking`
-- **[Why a swarm of AI agents is the hardest thing this series has tried to tame](https://dev.to/derekwang85/why-a-swarm-of-ai-agents-is-the-hardest-thing-this-series-has-tried-to-tame-38g9)** —  Score:0
-  `ai` `programming` `productivity` `devops`
-- **[Your first AI SRE: I gave the worst hour of on-call to a team of agents, and they diagnosed the incident, scored their own confidence, and opened the fix.](https://dev.to/sayokbose91/your-first-ai-sre-i-gave-the-worst-hour-of-on-call-to-a-team-of-agents-and-they-diagnosed-the-2fd0)** —  Score:0
-  `ai` `kubernetes` `devops` `sre`
-- **[Stop the Send When a Log Field Is Still Hot](https://dev.to/devrs_886/stop-the-send-when-a-log-field-is-still-hot-2031)** —  Score:0
-  `security` `privacy` `python` `devops`
-- **[Keeping up with docs reviews: Building a tracker for Mautic's documentation PRs](https://dev.to/adiatiayu/keeping-up-with-docs-reviews-building-a-tracker-for-mautics-documentation-prs-10lm)** —  Score:0
-  `opensource` `documentation` `ai` `github`
-- **[How I Built and Published a Vue 3 Starter Kit CLI](https://dev.to/hdjerry/how-i-built-and-published-a-vue-3-starter-kit-cli-28gc)** —  Score:0
-  `vue` `opensource` `frontend` `typescript`
+- **[The Pocket Retro: What a Companion App Really Costs](https://dev.to/rahulvyas777/the-pocket-retro-what-a-companion-app-really-costs-5ee9)** —  Score:0
+  `dotnet` `maui` `mobile` `ai`
+- **[MediatR vs. Wolverine: Architecture, Ergonomics, and Feature Matrix](https://dev.to/ondej_podhorny/mediatr-vs-wolverine-architecture-ergonomics-and-feature-matrix-7dm)** —  Score:0
+  `dotnet` `csharp`
+- **[Binding to the Parent DataContext from Inside a WPF DataTemplate](https://dev.to/s-iguchi09/binding-to-the-parent-datacontext-from-inside-a-wpf-datatemplate-5d69)** —  Score:0
+  `wpf` `dotnet` `csharp`
+- **[The Gap Between What the UI Shows and What the Database Actually Commits](https://dev.to/dhanagani_lakshmi_2487ad0/the-gap-between-what-the-ui-shows-and-what-the-database-actually-commits-klo)** —  Score:0
+  `dotnet` `database` `uidesign` `csharp`
+- **[Racing Background Jobs: The Distributed Lock Gap in ASP.NET Core](https://dev.to/developerimranahmed/racing-background-jobs-the-distributed-lock-gap-in-aspnet-core-5eie)** —  Score:0
+  `architecture` `backend` `dotnet`
+- **[Recognizing the Unit of Work Pattern in a Simple Multi-Step Save](https://dev.to/dhanagani_lakshmi_2487ad0/recognizing-the-unit-of-work-pattern-in-a-simple-multi-step-save-lm9)** —  Score:0
+  `dotnet` `database` `csharp` `designpatterns`
+- **[What Is C#, Really? Breaking Down the Definition](https://dev.to/devreml/what-is-c-really-breaking-down-the-definition-h3m)** —  Score:0
+  `dotnet` `csharp` `programming` `beginners`
+- **[SOLID Principles in C#: A Practical Guide with Real-World Examples and Design Patterns](https://dev.to/chethan_ramaswamy_773955e/solid-principles-in-c-a-practical-guide-with-real-world-examples-and-design-patterns-3lk)** —  Score:0
+  `csharp` `dotnet` `solid` `designpatterns`
+- **[C# ¿Qué me he perdido?](https://dev.to/baltasarq/c-que-me-he-perdido-lf7)** —  Score:0
+  `spanish` `csharp` `programming`
+- **[The Roadmap to Becoming a Top .NET Developer in Pakistan 🇵🇰](https://dev.to/najeebullah/the-roadmap-to-becoming-a-top-net-developer-in-pakistan-4ea1)** —  Score:0
+  `dotnet` `csharp` `pakistan` `career`
+- **[I switched my nine broken RimWorld mods back on to see if an agent could find them](https://dev.to/booyaka101/i-switched-my-nine-broken-rimworld-mods-back-on-to-see-if-an-agent-could-find-them-4o69)** —  Score:0
+  `devchallenge` `sanitychallenge` `sanity` `ai`
+- **[The Estian Tattler: a gossip rag for my RimWorld colony that has to cite the save file](https://dev.to/booyaka101/the-estian-tattler-a-gossip-rag-for-my-rimworld-colony-that-has-to-cite-the-save-file-g8b)** —  Score:0
+  `devchallenge` `sanitychallenge` `sanity` `ai`
+- **[Setting Up DNS for SaaS Emails](https://dev.to/djangotricks/setting-up-dns-for-saas-emails-gc4)** —  Score:0
+  `dns` `webdev` `sass` `web`
+- **[I built a PDF editor that can't see your files](https://dev.to/vyixor/i-built-a-pdf-editor-that-cant-see-your-files-3fc)** —  Score:0
+  `sharepoint` `privacy` `javascript` `webdev`
+- **[I checked a million free proxies. One in five of the working ones rewrote my pages.](https://dev.to/taventix/i-checked-a-million-free-proxies-one-in-five-of-the-working-ones-rewrote-my-pages-1no9)** —  Score:0
+  `python` `opensource` `security` `webscraping`
+- **[I gave an AI agent $0 and three iterations to make money. Here's what actually happened.](https://dev.to/moe110/i-gave-an-ai-agent-0-and-three-iterations-to-make-money-heres-what-actually-happened-k51)** —  Score:0
+  `ai` `programming` `opensource` `crypto`
+- **[My database is the referee: a fair exchange enforced by Supabase RLS](https://dev.to/peter_panzer_733381724c86/my-database-is-the-referee-a-fair-exchange-enforced-by-supabase-rls-4bcf)** —  Score:0
+  `supabase` `postgres` `security` `opensource`
+- **[Linux Device Manager — every bus, driver, and kernel event in one GTK4 tree](https://dev.to/albilu/linux-device-manager-every-bus-driver-and-kernel-event-in-one-gtk4-tree-49dn)** —  Score:0
+  `linux` `gtk` `showdev` `opensource`
 
