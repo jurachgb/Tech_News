@@ -27,6 +27,8 @@ var report = new News
 };
 
 await ReportWriter.WriteJsonAsync(report, "output/news.json");
+await Limpeza.GetData.GetDataAsyncJson();
 await ReportWriter.WriteMarkdownAsync(report, "output/news.md");
+Limpeza.GetData.GetDataAsyncMd();
 
 Console.WriteLine($"\n Concluído! {report.NumeroArtigos} artigos coletados.");
