@@ -72,52 +72,60 @@ public static class ReportWriter
 
     public static async Task WriteMarkdownAsync(News report, string path)
     {
-        string historico="NewsHistory";
+        string historico = "output/NewsHistory";
+
         if (!Directory.Exists(historico))
         {
             Directory.CreateDirectory(historico);
         }
-
-        if(File.Exists(path))
+        if (File.Exists(path))
         {
-            var dataAntiga=File.GetLastWriteTimeUtc(path).Date;
-            var dataAtual=DateTime.UtcNow.Date;
-            if(dataAtual>dataAntiga)
+            string nomeHistorico = Path.Combine(
+                historico,
+                $"noticia-{report.DataNoticia:dd-MM-yyyy}.md"
+            );
+            if (!File.Exists(nomeHistorico))
             {
-                string nomeHistorico=Path.Combine(historico, $"noticia-{dataAntiga:dd-MM-yyyy}.md");
-                if(!File.Exists(nomeHistorico))
-                {
-                    File.Move(path,nomeHistorico);
-                }
-                else
-                {
-                    File.Delete(path);
-                }
+                File.Copy(path, nomeHistorico);
+                Console.WriteLine($"[History] Relatório arquivado em: {nomeHistorico}");
             }
         }
-        
+
         var sb = new StringBuilder();
         sb.AppendLine("# Tech News Report");
         sb.AppendLine();
-        sb.AppendLine($"> Gerado em: {report.DataNoticia:dd/MM/yyyy HH:mm} UTC | Total: {report.NumeroArtigos} artigos");
+        sb.AppendLine(
+            $"> Gerado em: {report.DataNoticia:dd/MM/yyyy HH:mm} UTC | Total: {report.NumeroArtigos} artigos"
+        );
+
         sb.AppendLine();
-        
         foreach (var source in report.Artigo.GroupBy(a => a.Fonte))
         {
             sb.AppendLine($"## {source.Key}");
             sb.AppendLine();
             foreach (var article in source.OrderByDescending(a => a.Score))
             {
-                sb.AppendLine($"- **[{article.Titulo}]({article.Url})** —  Score:{article.Score}");
-
-                if (article.Tag!=null && article.Tag.Count > 0)
-                    sb.AppendLine($"  `{string.Join("` `", article.Tag.Take(4))}`");
+                sb.AppendLine(
+                    $"- **[{article.Titulo}]({article.Url})** — Score: {article.Score}"
+                );
+                if (article.Tag != null && article.Tag.Count > 0)
+                {
+                    sb.AppendLine(
+                        $"  `{string.Join("` `", article.Tag.Take(4))}`"
+                    );
+                }
             }
 
             sb.AppendLine();
         }
+        await File.WriteAllTextAsync(
+            path,
+            sb.ToString(),
+            Encoding.UTF8
+        );
 
-        await File.WriteAllTextAsync(path, sb.ToString(), Encoding.UTF8);
         Console.WriteLine($"[Output] Markdown salvo em: {path}");
     }
+
 }
+
