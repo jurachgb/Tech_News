@@ -1,7 +1,10 @@
+using System.Runtime.CompilerServices;
 using System.Runtime.Serialization;
 using System.Text;
 using System.Text.Json;
+using Microsoft.VisualBasic;
 using Models;
+using ClassCreator;
 
 
 namespace TechNewsScraper.Output;
@@ -114,6 +117,16 @@ public static class ReportWriter
                         $"  `{string.Join("` `", article.Tag.Take(4))}`"
                     );
                 }
+                else
+                {
+                    NewsClass.CreateTag(article);
+                    if(article.Tag.Count>0)
+                    {
+                        sb.AppendLine(
+                            $"  `{string.Join("` `", article.Tag.Take(4))}`"
+                        );
+                    }
+                }
             }
 
             sb.AppendLine();
@@ -128,4 +141,3 @@ public static class ReportWriter
     }
 
 }
-
