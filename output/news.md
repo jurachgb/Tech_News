@@ -1,58 +1,67 @@
 ﻿# Tech News Report
 
-> Gerado em: 30/09/2026 17:54 UTC | Total: 71 artigos
+> Gerado em: 30/09/2026 18:24 UTC | Total: 77 artigos
 
 ## Hacker News
 
-- **[Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)** — Score: 826
+- **[Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)** — Score: 834
   `ai`
-- **[America.gov](https://america.gov/)** — Score: 734
+- **[Dots: Always-on agents](https://openai.com/index/introducing-dots/)** — Score: 724
+  `ai`
+- **[You Said No MCP](https://earendil.com/posts/you-said-no-mcp/)** — Score: 492
   `Another`
-- **[Dots: Always-on agents](https://openai.com/index/introducing-dots/)** — Score: 717
-  `ai` `architecture` `backend`
-- **[You Said No MCP](https://earendil.com/posts/you-said-no-mcp/)** — Score: 474
-  `Another`
-- **[Show HN: Real-time Solar System with 526k asteroids and all tracked satellites](https://space.bl2.net/)** — Score: 353
-  `games` `frontend`
-- **[Vermont replacing power plants with home batteries](https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms)** — Score: 340
-  `cloud` `architecture`
-- **[Phyllotaxis: An audio-reactive LED display](https://jagi.studio/posts/phyllotaxis/)** — Score: 330
-  `frontend` `games` `opensource`
-- **[NASA asked several former SR-71A staffers to help secret restart](https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart)** — Score: 279
+- **[Show HN: Real-time Solar System with 526k asteroids and all tracked satellites](https://space.bl2.net/)** — Score: 357
+  `frontend` `games`
+- **[Vermont replacing power plants with home batteries](https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms)** — Score: 344
+  `cloud` `hardware`
+- **[NASA asked several former SR-71A staffers to help secret restart](https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart)** — Score: 283
   `Another`
 - **[U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)** — Score: 269
   `security`
-- **[Solving Factorio Quality](https://exyr.org/2026/solving-factorio-quality/)** — Score: 220
+- **[Solving Factorio Quality](https://exyr.org/2026/solving-factorio-quality/)** — Score: 224
   `games`
-- **[I Could've Accessed 17T Microsoft Records](https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records)** — Score: 127
+- **[I Could've Accessed 17T Microsoft Records](https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records)** — Score: 149
   `security` `microsoft`
-- **[Show HN: JBR-001 – An open-source 3D printable desktop robot](https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96)** — Score: 105
-  `robotics` `opensource` `games`
-- **[A brief history of the Bloomberg terminal](https://spectrum.ieee.org/bloomberg-terminal)** — Score: 93
+- **[A brief history of the Bloomberg terminal](https://spectrum.ieee.org/bloomberg-terminal)** — Score: 114
   `Another`
-- **[Mathematical Origami](https://mathigon.org/origami)** — Score: 86
+- **[Show HN: JBR-001 – An open-source 3D printable desktop robot](https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96)** — Score: 107
+  `robotics` `hardware` `opensource` `3d-printing`
+- **[Mathematical Origami](https://mathigon.org/origami)** — Score: 90
   `Another`
-- **[SDF vs. MSDF vs. Slug: GPU Text Rendering](https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/)** — Score: 79
-  `frontend` `performance` `games`
-- **[Show HN: Dental Scope – Interactive 3D dental anatomy](https://dental-scope.com/)** — Score: 77
-  `games` `architecture`
-- **[LinkedIn Larpmaxxing](https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/)** — Score: 53
-- **[The last time my family was replaced by technology](https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/)** — Score: 51
+- **[SDF vs. MSDF vs. Slug: GPU Text Rendering](https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/)** — Score: 85
+  `frontend` `performance`
+- **[Show HN: Dental Scope – Interactive 3D dental anatomy](https://dental-scope.com/)** — Score: 82
+  `frontend` `games` `architecture`
+- **[Show HN: A working 3D model of an Enigma machine](https://enigma.design)** — Score: 80
+  `c++` `games` `opensource`
+- **[The last time my family was replaced by technology](https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/)** — Score: 66
+- **[LinkedIn Larpmaxxing](https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/)** — Score: 63
   `Another`
-- **[Getting out of the way: my robotics crash course](https://thisismypersonalblog.com/posts/2026-09-25-getting-out-of-the-way/)** — Score: 38
-- **[Reverse-engineering a $35 backup camera display (AMT630A)](https://github.com/mogrinz/AMT630A)** — Score: 34
-  `reverse-engineering` `hardware` `debugging`
-- **[What TLA+ can and can't check](https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/)** — Score: 33
-- **[SDF Public Access Unix System ... est. 1987](https://sdf.org/)** — Score: 32
-- **[Burning Man Death Rates – A Short Lesson in Statistics](https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson)** — Score: 30
-- **[Show HN: Ledge.sh – Runnable Markdown Notes](https://ledge.sh)** — Score: 30
-- **[Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603)** — Score: 27
-- **[Commit Description as a Thinking Tool](https://yedhu.me/posts/commit-description-as-a-thinking-tool/)** — Score: 19
-- **[Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](https://github.com/magnitudedev/magnitude)** — Score: 14
-- **[Show HN: Parrot – Open-Source Smart Meeting Recorder with Co-Pilot on Mac](https://openparrot.app)** — Score: 6
-  `opensource` `ai` `mac` `hardware`
-- **[Show HN: Strata – an expressive semantic layer that can say no to your LLM](https://strata.do/try/)** — Score: 3
+- **[What TLA+ can and can't check](https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/)** — Score: 45
+- **[Getting out of the way: my robotics crash course](https://thisismypersonalblog.com/posts/2026-09-25-getting-out-of-the-way/)** — Score: 42
+  `robotics` `ai`
+- **[Commit Description as a Thinking Tool](https://yedhu.me/posts/commit-description-as-a-thinking-tool/)** — Score: 39
+  `Another`
+- **[Burning Man Death Rates – A Short Lesson in Statistics](https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson)** — Score: 39
+  `Another`
+- **[Reverse-engineering a $35 backup camera display (AMT630A)](https://github.com/mogrinz/AMT630A)** — Score: 38
+  `hardware` `debugging` `opensource`
+- **[Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](https://github.com/magnitudedev/magnitude)** — Score: 37
+  `ai` `backend` `performance`
+- **[SDF Public Access Unix System ... est. 1987](https://sdf.org/)** — Score: 36
+  `linux` `opensource`
+- **[Show HN: Ledge.sh – Runnable Markdown Notes](https://ledge.sh)** — Score: 33
+  `frontend` `opensource`
+- **[Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603)** — Score: 30
+  `Another`
+- **[The Ethernet spec was first drafted on this day in 1980](https://www.tomshardware.com/networking/the-ethernet-spec-was-first-drafted-on-this-day-in-1980-dec-intel-and-xerox-defined-the-standard-several-years-before-the-internet-existed)** — Score: 7
+  `Another`
+- **[Energy Timelines Photovoltaic](https://www.eia.gov/kids/history-of-energy/timelines/photovoltaic.php)** — Score: 4
+  `Another`
+- **[Show HN: Strata – an expressive semantic layer that can say no to your LLM](https://strata.do/try/)** — Score: 4
+  `ai` `opensource`
 - **[Bild AI (YC W25) Is Hiring a Founding Product Engineer](https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer)** — Score: 1
+  `ai` `opensource`
 
 ## Dev.to
 
@@ -78,6 +87,8 @@
   `opensource` `webdev` `programming` `productivity`
 - **[Vibe Was Never the Problem. But the Missing Half Starts Before the Build.](https://dev.to/maryam_zare_3fd580d8abbb1/vibe-was-never-the-problem-but-the-missing-half-starts-before-the-build-5m2)** — Score: 7
   `agents` `ai` `programming` `softwareengineering`
+- **[🛜 The Journey of Data Through a Wi-Fi 7 NIC](https://dev.to/annavi11arrea1/the-journey-of-data-through-a-wi-fi-7-nic-1982)** — Score: 7
+  `wifi7` `opensource` `learning` `html`
 - **[The Death of the Traditional Software Engineer? Meet the Forward Deployed Engineer (FDE)](https://dev.to/pavanbelagatti/the-death-of-the-traditional-software-engineer-meet-the-forward-deployed-engineer-fde-1fg9)** — Score: 6
   `ai` `developer` `software` `agents`
 - **[Coupon Calculator, A lightweight Flask app](https://dev.to/codebunny20/coupon-calculatora-lightweight-flask-app-3ojo)** — Score: 6
@@ -92,6 +103,8 @@
   `kubernetes` `devops` `showdev` `gamedev`
 - **[Ollama Connection Refused? The 60-Second Triage](https://dev.to/mrsaynothing/ollama-connection-refused-the-60-second-triage-21jp)** — Score: 5
   `ollama` `ai` `llm` `devops`
+- **[My OSS Projects: Electron.NET](https://dev.to/florianrappl/my-oss-projects-electronnet-2cgl)** — Score: 5
+  `dotnet` `electron` `csharp` `opensource`
 - **[I Did Recon on My Own Company , Using Only What We Published.](https://dev.to/dhruv_malaviya_cdcc71e595/i-did-recon-on-my-own-company-using-only-what-we-published-6cd)** — Score: 4
   `cybersecurity` `cloudsecurity` `devops` `security`
 - **[I couldn't find a good Google Trends MCP. So I just built one](https://dev.to/phalkmin/i-couldnt-find-a-good-google-trends-mcp-so-i-just-built-one-307g)** — Score: 2
@@ -110,6 +123,12 @@
   `vite` `vue` `webdev` `javascript`
 - **[CrowdStrike outage explained: 21 fields, 20 slots, 8.5M blue screens](https://dev.to/axrisi/crowdstrike-outage-explained-21-fields-20-slots-85m-blue-screens-3g53)** — Score: 1
   `security` `windows` `devops` `crowdstrike`
+- **[What Actually Happens Inside OverlayFS: How Docker Layers, Copy-Up, and Whiteouts Really Work](https://dev.to/syed_anzar/what-actually-happens-inside-overlayfs-how-docker-layers-copy-up-and-whiteouts-really-work-5558)** — Score: 1
+  `docker` `linux` `devops` `systems`
+- **[TinyJS App Studio — The GUI to wrap any website or JS project into a ~6 MB desktop app, no Electron, no Node, no bundled Chromium](https://dev.to/slabb/tinyjs-app-studio-the-gui-to-wrap-any-website-or-js-project-into-a-6-mb-desktop-app-no-1b1e)** — Score: 1
+  `javascript` `webdev` `opensource` `desktop`
+- **[I spent 6 months building a real operating system for web apps](https://dev.to/zohayr_slileh_6e6ee4a17c8/i-spent-6-months-building-a-real-operating-system-for-web-apps-179k)** — Score: 1
+  `ai` `productivity` `programming` `opensource`
 - **[Caching in .NET](https://dev.to/rhuturaj_takle/caching-in-net-2ph1)** — Score: 0
   `csharp` `dotnet` `programming` `learning`
 - **[Talking to a PLC from C#, Part 3: Safe Writes and a Clean Abstraction Layer](https://dev.to/mridulkrishna/talking-to-a-plc-from-c-part-3-safe-writes-and-a-clean-abstraction-layer-57nn)** — Score: 0
@@ -130,12 +149,14 @@
   `testing` `dotnet` `csharp` `mobile`
 - **[How to Model Relationships in NoSQL Databases](https://dev.to/antonmartyniuk/how-to-model-relationships-in-nosql-databases-3971)** — Score: 0
   `programming` `dotnet` `csharp` `mongodb`
-- **[What Actually Happens Inside OverlayFS: How Docker Layers, Copy-Up, and Whiteouts Really Work](https://dev.to/syed_anzar/what-actually-happens-inside-overlayfs-how-docker-layers-copy-up-and-whiteouts-really-work-5558)** — Score: 0
-  `docker` `linux` `devops` `systems`
 - **[Stop SSH-ing into 50 Servers: Why We Rewrote Our Python Infra Tool in Go (And Open-Sourced It)](https://dev.to/mexaniki_net_7b49b2456f90/stop-ssh-ing-into-50-servers-why-we-rewrote-our-python-infra-tool-in-go-and-open-sourced-it-159k)** — Score: 0
   `devops` `opensource` `security` `go`
-- **[The ALTER TABLE that looked free and rebuilt the whole table](https://dev.to/gregory_beauchamp_b462b4f/the-alter-table-that-looked-free-and-rebuilt-the-whole-table-23a6)** — Score: 0
-  `mysql` `aws` `database` `devops`
 - **[What Happens When an AI Agent Goes Through a Real Development Workflow?](https://dev.to/hieu_le/what-happens-when-an-ai-agent-goes-through-a-real-development-workflow-4ajl)** — Score: 0
   `ai` `softwareengineering` `productivity` `devops`
+- **[The ALTER TABLE that looked free and rebuilt the whole table](https://dev.to/gregory_beauchamp_b462b4f/the-alter-table-that-looked-free-and-rebuilt-the-whole-table-23a6)** — Score: 0
+  `mysql` `aws` `database` `devops`
+- **[Rust malware in arrayref: how a build.rs ran a payload at compile time](https://dev.to/axrisi/rust-malware-in-arrayref-how-a-buildrs-ran-a-payload-at-compile-time-e7f)** — Score: 0
+  `rust` `security` `opensource` `malware`
+- **[What I learned building a Twitch chat overlay](https://dev.to/fabianzimber/what-i-learned-building-a-twitch-chat-overlay-egl)** — Score: 0
+  `webdev` `typescript` `css` `opensource`
 
