@@ -119,7 +119,7 @@ public static class ReportWriter
                 }
                 else
                 {
-                    NewsClass.CreateTag(article);
+                     await NewsClass.Tag_AI(article);
                     if(article.Tag.Count>0)
                     {
                         sb.AppendLine(
