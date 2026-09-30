@@ -26,6 +26,8 @@ jobs:
 
       - name: Executar scraper
         run: dotnet run --project TechNewsScraper.csproj --configuration Release
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
       - name: Commitar resultados
         run: |
