@@ -9,6 +9,7 @@ public static class NewsClass
     public static async Task Tag_AI(Models.NewsArticle article)
     {
         if (article.Tag.Count > 0) return;
+        await Task.Delay(4000);
         List<string> tagsoption = new List<string>() {
         "ai", "c#","dotnet","c++", "javascript", "python", "java", "go", "rust", "typescript", "kotlin", "swift", "php", "devops", "security", "architecture", "mobile", "cloud", "games",
         "opensource","linux","backend","database","frontend","debugging","performance","debug","microsoft","tutorial","critical","robotics"
@@ -16,7 +17,7 @@ public static class NewsClass
         ;
         var apiKey = Environment.GetEnvironmentVariable("GEMINI_API_KEY");
         Console.WriteLine($"[Gemini] Key found: {!string.IsNullOrEmpty(apiKey)}");
-        Console.WriteLine($"[Gemini] Key starts with: {apiKey?.Substring(0, 6)}...");
+        
         var client = new HttpClient();
         var request = new
         {
@@ -35,7 +36,7 @@ public static class NewsClass
 
         };
         var response = await client.PostAsJsonAsync($"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent?key={apiKey}", request);
-        
+
         var result = await response.Content.ReadFromJsonAsync<JsonElement>();
         if (!response.IsSuccessStatusCode)
         {
