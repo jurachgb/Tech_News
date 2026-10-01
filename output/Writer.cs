@@ -52,8 +52,13 @@ public static class ReportWriter
         .GroupBy(a => a.Url)
         .Select(g => g.Last())
         .ToList();
+        
+        foreach(var article in artigosDeHoje)
+        {
+             await NewsClass.Tag_AI(article);
+        }
 
-    var relatoriosAntigos = reports
+        var relatoriosAntigos = reports
         .Where(r => r.DataNoticia.Date != hoje)
         .ToList();
 
@@ -119,7 +124,7 @@ public static class ReportWriter
                 }
                 else
                 {
-                     await NewsClass.Tag_AI(article);
+                    await NewsClass.Tag_AI(article);
                     if(article.Tag.Count>0)
                     {
                         sb.AppendLine(
