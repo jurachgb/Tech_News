@@ -1,6 +1,7 @@
 ﻿using Models;
 using TechNewsScraper.Output;
 using TechNewsScraper.Services;
+using Estatisticas;
 
 Console.WriteLine("Tech News Scraper iniciando...\n");
 
@@ -31,4 +32,18 @@ await Limpeza.GetData.GetDataAsyncJson();
 await ReportWriter.WriteMarkdownAsync(report, "output/news.md");
 Limpeza.GetData.GetDataAsyncMd();
 
+var resultado = Statistic.PrintStatistics("output/news.json");
+
+if (resultado.Count == 0)
+{
+    Console.WriteLine("Nenhuma tag encontrada.");
+}
+else
+{
+    Console.WriteLine("--- Contagem de Tags ---");
+    foreach (var (tag, quantidade) in resultado)
+    {
+        Console.WriteLine($"{tag}: {quantidade}");
+    }
+}
 Console.WriteLine($"\n Concluído! {report.NumeroArtigos} artigos coletados.");
