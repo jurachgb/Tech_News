@@ -12,6 +12,11 @@ A technology news scraper built in C# to gather relevant articles from popular s
   - `output/news.json`
   - `output/news.md`
 
+- Automatic tagging of articles using a generative model (Gemini) when tags are missing
+- Automatic archiving of Markdown reports to `output/NewsHistory`
+- Tag statistics generation utility available in `statistics/statistic.cs`
+- Automatic backup of the JSON file (`.bak-<timestamp>`) if the existing file cannot be parsed
+
 ## How it works
 
 The project uses `HttpClient` to call public APIs from the supported sources and organizes the data in shared models. After that, the program writes the collected results to files in the `output` folder.
@@ -20,6 +25,11 @@ The project uses `HttpClient` to call public APIs from the supported sources and
 
 - .NET 10 SDK
 - Internet connection
+
+### AI tagging
+
+- To enable automatic tagging, the application calls a generative model (Gemini). Set the environment variable `GEMINI_API_KEY` with your API key before running the program.
+- The code includes a short delay between AI requests to avoid hitting rate limits.
 
 ##  How to run
 
@@ -50,6 +60,13 @@ output/
 - The app sends a User-Agent for HTTP requests
 - Data collection is performed in parallel to improve speed
 - Items without a URL are ignored to avoid invalid entries
+
+- Statistics: there is a utility in `statistics/statistic.cs` exposing `Estatisticas.Statistic.PrintStatistics(string file)` which returns a dictionary of tag counts. Example usage in C#:
+
+```csharp
+var stats = Estatisticas.Statistic.PrintStatistics("output/news.json");
+foreach(var kv in stats) Console.WriteLine($"{kv.Key}: {kv.Value}");
+```
 
 ## Purpose
 
