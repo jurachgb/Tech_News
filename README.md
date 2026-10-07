@@ -29,7 +29,7 @@ O projeto usa `HttpClient` para consultar as APIs públicas das fontes e organiz
 ### Tagging por IA
 
 - Para gerar tags automaticamente, a aplicação usa a API generativa (Gemini). Defina a variável de ambiente `GEMINI_API_KEY` com sua chave antes de executar o programa.
-- Há uma pequena pausa entre requisições ao serviço de IA para respeitar limites de taxa.
+- Há uma pequena pausa entre requisições ao serviço de IA para respeitar limites do plano gratuito.
 
 ##  Como executar
 
