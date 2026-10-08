@@ -13901,5 +13901,630 @@
         ]
       }
     ]
+  },
+  {
+    "DataNoticia": "2026-10-08T16:02:17.9510515Z",
+    "NumeroArtigos": 54,
+    "Artigo": [
+      {
+        "Titulo": "Show HN: I\u0027ve been paying for a rural Tanzanian\u0027s education for 10 years",
+        "Url": "https://tanzaniaeducationproject.org/",
+        "Fonte": "Hacker News",
+        "Score": 173,
+        "Data": "2026-10-08T16:02:17.2670915Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "Beauty in DVD Menus",
+        "Url": "https://vale.rocks/posts/dvd-menus",
+        "Fonte": "Hacker News",
+        "Score": 116,
+        "Data": "2026-10-08T16:02:17.3222553Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "\u201CMath 2.0\u201D will need to value mathematical progress more holistically",
+        "Url": "https://mathstodon.xyz/@tao/117395269325940185",
+        "Fonte": "Hacker News",
+        "Score": 500,
+        "Data": "2026-10-08T16:02:17.3006706Z",
+        "Tag": [
+          "ai"
+        ]
+      },
+      {
+        "Titulo": "The Slow Formation of Durable Software",
+        "Url": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/",
+        "Fonte": "Hacker News",
+        "Score": 151,
+        "Data": "2026-10-08T16:02:17.3311076Z",
+        "Tag": [
+          "architecture"
+        ]
+      },
+      {
+        "Titulo": "New gTLD Application for .lan",
+        "Url": "https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary",
+        "Fonte": "Hacker News",
+        "Score": 9,
+        "Data": "2026-10-08T16:02:17.3265792Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "Telnet BBS Guide",
+        "Url": "https://www.telnetbbsguide.com/",
+        "Fonte": "Hacker News",
+        "Score": 61,
+        "Data": "2026-10-08T16:02:17.3360033Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+        "Url": "https://quesma.com/blog/invisible-cities-one-shot/",
+        "Fonte": "Hacker News",
+        "Score": 205,
+        "Data": "2026-10-08T16:02:17.3321221Z",
+        "Tag": [
+          "ai"
+        ]
+      },
+      {
+        "Titulo": "Archaeologists Are Reconstructing the \u0027Invisible\u0027 Technologies of the Stone Age",
+        "Url": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
+        "Fonte": "Hacker News",
+        "Score": 9,
+        "Data": "2026-10-08T16:02:17.2948553Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "Claude Haiku 5.5",
+        "Url": "https://www.anthropic.com/claude-haiku-5-5",
+        "Fonte": "Hacker News",
+        "Score": 984,
+        "Data": "2026-10-08T16:02:17.331092Z",
+        "Tag": [
+          "ai"
+        ]
+      },
+      {
+        "Titulo": "The 15-year search for a band that charted once and vanished",
+        "Url": "https://shahidhussain.com/writing/search-for-salvage/",
+        "Fonte": "Hacker News",
+        "Score": 279,
+        "Data": "2026-10-08T16:02:17.2956862Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "Time Travel in Braid (2015)",
+        "Url": "https://qntm.org/braid",
+        "Fonte": "Hacker News",
+        "Score": 58,
+        "Data": "2026-10-08T16:02:17.327911Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "Sub-1-Bit LLM Compression via Latent Factorization",
+        "Url": "https://github.com/SamsungLabs/LittleBit",
+        "Fonte": "Hacker News",
+        "Score": 12,
+        "Data": "2026-10-08T16:02:17.3280366Z",
+        "Tag": [
+          "ai",
+          "performance"
+        ]
+      },
+      {
+        "Titulo": "Living off-grid: Hundred Rabbits",
+        "Url": "https://100r.ca/site/home.html",
+        "Fonte": "Hacker News",
+        "Score": 321,
+        "Data": "2026-10-08T16:02:17.3236586Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "OpenAI Withdraws 3 Math Papers",
+        "Url": "https://github.com/openai/math/blob/main/history.md",
+        "Fonte": "Hacker News",
+        "Score": 319,
+        "Data": "2026-10-08T16:02:17.3016343Z",
+        "Tag": [
+          "ai"
+        ]
+      },
+      {
+        "Titulo": "Margaret Hamilton has died",
+        "Url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+        "Fonte": "Hacker News",
+        "Score": 1968,
+        "Data": "2026-10-08T16:02:17.2962328Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn\u0027t",
+        "Url": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
+        "Fonte": "Hacker News",
+        "Score": 264,
+        "Data": "2026-10-08T16:02:17.3364015Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "GPT\u20116 and Intelligent UI for everyone",
+        "Url": "https://openai.com/index/gpt-6-for-everyone/",
+        "Fonte": "Hacker News",
+        "Score": 717,
+        "Data": "2026-10-08T16:02:17.2948526Z",
+        "Tag": [
+          "ai"
+        ]
+      },
+      {
+        "Titulo": "US Suspends Visa Program for Tech Firms Including Microsoft",
+        "Url": "https://www.bloomberg.com/news/articles/2026-10-08/us-suspends-visa-program-for-tech-firms-including-microsoft",
+        "Fonte": "Hacker News",
+        "Score": 112,
+        "Data": "2026-10-08T16:02:17.3443332Z",
+        "Tag": [
+          "microsoft",
+          "security"
+        ]
+      },
+      {
+        "Titulo": "Orkut.com",
+        "Url": "https://orkut.com/",
+        "Fonte": "Hacker News",
+        "Score": 9,
+        "Data": "2026-10-08T16:02:17.299972Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "2027 Web Platform Feature Ranking",
+        "Url": "https://interop-rank.fxdx.dev/",
+        "Fonte": "Hacker News",
+        "Score": 20,
+        "Data": "2026-10-08T16:02:17.3053884Z",
+        "Tag": [
+          "frontend",
+          "javascript"
+        ]
+      },
+      {
+        "Titulo": "Float and integer arithmetic follow two different paradigms",
+        "Url": "https://blog.pkh.me/p/49-float-and-integer-arithmetic-follow-two-different-paradigms.html",
+        "Fonte": "Hacker News",
+        "Score": 25,
+        "Data": "2026-10-08T16:02:17.3271525Z",
+        "Tag": [
+          "architecture",
+          "performance"
+        ]
+      },
+      {
+        "Titulo": "\u0027Jonathan\u0027 is the oldest land animal on Earth",
+        "Url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
+        "Fonte": "Hacker News",
+        "Score": 221,
+        "Data": "2026-10-08T16:02:17.346819Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "Cleo (Mathematician)",
+        "Url": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
+        "Fonte": "Hacker News",
+        "Score": 224,
+        "Data": "2026-10-08T16:02:17.2952411Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "VECOS \u2013 A windows-like operating system for the Vectrex for the UVMC2 [video]",
+        "Url": "https://www.youtube.com/watch?v=9ranfp_vz30",
+        "Fonte": "Hacker News",
+        "Score": 36,
+        "Data": "2026-10-08T16:02:17.3279899Z",
+        "Tag": [
+          "operating system",
+          "games",
+          "opensource"
+        ]
+      },
+      {
+        "Titulo": "The Mathocalypse",
+        "Url": "https://scottaaronson.blog/?p=10169",
+        "Fonte": "Hacker News",
+        "Score": 331,
+        "Data": "2026-10-08T16:02:17.3490143Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "\u0027The eels were climbing out of the water to die\u0027",
+        "Url": "https://www.theguardian.com/environment/2026/sep/24/furnace-book-east-sussex-fishing-lake",
+        "Fonte": "Hacker News",
+        "Score": 77,
+        "Data": "2026-10-08T16:02:17.3371336Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "Anne Carson wins Nobel Prize in literature 2026",
+        "Url": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
+        "Fonte": "Hacker News",
+        "Score": 101,
+        "Data": "2026-10-08T16:02:17.337818Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "Show HN: Bigwords.page \u2013 Turn any screen into a sign. The URL is the app",
+        "Url": "https://bigwords.page/",
+        "Fonte": "Hacker News",
+        "Score": 616,
+        "Data": "2026-10-08T16:02:17.3316536Z",
+        "Tag": [
+          "frontend"
+        ]
+      },
+      {
+        "Titulo": "Dat-ecosystem: high level applications built on top of P2P protocols",
+        "Url": "https://dat-ecosystem.org/",
+        "Fonte": "Hacker News",
+        "Score": 47,
+        "Data": "2026-10-08T16:02:17.3028682Z",
+        "Tag": [
+          "p2p",
+          "opensource",
+          "architecture"
+        ]
+      },
+      {
+        "Titulo": "In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",
+        "Url": "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html",
+        "Fonte": "Hacker News",
+        "Score": 144,
+        "Data": "2026-10-08T16:02:17.343536Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "Thirteen Runs, Thirteen Wrong Answers: What a Shared Counter Teaches About lock, Interlocked, and Parallel.For",
+        "Url": "https://dev.to/dhanagani_lakshmi_2487ad0/thirteen-runs-thirteen-wrong-answers-what-a-shared-counter-teaches-about-lock-interlocked-and-iol",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-10-08T16:02:17.3067505Z",
+        "Tag": [
+          "dotnet",
+          "csharp",
+          "concurrancy",
+          "performance"
+        ]
+      },
+      {
+        "Titulo": "I asked 63 models the same 76 questions, with and without web search",
+        "Url": "https://dev.to/disisnoturbusiness/i-asked-63-models-the-same-76-questions-with-and-without-web-search-45b1",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-10-08T16:02:17.306776Z",
+        "Tag": [
+          "ai",
+          "llm",
+          "dotnet",
+          "testing"
+        ]
+      },
+      {
+        "Titulo": "We Optimized Everything. Azure Was Still Freezing Our .NET API with Gen2 Pauses",
+        "Url": "https://dev.to/panky98/we-optimized-everything-azure-was-still-freezing-our-net-api-with-gen2-pauses-1187",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-10-08T16:02:17.3067779Z",
+        "Tag": [
+          "azure",
+          "dotnet",
+          "performance",
+          "csharp"
+        ]
+      },
+      {
+        "Titulo": "Fallback Models Are Not Transparent Replacements",
+        "Url": "https://dev.to/lukaswalter/fallback-models-are-not-transparent-replacements-197d",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-10-08T16:02:17.3067839Z",
+        "Tag": [
+          "dotnet",
+          "ai",
+          "llm",
+          "architecture"
+        ]
+      },
+      {
+        "Titulo": "Fixing HTTPS Certificates in .NET Dev Containers (The Right Way)",
+        "Url": "https://dev.to/abdulrahilsheikh/fixing-https-certificates-in-net-dev-containers-the-right-way-1nie",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-10-08T16:02:17.3067854Z",
+        "Tag": [
+          "devops",
+          "docker",
+          "dotnet",
+          "security"
+        ]
+      },
+      {
+        "Titulo": "I measured whether .NET Guid sorting is broken. It isn\u0027t.",
+        "Url": "https://dev.to/_4143d12ca219f32cb635/i-measured-whether-net-guid-sorting-is-broken-it-isnt-4o2",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-10-08T16:02:17.3067872Z",
+        "Tag": [
+          "dotnet",
+          "csharp",
+          "database",
+          "uuid"
+        ]
+      },
+      {
+        "Titulo": "Stop Hardcoding Your .NET Data Provider",
+        "Url": "https://dev.to/pengdows/stop-hardcoding-your-net-data-provider-4jmo",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-10-08T16:02:17.3067886Z",
+        "Tag": [
+          "dotnet",
+          "csharp",
+          "database",
+          "sql"
+        ]
+      },
+      {
+        "Titulo": "Pino y Serilog, medidos: el sink as\u00EDncrono es r\u00E1pido porque descarta l\u00EDneas",
+        "Url": "https://dev.to/jgomezdev/pino-y-serilog-medidos-el-sink-asincrono-es-rapido-porque-descarta-lineas-4flo",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-10-08T16:02:17.3067904Z",
+        "Tag": [
+          "observability",
+          "dotnet",
+          "node",
+          "performance"
+        ]
+      },
+      {
+        "Titulo": "EF Core N\u002B1 Query Problem",
+        "Url": "https://dev.to/jorgenhoc/ef-core-n1-query-problem-ji2",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-10-08T16:02:17.3067923Z",
+        "Tag": [
+          "dotnet",
+          "csharp",
+          "aspnet",
+          "netcore"
+        ]
+      },
+      {
+        "Titulo": "RazorConsole.Htop: a cross-platform, mouse-aware htop-style process manager with RazorConsole and .NET Native AOT",
+        "Url": "https://dev.to/littlelittlecloud/razorconsolehtop-a-cross-platform-mouse-aware-htop-style-process-manager-with-razorconsole-and-3a01",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-10-08T16:02:17.4719625Z",
+        "Tag": [
+          "tui",
+          "razorconsole",
+          "csharp"
+        ]
+      },
+      {
+        "Titulo": "I Finally Completed My Windows Software \u2014 Task Monitor v1.0.0",
+        "Url": "https://dev.to/abdulhaseebmari/i-finally-completed-my-windows-software-task-monitor-v100-2ni0",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-10-08T16:02:17.4719709Z",
+        "Tag": [
+          "csharp",
+          "windows",
+          "programming",
+          "softwaredevelopment"
+        ]
+      },
+      {
+        "Titulo": "Implementing \u0027You Can\u0027t\u0027 for AI Coding Agents",
+        "Url": "https://dev.to/loach2009/implementing-you-cant-for-ai-coding-agents-2d1a",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-10-08T16:02:17.471973Z",
+        "Tag": [
+          "ai",
+          "architecture",
+          "csharp",
+          "programming"
+        ]
+      },
+      {
+        "Titulo": "Seasoned developer advice",
+        "Url": "https://dev.to/karenpayneoregon/seasoned-developer-advice-52bh",
+        "Fonte": "Dev.to",
+        "Score": 1,
+        "Data": "2026-10-08T16:02:17.4719746Z",
+        "Tag": [
+          "csharp",
+          "dotnetcore",
+          "ai",
+          "productivity"
+        ]
+      },
+      {
+        "Titulo": "How to Publish a Unity Game on Itch.io: WebGL, ZIP \u0026 HTML5 Setup (Step-by-Step)",
+        "Url": "https://dev.to/abdulrahman_maslmany/how-to-publish-a-unity-game-on-itchio-webgl-zip-html5-setup-step-by-step-30m9",
+        "Fonte": "Dev.to",
+        "Score": 1,
+        "Data": "2026-10-08T16:02:17.4719762Z",
+        "Tag": [
+          "unity3d",
+          "gamedev",
+          "webgl",
+          "csharp"
+        ]
+      },
+      {
+        "Titulo": "To Retry or Not to Retry? That Is the Question.",
+        "Url": "https://dev.to/gramli/to-retry-or-not-to-retry-that-is-the-question-1j2l",
+        "Fonte": "Dev.to",
+        "Score": 37,
+        "Data": "2026-10-08T16:02:17.6415015Z",
+        "Tag": [
+          "devchallenge",
+          "kagglechallenge",
+          "ai",
+          "machinelearning"
+        ]
+      },
+      {
+        "Titulo": "What Agent Builders Can Borrow from OpenAI\u0027s Math Research",
+        "Url": "https://dev.to/p0rt/what-agent-builders-can-borrow-from-openais-math-research-53mn",
+        "Fonte": "Dev.to",
+        "Score": 6,
+        "Data": "2026-10-08T16:02:17.6415071Z",
+        "Tag": [
+          "openai",
+          "ai",
+          "testing",
+          "programming"
+        ]
+      },
+      {
+        "Titulo": "How Our Engineering Team Uses AI, Part II: Meat Proxies",
+        "Url": "https://dev.to/metalbear/how-our-engineering-team-uses-ai-part-ii-meat-proxies-148g",
+        "Fonte": "Dev.to",
+        "Score": 25,
+        "Data": "2026-10-08T16:02:17.6415099Z",
+        "Tag": [
+          "ai",
+          "engineering",
+          "productivity",
+          "programming"
+        ]
+      },
+      {
+        "Titulo": "Making cross-platform local AI easier with llamadart",
+        "Url": "https://dev.to/gde/making-cross-platform-local-ai-easier-with-llamadart-2l4k",
+        "Fonte": "Dev.to",
+        "Score": 8,
+        "Data": "2026-10-08T16:02:17.6415174Z",
+        "Tag": [
+          "dart",
+          "flutter",
+          "ai",
+          "tutorial"
+        ]
+      },
+      {
+        "Titulo": "Tendril: a garden assistant you barely have to open",
+        "Url": "https://dev.to/chanadev/tendril-a-garden-assistant-you-never-have-to-open-24d",
+        "Fonte": "Dev.to",
+        "Score": 14,
+        "Data": "2026-10-08T16:02:17.6415215Z",
+        "Tag": [
+          "devchallenge",
+          "hf26challenge",
+          "opensource",
+          "ai"
+        ]
+      },
+      {
+        "Titulo": "Obsidian \u002B Claude Code: The Shared Memory Stack I Actually Use",
+        "Url": "https://dev.to/numbpill3d/obsidian-claude-code-the-shared-memory-stack-i-actually-use-8m",
+        "Fonte": "Dev.to",
+        "Score": 5,
+        "Data": "2026-10-08T16:02:17.6415256Z",
+        "Tag": [
+          "ai",
+          "programming",
+          "productivity",
+          "tutorial"
+        ]
+      },
+      {
+        "Titulo": "Human-in-the-Loop",
+        "Url": "https://dev.to/rfornal/human-in-the-loop-5hga",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-10-08T16:02:17.6415286Z",
+        "Tag": [
+          "ai",
+          "programming",
+          "automation",
+          "llm"
+        ]
+      },
+      {
+        "Titulo": "I Turned 149k Messy Images into an Offline Recognition System",
+        "Url": "https://dev.to/michellebuchiokonicha/i-turned-149k-messy-images-into-an-offline-recognition-system-3cp3",
+        "Fonte": "Dev.to",
+        "Score": 10,
+        "Data": "2026-10-08T16:02:17.6415364Z",
+        "Tag": [
+          "ai",
+          "machinelearning",
+          "programming",
+          "data"
+        ]
+      },
+      {
+        "Titulo": "How to build an AI agent that reads 10-K Risk Factors",
+        "Url": "https://dev.to/valyuai/how-to-build-an-ai-agent-that-reads-10-k-risk-factors-4m36",
+        "Fonte": "Dev.to",
+        "Score": 7,
+        "Data": "2026-10-08T16:02:17.6415387Z",
+        "Tag": [
+          "ai",
+          "typescript",
+          "hacktoberfest",
+          "finance"
+        ]
+      },
+      {
+        "Titulo": "700 manuscripts, 48 hours, three withdrawals. The verifier won.",
+        "Url": "https://dev.to/slabb/700-manuscripts-48-hours-three-withdrawals-the-verifier-won-dhl",
+        "Fonte": "Dev.to",
+        "Score": 5,
+        "Data": "2026-10-08T16:02:17.6415409Z",
+        "Tag": [
+          "ai",
+          "mathematics",
+          "programming",
+          "security"
+        ]
+      }
+    ]
   }
 ]
