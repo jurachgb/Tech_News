@@ -1,156 +1,162 @@
 ﻿# Tech News Report
 
-> Gerado em: 21/10/2026 14:17 UTC | Total: 73 artigos
+> Gerado em: 22/10/2026 14:17 UTC | Total: 76 artigos
 
 ## Hacker News
 
-- **[Upcoming critical PHP security release (CVE-2026-109618 / -109619)](https://news-web.php.net/php.announce/509)** — Score: 1361
-  `php` `security` `critical`
-- **[eMudhra intermediate CA compromise](https://emudhra.we-have-a-problem.com/)** — Score: 1104
+- **[Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case](https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html)** — Score: 619
+  `Another`
+- **[Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/)** — Score: 561
+  `security` `python`
+- **[Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)** — Score: 529
   `security`
-- **[Show HN: SimCity, but with Permits](https://permit.petercai.com/)** — Score: 861
-  `games` `architecture`
-- **[Voxtral 3](https://mistral.ai/news/voxtral-3/)** — Score: 732
+- **[Claude Duet](https://claude.com/product/claude-duet)** — Score: 469
   `ai`
-- **[The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)** — Score: 489
-  `frontend`
-- **[Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)** — Score: 447
+- **[No more icons in every menu by default](https://blog.jim-nielsen.com/2026/icons-in-every-menu/)** — Score: 395
+  `Another`
+- **[PingCap TiDB Leaks](https://fulcrumsec.vg/pingcap/)** — Score: 389
+  `security` `database`
+- **[GitLab critical patch release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/)** — Score: 377
+  `devops` `security` `critical`
+- **[WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)** — Score: 361
+  `ai` `c++` `opensource`
+- **[Rust Style Guide](https://google.github.io/styleguide/rustguide.html)** — Score: 344
+  `rust`
+- **[Jailbreaking the Switch 2](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/)** — Score: 317
+  `security` `games`
+- **[CVE-2026-111943: Compromised Intermediate Certificate Authority](https://nvd.nist.gov/vuln/detail/cve-2026-111943)** — Score: 314
   `security`
-- **[Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu)** — Score: 366
-  `ai` `opensource` `python`
-- **[Muse exposes users' personal and business secrets when they share conversations](https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/)** — Score: 264
+- **[The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)** — Score: 254
+  `ai` `performance`
+- **[Tiny possum and glider thought extinct for 6000 years found in remote West Papua](https://www.bbc.com/news/articles/cp814l80pw2o)** — Score: 246
+  `Another`
+- **[OpenAI CLI](https://github.com/openai/openai-cli)** — Score: 181
+  `ai` `opensource`
+- **[Several Linux kernel vulnerabilities accidentally posted to public mailing list](https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities)** — Score: 138
+  `security` `linux`
+- **[Using LLM for confidence scoring is a bad idea](https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html)** — Score: 135
+  `ai`
+- **[What Is Gridifcation](https://musicalform.substack.com/p/what-is-gridifcation)** — Score: 127
+  `architecture`
+- **[Woman faces six years in prison over Cash App account she never opened](https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html)** — Score: 126
+  `Another`
+- **[Faster than earcut: triangulating 3.7M map polygons in 489 ms](https://globus.software/blog/2026/10/16/cutting-map-polygons/)** — Score: 118
+  `performance` `games` `architecture`
+- **[Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure](https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/)** — Score: 110
   `security`
-- **[The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/)** — Score: 237
+- **[What Is the Karakoram Anomaly?](https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real)** — Score: 60
   `Another`
-- **[Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)** — Score: 236
+- **[Startup taps underwater volcano as energy source in "proof point" test](https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/)** — Score: 58
+  `Another`
+- **[eMudhra to Exit Global SSL/TLS Certificate Business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)** — Score: 49
   `security`
-- **[Dutch National Cyber Security Center is Offline because it uses PHP](https://www.ncsc.nl/actueel)** — Score: 190
-  `security` `php`
-- **[Updated PHP version released to GitHub](https://github.com/php/php-src/releases/tag/php-8.2.35)** — Score: 187
-  `php` `opensource`
-- **[Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/)** — Score: 163
-  `c#` `dotnet`
-- **[PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out](https://www.php.net/index.php)** — Score: 144
-  `php`
-- **[Qwen3-Coder writes less secure code when told it's for a US persona](https://www.hirundo.io/blog/qwen3-coder-vulnerabilities)** — Score: 132
-  `ai` `security`
-- **[C# now beats Rust on WASM size](https://github.com/zion-sati/NetWasm)** — Score: 132
-  `c#` `dotnet` `performance`
-- **[In Hilbert space, all things are quantumly possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/)** — Score: 119
+- **[The Robot I Didn't Expect to Build](https://spectrum.ieee.org/agility-robotics-digit-5-redesign)** — Score: 40
+  `robotics`
+- **[Eigenmoon: linear algebra puzzles by moonlight](https://eigenmoon.vercel.app/)** — Score: 23
+  `games` `architecture`
+- **[Crystal 1.22.0 Is Released](https://crystal-lang.org/2026/10/12/1.22.0-released/)** — Score: 19
   `Another`
-- **[ZX Spectrum Next Laptop](https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2)** — Score: 112
-  `hardware`
-- **[Whatever Happened to Fire Escapes](https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes)** — Score: 102
+- **[The painter behind Manhattan’s Gilded Age interiors](https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/)** — Score: 16
   `Another`
-- **[The Decoherence Trap](https://maevyn.codes/decoherence)** — Score: 98
-  `Another`
-- **[Using Claude to reduce the attack surface of code](https://www.anthropic.com/research/attack-surface-reduction)** — Score: 98
-  `ai` `security`
-- **[Way to Play Super Mario 64: On Apple Vision Pro](https://www.pagetable.com/303)** — Score: 91
-  `mobile` `apple`
-- **[PHP2Shell: AI uncovers critical RCE in PHP](https://www.wiz.io/blog/php2shell-php-rce)** — Score: 42
-  `php` `security` `ai`
-- **[Most advice is right for the person giving it](https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/)** — Score: 39
-  `Another`
-- **[LayerFS: The filesystem for AI coding agents](https://layerfs.ai/)** — Score: 30
-  `ai` `architecture` `cloud`
-- **[OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/)** — Score: 27
-  `ai` `security` `php`
-- **[The Lucrative World of Literary Scams](https://www.thedial.world/articles/news/ai-book-scams)** — Score: 27
-  `Another`
-- **[A page looks innocent: the algorithms behind a typeset page](https://news.speedata.de/2026/10/18/anatomy-of-a-page/)** — Score: 7
-  `frontend` `architecture`
-- **[C++ futures part 1: The mental model](https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/)** — Score: 4
-  `c++` `architecture`
-- **[9 Mothers (YC P26) Is Hiring in Austin, TX](https://9mothers.com/careers)** — Score: 1
+- **[The Last Museum: Semantic search across 5.8M artworks from major museums](https://lastmuseum.com/)** — Score: 6
+  `ai` `architecture` `opensource`
+- **[SBD: We Have a Filesystem at Home](https://fly.io/blog/sprites-block-device/)** — Score: 3
   `Another`
 
 ## Dev.to
 
-- **[Building an Open-Source Support Tool That Turns Your Docs into Reusable Knowledge](https://dev.to/nathan_tarbert/your-team-has-answered-this-before-im-building-a-tool-that-remembers-5604)** — Score: 92
-  `ai` `webdev` `programming` `showdev`
-- **[2 Agent Skills Every Frontend Developer Should Try](https://dev.to/erikch/2-agent-skills-every-frontend-developer-should-try-16pl)** — Score: 20
-  `ai` `webdev` `frontend` `kiro`
-- **[What happens to your Redis data in Docker](https://dev.to/remdore/what-happens-to-your-redis-data-in-docker-5079)** — Score: 12
-  `redis` `docker` `devops` `database`
-- **[I Let an LLM Agent Search for Trading Strategies. A Simple Heuristic Beat It.](https://dev.to/pavel_kkkkazantsev/i-let-an-llm-agent-search-for-trading-strategies-a-simple-heuristic-beat-it-10k2)** — Score: 9
-  `python` `testing` `datascience` `ai`
-- **[Reverse Engineer Anything: The Open-Source Tool That Turns Any Binary Into a Readable Spec (And Why Big Tech Won’t Love It)](https://dev.to/om_shree_0709/reverse-engineer-anything-the-open-source-tool-that-turns-any-binary-into-a-readable-spec-and-why-kno)** — Score: 8
-  `ai` `discuss` `mcp` `opensource`
-- **[Who watches the watcher when the watcher is a file in the repo?](https://dev.to/slabb/who-watches-the-watcher-when-the-watcher-is-a-file-in-the-repo-31m8)** — Score: 8
-  `security` `ai` `agents` `devops`
-- **[Best Preview Environment Tools for Kubernetes](https://dev.to/metalbear/best-preview-environment-tools-for-kubernetes-4ilg)** — Score: 8
-  `kubernetes` `ai` `agents` `software`
-- **[Requests that fail after a Kubernetes rollout has finished](https://dev.to/remdore/requests-that-fail-after-a-kubernetes-rollout-has-finished-1db2)** — Score: 8
-  `kubernetes` `devops` `sre` `networking`
-- **[5 Best LLM Gateways](https://dev.to/therealmrmumba/5-best-llm-gateways-52kk)** — Score: 7
-  `ai` `programming` `productivity` `opensource`
-- **[In Ruby, Objects Don't Have Methods. How Method Lookup Actually Works.](https://dev.to/smtahosin/in-ruby-objects-dont-have-methods-how-method-lookup-actually-works-31g9)** — Score: 7
-  `ruby` `programming` `webdev` `oop`
-- **[Get Your Free got-a.page Subdomain: A Step-by-Step Guide](https://dev.to/dhanushnehru/get-your-free-got-apage-subdomain-a-step-by-step-guide-39il)** — Score: 7
-  `webdev` `opensource` `beginners` `tutorial`
-- **[Mistral's Timestral is #1 by 0.003 MASE. I ran it — the model was not the variable.](https://dev.to/slabb/mistrals-timestral-is-1-by-0003-mase-i-ran-it-the-model-was-not-the-variable-1bf8)** — Score: 7
-  `ai` `python` `machinelearning` `opensource`
-- **[My OSS Projects: dets](https://dev.to/florianrappl/my-oss-projects-dets-1gjk)** — Score: 6
-  `opensource` `typescript` `javascript` `webdev`
-- **[A 9.2 unauthenticated RCE in PHP: the audit, the patch window, and the offline switch](https://dev.to/slabb/a-92-unauthenticated-rce-in-php-the-audit-the-patch-window-and-the-offline-switch-51l7)** — Score: 6
-  `security` `php` `webdev` `devops`
-- **[Kubernetes 1.35's kubelet refuses to start on a cgroup v1 host by default](https://dev.to/alexgeorgiev17/kubernetes-135s-kubelet-refuses-to-start-on-a-cgroup-v1-host-by-default-4o3h)** — Score: 6
-  `kubernetes` `devops` `containers` `linux`
-- **[Monitoring AI Quality: Evaluation Pipelines for Non-Deterministic Products](https://dev.to/isaque_silvachaves/monitoring-ai-quality-evaluation-pipelines-for-non-deterministic-products-355j)** — Score: 6
-  `ai` `llm` `testing` `devops`
-- **[Your CLAUDE.md Is Probably Too Long](https://dev.to/iggredible/your-claudemd-is-probably-too-long-17bi)** — Score: 4
-  `claudecode` `ai` `productivity` `programming`
-- **[Stuck in the same dev.to topics? An open model fixed it.](https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc)** — Score: 3
-  `devchallenge` `hf26challenge` `ai` `javascript`
-- **[I broke an Elementor site on purpose, then built a tool to find the bugs](https://dev.to/antonioprosperi2svg/i-broke-an-elementor-site-on-purpose-then-built-a-tool-to-find-the-bugs-44hn)** — Score: 2
-  `javascript` `css` `wordpress` `webdev`
-- **[Four small problems from shipping a local-first task app](https://dev.to/pixari/four-small-problems-from-shipping-a-local-first-task-app-3kpe)** — Score: 2
-  `opensource` `go` `react` `selfhosted`
-- **[Waymark: a local MCP server that lets Claude explore real NuGet packages and your C# code, safely](https://dev.to/prashant_patil_9e62d3fa8a/waymark-a-local-mcp-server-that-lets-claude-explore-real-nuget-packages-and-your-c-code-safely-6lh)** — Score: 1
-  `dotnet` `mcp` `ai` `opensource`
-- **[Your Platform Engineering Investment Is Not Paying Off. Here's Why.](https://dev.to/remojansen/your-platform-engineering-investment-is-not-paying-off-heres-why-b6l)** — Score: 1
-  `devex` `productivity` `platformengineering` `ai`
-- **[The control panel behind a 100-site AI hacking spree has no login. I ran one.](https://dev.to/slabb/the-control-panel-behind-a-100-site-ai-hacking-spree-has-no-login-i-ran-one-742)** — Score: 1
-  `ai` `security` `python` `devops`
-- **[Every test was green. Then I deployed it.](https://dev.to/rakno/every-test-was-green-then-i-deployed-it-33ea)** — Score: 1
-  `devops` `typescript` `testing` `showdev`
-- **[Your API Gateway Rate Limit Can't See the Agent Looping Your Search Tool](https://dev.to/haoli/your-api-gateway-rate-limit-cant-see-the-agent-looping-your-search-tool-5hgc)** — Score: 1
-  `python` `showdev` `opensource`
-- **[Building a Native Release Engineering Cockpit in Rust, GPUI, and Local AI](https://dev.to/masyoudi/building-a-native-release-engineering-cockpit-in-rust-and-gpui-1mh7)** — Score: 1
-  `hf26challenge` `rust` `ai` `opensource`
-- **[48 Bytes a Call I Kept Handing the Garbage Collector](https://dev.to/ssukhpinder/48-bytes-a-call-i-kept-handing-the-garbage-collector-3p8j)** — Score: 0
-  `csharp` `dotnet` `programming` `webdev`
-- **[40 Bytes a Call, Just to Pass Four Ints](https://dev.to/ssukhpinder/40-bytes-a-call-just-to-pass-four-ints-1n3h)** — Score: 0
-  `csharp` `dotnet` `programming` `webdev`
-- **[Put the Concurrency Gate Before the Side Effect](https://dev.to/ivan_rossouw_63dff0f4084e/put-the-concurrency-gate-before-the-side-effect-227)** — Score: 0
-  `architecture` `csharp` `efcore` `dotnet`
-- **[AI Production / MLOps](https://dev.to/rhuturaj_takle/ai-production-mlops-32nj)** — Score: 0
-  `dotnet` `ai` `programming` `learning`
-- **[How EasyEcs runs a 100k-entity server tick in 1.72 ms with 0 B allocated](https://dev.to/jasonxudeveloper/how-easyecs-runs-a-100k-entity-server-tick-in-172-ms-with-0-b-allocated-56j5)** — Score: 0
-  `dotnet` `csharp` `performance` `opensource`
-- **[Why I Built Coreaven to Connect .NET Coding Tasks with GitHub PRs](https://dev.to/oesmer/why-i-built-coreaven-to-connect-net-coding-tasks-with-github-prs-352m)** — Score: 0
-  `dotnet` `csharp` `showdev`
-- **[SQL Server INT to BIGINT Primary Key: Four Ways to Change It and What Each One Costs](https://dev.to/tbson87/sql-server-int-to-bigint-primary-key-four-ways-to-change-it-and-what-each-one-costs-df6)** — Score: 0
-  `sqlserver` `database` `sql` `dotnet`
-- **[100k particles in C# WebAssembly: ~0.1 ms for motion on an M4](https://dev.to/jasonxudeveloper/100k-particles-in-c-webassembly-01-ms-for-motion-on-an-m4-2ipc)** — Score: 0
-  `dotnet` `csharp` `performance` `showdev`
-- **[Printing a receipt with a logo and Georgian text from a .NET Windows service, without System.Drawing](https://dev.to/azeem_ullah/printing-a-receipt-with-a-logo-and-georgian-text-from-a-net-windows-service-without-systemdrawing-3b5h)** — Score: 0
-  `dotnet` `csharp` `printing` `tutorial`
-- **[Your Process.Start Code Can Deadlock. .NET 11 Has RunAndCaptureText](https://dev.to/iamprincejkc/your-processstart-code-can-deadlock-net-11-has-runandcapturetext-4i9n)** — Score: 0
-  `csharp` `dotnet` `programming` `softwaredevelopment`
-- **[Where Does the Cache Go? 5 Ordering Questions for an IEmbeddingGenerator Pipeline in .NET 10](https://dev.to/michael_maurice/where-does-the-cache-go-5-ordering-questions-for-an-iembeddinggenerator-pipeline-in-net-10-i78)** — Score: 0
-  `dotnet` `csharp` `ai` `performance`
-- **[Part 3: Composing the Message Where the Data Lives](https://dev.to/jeremy_tly/part-3-composing-the-message-where-the-data-lives-3n0d)** — Score: 0
-  `opensource` `dotnet` `programming` `csharp`
-- **[Experiments in Software Factories #1: Production app in 40 minutes](https://dev.to/kubeden/experiments-in-software-factories-1-production-app-in-40-minutes-1dp)** — Score: 0
-  `ai` `neon` `postgres` `webdev`
-- **[A Gemini 500 on a resume upload turned into a .docx bug, a frozen DigitalOcean droplet, a timed-out deploy, and a corrupted zip file. Here's every fix.](https://dev.to/highcenburg/a-gemini-500-on-a-resume-upload-turned-into-a-docx-bug-a-frozen-digitalocean-droplet-a-timed-out-3icc)** — Score: 0
-  `django` `python` `devops` `debugging`
-- **[The Two Hour Audit I Do Before Letting an Agent Touch Real Files](https://dev.to/galagent/the-two-hour-audit-i-do-before-letting-an-agent-touch-real-files-5bma)** — Score: 0
-  `ai` `programming` `productivity` `devops`
-- **[The AI didn't invent my client update. It promoted it.](https://dev.to/sankalpkotewar/the-ai-didnt-invent-my-client-update-it-promoted-it-eik)** — Score: 0
+- **[is-kit Reached 100 Stars ⭐🎉 Here’s What Changed Since 50](https://dev.to/nyaomaru/is-kit-reached-100-stars-heres-what-changed-since-50-49pf)** — Score: 88
+  `typescript` `opensource` `webdev` `frontend`
+- **[I Built slothd: A Local-First, Offline-Capable AI Daemon That Patiently Organizes Your Messy Workspace](https://dev.to/dj29/i-built-slothd-a-local-first-offline-capable-ai-daemon-that-patiently-organizes-your-messy-53e7)** — Score: 42
+  `devchallenge` `hf26challenge` `opensource` `gemma`
+- **[The Hidden Bugs Behind Duplicate API Requests](https://dev.to/hanzla/the-hidden-bugs-behind-duplicate-api-requests-1npb)** — Score: 41
+  `debugging` `webdev` `programming` `ai`
+- **[I Fixed WebGPU on Linux. Then Forgot How I Did It.](https://dev.to/sizzlebop/i-fixed-webgpu-on-linux-then-forgot-how-i-did-it-5hjd)** — Score: 32
+  `linux` `webdev` `ai` `devjournal`
+- **[Idempotency keys for AI agents: why hashing the arguments doesn't work](https://dev.to/anis_meziani_52aab42304a8/idempotency-keys-for-ai-agents-why-hashing-the-arguments-doesnt-work-cap)** — Score: 26
+  `ai` `agents` `python` `architecture`
+- **[AI Made Coding Cheaper. So Why Is Building Software Still So Expensive?](https://dev.to/harsh2644/ai-made-coding-cheaper-so-why-is-building-software-still-so-expensive-59m)** — Score: 23
+  `ai` `productivity` `career` `programming`
+- **[Don't Be a Proxy Between Me and Your AI](https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn)** — Score: 22
+  `ai` `discuss` `career` `programming`
+- **[Crowdwide Day 20: Almost Done… But There’s Always Something More! 😭](https://dev.to/puneetkumar2010/crowdwide-day-20-almost-done-but-theres-always-something-more-chf)** — Score: 18
+  `webdev` `buildinpublic` `opensource` `discuss`
+- **[SlothDesk — Local-First AI Downloads Organizer: Less sorting. More living.](https://dev.to/ani0811/slothdesk-local-first-ai-downloads-organizer-less-sorting-more-living-398)** — Score: 11
   `devchallenge` `hf26challenge` `ai` `opensource`
-- **[Every visa slot checker goes silent when the portal fights back. I built one that doesn't.](https://dev.to/haoli/every-visa-slot-checker-goes-silent-when-the-portal-fights-back-i-built-one-that-doesnt-4hje)** — Score: 0
-  `webdev` `javascript` `opensource` `productivity`
+- **[🛑 Why I Refuse to Give AI Root Access: Meet LazyLoop AI for Paranoid, Lazy Developers 🦥](https://dev.to/arnab825/lazyloop-ai-do-less-busywork-get-proof-not-promises-52ao)** — Score: 11
+  `devchallenge` `hf26challenge` `ai` `tutorial`
+- **[I Built an Agent Skill That Tests Your App Like Four First-Time Users](https://dev.to/bargan/i-built-an-agent-skill-that-tests-your-app-like-four-first-time-users-180d)** — Score: 11
+  `ai` `testing` `opensource` `webdev`
+- **[Docker Containers Aren't Virtual Machines: How Namespaces, cgroups, and OverlayFS Actually Work Under the Hood](https://dev.to/smtahosin/docker-containers-arent-virtual-machines-how-namespaces-cgroups-and-overlayfs-actually-work-4nkb)** — Score: 11
+  `docker` `devops` `linux` `architecture`
+- **[Seedance 2.5 Camera Control: Block Out AI Film Shots in Blender First](https://dev.to/glglgl/seedance-25-camera-control-block-out-ai-film-shots-in-blender-first-2i7f)** — Score: 10
+  `blender` `ai` `tutorial` `vfx`
+- **[SlothSRE (NapOps): An Overnight Gemma 4 & ADK Agent That Compresses 418 Lines of 3 AM Alerts into a 2-Line Morning Digest](https://dev.to/gde/slothsre-napops-an-overnight-gemma-4-adk-agent-that-compresses-418-lines-of-3-am-alerts-into-a-1pk6)** — Score: 9
+  `devchallenge` `hf26challenge` `gemma` `opensource`
+- **[Your retry loop is your most expensive feature](https://dev.to/tokenlat/your-retry-loop-is-your-most-expensive-feature-59dk)** — Score: 7
+  `ai` `machinelearning` `architecture` `llm`
+- **[Git 2.56's last-modified command is fast on one directory and slow on scattered files](https://dev.to/alexgeorgiev17/git-256s-last-modified-command-is-fast-on-one-directory-and-slow-on-scattered-files-2ggm)** — Score: 7
+  `git` `devops` `performance` `opensource`
+- **[One Dev, Four Specialists: My Agent Team for OpenCode 🧑‍💻](https://dev.to/playfulprogramming/one-dev-four-specialists-my-agent-team-for-opencode-5f31)** — Score: 6
+  `ai` `agents` `llm` `programming`
+- **[PHP2Shell, explained: the two critical PHP bugs every team needs to patch](https://dev.to/varshithvhegde/php2shell-explained-the-two-critical-php-bugs-every-team-needs-to-patch-4eph)** — Score: 6
+  `php` `security` `webdev` `programming`
+- **[I built Wait For It: tell an open Gemma what you're waiting for, it informs you without you needing to check in regularly](https://dev.to/miawab/i-built-wait-for-it-tell-an-open-gemma-what-youre-waiting-for-it-checks-rarely-and-it-got-35-of-jgg)** — Score: 6
+  `devchallenge` `hf26challenge` `gemma` `opensource`
+- **[A Service Catalog Nobody Updates Can Be Worse Than None: We Checked 217 Entries Against GitHub](https://dev.to/devopsdaily/a-service-catalog-nobody-updates-can-be-worse-than-none-we-checked-217-entries-against-github-1do7)** — Score: 5
+  `devops` `backstage` `servicecatalog` `platformengineering`
+- **[Building a Safe Windows Hardening Tool: ACL Backups and WOW64 Traps](https://dev.to/nissesec/building-a-safe-windows-hardening-tool-acl-backups-and-wow64-traps-6d2)** — Score: 3
+  `security` `windows` `systems` `csharp`
+- **[PHP Patched the Two Critical RCE Flaws: Versions, Risk by SAPI, and Stopgaps](https://dev.to/jamilxt/php-patched-the-two-critical-rce-flaws-versions-risk-by-sapi-and-stopgaps-3oc5)** — Score: 3
+  `php` `security` `devops` `cybersecurity`
+- **[ASP.NET Core Authentication Endpoints: Why I Built AuthEndpoints](https://dev.to/madeyoga/aspnet-core-authentication-endpoints-why-i-built-authendpoints-14fd)** — Score: 2
+  `dotnet` `aspnetcore` `authentication` `csharp`
+- **[Nothing Reported It](https://dev.to/kenwalger/nothing-reported-it-9ke)** — Score: 2
+  `ai` `testing` `programming` `devops`
+- **[Certificate authority keys: eMudhra's browser and runtime trust gap](https://dev.to/axrisi/certificate-authority-keys-emudhras-browser-and-runtime-trust-gap-4edc)** — Score: 2
+  `security` `devops` `python` `programming`
+- **[SelectPdf vs IronPDF in 2026, measured on Windows and Linux](https://dev.to/florentin_badea/selectpdf-vs-ironpdf-in-2026-measured-on-windows-and-linux-491i)** — Score: 1
+  `dotnet` `csharp` `pdf` `benchmark`
+- **[I Let an LLM Art-Direct Lyric Videos. Then I Took Most of the Job Away.](https://dev.to/dearest/i-let-an-llm-art-direct-lyric-videos-then-i-took-most-of-the-job-away-5a5n)** — Score: 1
+  `ai` `typescript` `webdev` `showdev`
+- **[php2shell: a request that fails halfway still leaves state behind](https://dev.to/_firelinks/php2shell-a-request-that-fails-halfway-still-leaves-state-behind-5877)** — Score: 1
+  `php` `security` `devops` `webdev`
+- **[One Game Engine, Three Word Games: How I Built the Krillion Family](https://dev.to/mudassir_hussain_f577f019/one-game-engine-three-word-games-how-i-built-the-krillion-family-553j)** — Score: 1
+  `webdev` `nextjs` `gamedev` `showdev`
+- **[Locking files in the browser with Web Crypto: PBKDF2, HKDF, and 1 MiB AES-GCM records](https://dev.to/kangchanghwan/locking-files-in-the-browser-with-web-crypto-pbkdf2-hkdf-and-1-mib-aes-gcm-records-4d50)** — Score: 1
+  `webdev` `javascript` `security` `showdev`
+- **[Concurrent users vs requests per second: the load test mistake that makes results look too good](https://dev.to/elvinaqalarov99/concurrent-users-vs-requests-per-second-the-load-test-mistake-that-makes-results-look-too-good-34ej)** — Score: 1
+  `performance` `webdev` `testing` `devops`
+- **[Hacktoberfest 2026: Help Build a Tamagotchi That Lives in VS Code](https://dev.to/johnfacey/hacktoberfest-2026-help-build-a-tamagotchi-that-lives-in-vs-code-4ij2)** — Score: 1
+  `hacktoberfest` `opensource` `vscode` `showdev`
+- **[Sloth Sort — a local Gemma 3 tidies my Downloads folder while I do nothing](https://dev.to/gabby_gill_23c85a86800564/sloth-sort-a-local-gemma-3-tidies-my-downloads-folder-while-i-do-nothing-980)** — Score: 0
+  `devchallenge` `hf26challenge` `dotnet` `opensource`
+- **[The VaryBy Line That Served Everyone Page 1](https://dev.to/ssukhpinder/the-varyby-line-that-served-everyone-page-1-10f3)** — Score: 0
+  `aspnetcore` `dotnet` `csharp` `webdev`
+- **[Advanced LLM Engineering](https://dev.to/rhuturaj_takle/advanced-llm-engineering-261d)** — Score: 0
+  `dotnet` `ai` `programming` `learning`
+- **[My 'Cached' Endpoint Ran the Handler Ten Times Anyway](https://dev.to/ssukhpinder/my-cached-endpoint-ran-the-handler-ten-times-anyway-1ph0)** — Score: 0
+  `aspnetcore` `dotnet` `csharp` `webdev`
+- **[ما الذي تدين به رسالة الفشل لقارئها؟](https://dev.to/najem/m-ldhy-tdyn-bh-rsl-lfshl-lqryh-5a5i)** — Score: 0
+  `testing` `opensource` `dotnet` `tdd`
+- **[What a Failure Message Owes Its Reader](https://dev.to/najem/what-a-failure-message-owes-its-reader-10p7)** — Score: 0
+  `testing` `opensource` `dotnet` `tdd`
+- **[Before the First Pixel Reaches the Model: 6 Questions for Image Input in .NET 10](https://dev.to/michael_maurice/before-the-first-pixel-reaches-the-model-6-questions-for-image-input-in-net-10-2ap0)** — Score: 0
+  `dotnet` `csharp` `ai` `computervision`
+- **[Task.Delay vs Thread.Sleep: 100 Waiting Tasks Took 1 Second or 5 Seconds](https://dev.to/dhanagani_lakshmi_2487ad0/taskdelay-vs-threadsleep-100-waiting-tasks-took-1-second-or-5-seconds-42a9)** — Score: 0
+  `dotnet` `csharp` `async` `performance`
+- **[An Empty Field Is Still Signed Data](https://dev.to/ivan_rossouw_63dff0f4084e/an-empty-field-is-still-signed-data-oop)** — Score: 0
+  `testing` `csharp` `security` `dotnet`
+- **[I didn't write this Excel formula engine. Here is why I trust it anyway](https://dev.to/ifmelate/i-didnt-write-this-excel-formula-engine-here-is-why-i-trust-it-anyway-9p3)** — Score: 0
+  `dotnet` `csharp` `opensource` `ai`
+- **[Part 4: One Intent, Many Channels and Providers](https://dev.to/jeremy_tly/part-4-one-intent-many-channels-and-providers-31g6)** — Score: 0
+  `dotnet` `opensource` `programming` `csharp`
+- **[DRY vs WET Code: When Repeating Yourself Is Actually Better](https://dev.to/omeiza_ahmed/dry-vs-wet-code-when-repeating-yourself-is-actually-better-3nim)** — Score: 0
+  `csharp` `programming` `softwaredevelopment` `softwareengineering`
+- **[The Cloudflare Outage That Never Triggered a Single Uptime Alert](https://dev.to/rbonweb/the-cloudflare-outage-that-never-triggered-a-single-uptime-alert-4hl8)** — Score: 0
+  `cloudflare` `devops` `webdev` `cloudcomputing`
+- **[Enterprise Software in 2026: From First Conversation to Production Ownership](https://dev.to/krlz/enterprise-software-in-2026-from-first-conversation-to-production-ownership-3h23)** — Score: 0
+  `softwareengineering` `architecture` `ai` `devops`
+- **[Apache Data Lakehouse Weekly: October 14-21, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-october-14-21-2026-4lbn)** — Score: 0
+  `bigdata` `data` `opensource`
 
