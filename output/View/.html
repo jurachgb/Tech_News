@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Tech News Statistics</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <h1>Most Used Tags (Last 30 Days)</h1>
+    <canvas id="chart" width="800" height="800"></canvas>
+    <script>
+        new Chart(document.getElementById('chart'), {
+            type: 'pie',
+            data: {
+                labels: ["ai","opensource","security","devops","dotnet","webdev","csharp","programming","Another","devchallenge","hf26challenge","productivity","discuss","linux","mobile"],
+                datasets: [{
+                    data: [25,22,14,12,12,12,10,10,8,7,7,5,4,3,3]
+                }]
+            }
+        });
+    </script>
+</body>
+</html>

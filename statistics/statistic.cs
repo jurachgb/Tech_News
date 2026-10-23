@@ -11,7 +11,7 @@ using Models;
 
 public static class Statistic
 {
-    public static string DefaultDbPath = Path.Combine("output", "news.db");
+    public static string DefaultDbPath = Path.Combine("output/View/", "news.db");
 
     public static void InitializeDatabase(string dbPath = "")
     {
@@ -103,7 +103,7 @@ public static class Statistic
     {
         if (!File.Exists(file))
         {
-            Console.WriteLine($"[Statistics] O arquivo '{file}' n„o existe.");
+            Console.WriteLine($"[Statistics] O arquivo '{file}' n√£o existe.");
             return new Dictionary<string, int>();
         }
 
