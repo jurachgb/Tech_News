@@ -1,73 +1,108 @@
 # TechNewsScraper
 
-A technology news scraper built in C# to gather relevant articles from popular sources such as Hacker News and Dev.to, then export them as JSON and Markdown files.
+A technology news and article scraper built with C#/.NET. The application queries Hacker News and Dev.to, removes duplicate articles, and generates local JSON, Markdown, and HTML reports.
 
 ## Features
 
-- Fetches the top stories from Hacker News
-- Fetches articles from Dev.to using tags such as .NET, C#, AI, webdev, and DevOps
-- Removes duplicate URLs
-- Sorts results by score
-- Generates reports in:
-  - `output/news.json`
-  - `output/news.md`
-
-- Automatic tagging of articles using a generative model (Gemini) when tags are missing
-- Automatic archiving of Markdown reports to `output/NewsHistory`
-- Tag statistics generation utility available in `statistics/statistic.cs`
-- Automatic backup of the JSON file (`.bak-<timestamp>`) if the existing file cannot be parsed
-
-## How it works
-
-The project uses `HttpClient` to call public APIs from the supported sources and organizes the data in shared models. After that, the program writes the collected results to files in the `output` folder.
+- Fetches the top 30 stories from Hacker News.
+- Fetches Dev.to articles using the `dotnet`, `csharp`, `ai`, `webdev`, `devops`, and `opensource` tags.
+- Runs the source queries in parallel.
+- Ignores items without a URL and removes duplicate URLs.
+- Sorts articles by score in the reports.
+- Automatically generates tags with Gemini when an article has no tags.
+- Keeps a daily archive of Markdown reports.
+- Stores tag counts in a SQLite database.
+- Generates an HTML chart with the 15 most-used tags.
+- Keeps only the last 30 days in the JSON history and Markdown archive.
+- Creates a `.bak-<timestamp>` backup when the existing JSON file cannot be parsed.
 
 ## Requirements
 
 - .NET 10 SDK
-- Internet connection
+- Internet access to query the Hacker News and Dev.to APIs
+- A Gemini API key if automatic tag generation is desired
 
-### AI tagging
+## AI configuration
 
-- To enable automatic tagging, the application calls a generative model (Gemini). Set the environment variable `GEMINI_API_KEY` with your API key before running the program.
-- The code includes a short delay between AI requests to avoid hitting rate limits.
+Set `GEMINI_API_KEY` in the environment before running the application:
 
-##  How to run
+### PowerShell
 
-From the project directory, execute:
+```powershell
+$env:GEMINI_API_KEY = "your-gemini-api-key"
+```
 
-```bash
+### Windows (persistent for the user)
+
+```powershell
+[Environment]::SetEnvironmentVariable("GEMINI_API_KEY", "your-gemini-api-key", "User")
+```
+
+If the variable is not defined, the application still collects articles, but Gemini tag-generation requests cannot be completed.
+
+## How to run
+
+Run the commands from the directory containing `TechNewsScraper.csproj`:
+
+```powershell
+dotnet restore
 dotnet run
 ```
 
-When the process finishes, the files will be created in:
+To run an optimized build:
+
+```powershell
+dotnet run --configuration Release
+```
+
+When the process finishes, it reports the number of collected articles in the terminal and saves the files in the `output/` folder.
+
+## Generated files
 
 ```text
 output/
-├── news.json
-└── news.md
+├── news.json                 # structured history for the last 30 days
+├── news.md                   # report from the current run
+├── NewsHistory/              # dated Markdown reports
+└── View/
+    ├── news.db               # SQLite database with tag counts
+    └── .html                 # chart of the 15 most-used tags
 ```
+
+The `output/View/.html` file can be opened directly in a browser. The chart uses Chart.js through a CDN and therefore requires internet access to load the library.
 
 ## Main structure
 
-- `Program.cs` — application entry point
-- `Services/HackerNews.cs` — Hacker News API integration
-- `Services/Dev-to.cs` — Dev.to API integration
-- `Output/Writer.cs` — JSON and Markdown report generation
-- `Models/Artigo.cs` — data models
+```text
+Program.cs                         # application entry point and execution flow
+Services/HackerNews.cs             # Hacker News API integration
+Services/Dev-to.cs                 # Dev.to API integration
+Models/                            # report and article models
+Writer/Writer.cs                   # JSON and Markdown report writing
+statistics/statistic.cs            # statistics persistence and reading
+statistics/HtmlCharts.cs           # HTML chart generation
+Clear.cs                           # cleanup of data older than 30 days
+```
 
-## Notes
+## Statistics
 
-- The app sends a User-Agent for HTTP requests
-- Data collection is performed in parallel to improve speed
-- Items without a URL are ignored to avoid invalid entries
-
-- Statistics: there is a utility in `statistics/statistic.cs` exposing `Estatisticas.Statistic.PrintStatistics(string file)` which returns a dictionary of tag counts. Example usage in C#:
+Tag counts are saved to `output/View/news.db` during execution. You can also obtain accumulated counts from a JSON file using `Statistic.PrintStatistics`:
 
 ```csharp
 var stats = Estatisticas.Statistic.PrintStatistics("output/news.json");
-foreach(var kv in stats) Console.WriteLine($"{kv.Key}: {kv.Value}");
+
+foreach (var (tag, count) in stats)
+{
+    Console.WriteLine($"{tag}: {count}");
+}
 ```
+
+## Data sources
+
+- [Hacker News API](https://github.com/HackerNews/API)
+- [Dev.to API](https://developers.forem.com/api)
+- [Google Gemini API](https://ai.google.dev/gemini-api/docs)
 
 ## Purpose
 
-This project aims to provide an automated summary of technical news and articles, making it easier to track trends and relevant content from the developer community.
+Make it easier to follow daily technical news and articles by collecting relevant community content into searchable reports and a visual summary of the most-used tags.

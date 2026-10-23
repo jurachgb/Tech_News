@@ -1,73 +1,108 @@
 # TechNewsScraper
 
-Coletor de notícias de tecnologia em C# para reunir artigos relevantes de fontes populares como Hacker News e Dev.to e exportá-los em arquivos JSON e Markdown.
+Coletor de notícias e artigos de tecnologia desenvolvido em C#/.NET. A aplicação consulta o Hacker News e o Dev.to, remove artigos duplicados e gera relatórios locais em JSON, Markdown e HTML.
 
 ## Funcionalidades
 
-- Busca as principais histórias do Hacker News
-- Busca artigos do Dev.to por tags como .NET, C#, IA, webdev e DevOps
-- Remove URLs duplicadas
-- Ordena os resultados por pontuação
-- Gera relatórios em:
-  - `output/news.json`
-  - `output/news.md`
-
-- Geração automática de tags para artigos usando um modelo generativo (Gemini) quando as tags não estão presentes
-- Arquivamento automático dos relatórios Markdown em `output/NewsHistory`
-- Geração de estatísticas de tags a partir do histórico (veja `statistics/statistic.cs`)
-- Backup automático do arquivo JSON existente (.bak-<timestamp>) caso o arquivo esteja corrompido
-
-## Como funciona
-
-O projeto usa `HttpClient` para consultar as APIs públicas das fontes e organiza os dados em modelos compartilhados. Em seguida, o programa grava os resultados em arquivos na pasta `output`.
+- Consulta as 30 principais histórias do Hacker News.
+- Consulta artigos do Dev.to pelas tags `dotnet`, `csharp`, `ai`, `webdev`, `devops` e `opensource`.
+- Executa as consultas às fontes em paralelo.
+- Ignora itens sem URL e remove URLs duplicadas.
+- Ordena os artigos por pontuação nos relatórios.
+- Gera tags automaticamente com o Gemini quando um artigo não possui tags.
+- Mantém um histórico diário dos relatórios Markdown.
+- Armazena a contagem de tags em um banco SQLite.
+- Gera um gráfico HTML com as 15 tags mais utilizadas.
+- Mantém somente os últimos 30 dias no histórico JSON e nos arquivos Markdown.
+- Cria um backup com sufixo `.bak-<timestamp>` quando o JSON existente não pode ser lido.
 
 ## Requisitos
 
 - .NET 10 SDK
-- Conexão com a internet
+- Acesso à internet para consultar as APIs do Hacker News e do Dev.to
+- Uma chave da API do Gemini caso a geração automática de tags seja desejada
 
-### Tagging por IA
+## Configuração da IA
 
-- Para gerar tags automaticamente, a aplicação usa a API generativa (Gemini). Defina a variável de ambiente `GEMINI_API_KEY` com sua chave antes de executar o programa.
-- Há uma pequena pausa entre requisições ao serviço de IA para respeitar limites do plano gratuito.
+Defina `GEMINI_API_KEY` no ambiente antes de executar a aplicação:
 
-##  Como executar
+### PowerShell
 
-No diretório do projeto, rode:
+```powershell
+$env:GEMINI_API_KEY = "sua-chave-do-gemini"
+```
 
-```bash
+### Windows (persistente para o usuário)
+
+```powershell
+[Environment]::SetEnvironmentVariable("GEMINI_API_KEY", "sua-chave-do-gemini", "User")
+```
+
+Se a variável não estiver definida, a aplicação ainda coleta os artigos, mas as requisições de geração de tags ao Gemini não poderão ser concluídas.
+
+## Como executar
+
+Execute os comandos na pasta que contém `TechNewsScraper.csproj`:
+
+```powershell
+dotnet restore
 dotnet run
 ```
 
-Ao final da execução, os arquivos serão criados em:
+Para gerar uma versão otimizada:
+
+```powershell
+dotnet run --configuration Release
+```
+
+Ao concluir, o programa informa no terminal a quantidade de artigos coletados e salva os arquivos na pasta `output/`.
+
+## Arquivos gerados
 
 ```text
 output/
-├── news.json
-└── news.md
+├── news.json                 # histórico estruturado dos últimos 30 dias
+├── news.md                   # relatório da execução atual
+├── NewsHistory/              # relatórios Markdown arquivados por data
+└── View/
+    ├── news.db               # banco SQLite com as contagens de tags
+    └── .html                  # gráfico das 15 tags mais utilizadas
 ```
+
+O arquivo `output/View/.html` pode ser aberto diretamente no navegador. O gráfico usa o Chart.js via CDN e, por isso, precisa de acesso à internet para carregar a biblioteca.
 
 ## Estrutura principal
 
-- `Program.cs` — fluxo principal da aplicação
-- `Services/HackerNews.cs` — integração com a API do Hacker News
-- `Services/Dev-to.cs` — integração com a API do Dev.to
-- `Output/Writer.cs` — geração dos relatórios em JSON e Markdown
-- `Models/Artigo.cs` — modelos de dados
+```text
+Program.cs                         # ponto de entrada e fluxo da execução
+Services/HackerNews.cs             # integração com a API do Hacker News
+Services/Dev-to.cs                 # integração com a API do Dev.to
+Models/                            # modelos dos relatórios e artigos
+Writer/Writer.cs                   # escrita dos relatórios JSON e Markdown
+statistics/statistic.cs            # persistência e leitura das estatísticas
+statistics/HtmlCharts.cs           # geração do gráfico HTML
+Clear.cs                           # limpeza de dados com mais de 30 dias
+```
 
-## Observações
+## Estatísticas
 
-- A aplicação usa um User-Agent para chamadas HTTP
-- A coleta é feita em paralelo para otimizar a velocidade
-- Itens sem URL são ignorados para evitar entradas inválidas
-
-- Estatísticas: existe um utilitário em `statistics/statistic.cs` que expõe `Estatisticas.Statistic.PrintStatistics(string file)` e retorna um dicionário de contagem de tags. Exemplo de uso em C#:
+As contagens de tags são gravadas em `output/View/news.db` durante a execução. Também é possível obter as contagens acumuladas a partir de um arquivo JSON usando `Statistic.PrintStatistics`:
 
 ```csharp
 var stats = Estatisticas.Statistic.PrintStatistics("output/news.json");
-foreach(var kv in stats) Console.WriteLine($"{kv.Key}: {kv.Value}");
+
+foreach (var (tag, quantidade) in stats)
+{
+    Console.WriteLine($"{tag}: {quantidade}");
+}
 ```
+
+## Fontes de dados
+
+- [Hacker News API](https://github.com/HackerNews/API)
+- [Dev.to API](https://developers.forem.com/api)
+- [Google Gemini API](https://ai.google.dev/gemini-api/docs)
 
 ## Objetivo
 
-O objetivo do projeto é montar um resumo automatizado de notícias e artigos técnicos para facilitar acompanhamento de tendências e conteúdos relevantes da comunidade.
+Facilitar o acompanhamento diário de notícias e artigos técnicos, reunindo conteúdos relevantes da comunidade em relatórios pesquisáveis e em um resumo visual das principais tags.
