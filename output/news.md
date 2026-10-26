@@ -1,168 +1,160 @@
 ﻿# Tech News Report
 
-> Gerado em: 25/10/2026 13:29 UTC | Total: 79 artigos
+> Gerado em: 26/10/2026 15:42 UTC | Total: 75 artigos
 
 ## Hacker News
 
-- **[Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)** — Score: 1615
+- **[Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)** — Score: 707
+  `ai`
+- **[Dolly Parton's Imagination Library](https://imaginationlibrary.com/)** — Score: 628
   `Another`
-- **[We should be more ambitious with the software we build](https://danluu.com/ambitious/)** — Score: 519
-  `architecture`
-- **[The Goose Programming Language](https://aardappel.github.io/goose/)** — Score: 459
+- **[Overgrown, when plants invade your abandoned tabs](https://charliegerard.dev/blog/overgrown-extension/)** — Score: 368
   `Another`
-- **[America has lost 200k of jobs in media, film and the arts. How much is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class)** — Score: 403
-  `ai` `cloud`
-- **[Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism](https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order)** — Score: 370
+- **[Switzerland. Block by block. At 1:1 scale](https://blocks.manifold3d.ch/)** — Score: 354
   `Another`
-- **[Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)** — Score: 343
+- **[Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)** — Score: 334
+  `frontend`
+- **[Birdwatching rewires the brain and slows cognitive decline](https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline)** — Score: 315
+  `Another`
+- **[Show HN: A Truly Modular Keyboard](https://github.com/notaroomba/keybytes)** — Score: 236
+  `hardware` `opensource`
+- **[Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry)** — Score: 209
+  `Another`
+- **[PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot)** — Score: 201
+  `rust` `ai` `cloud`
+- **[Attention Is Not What You Need (2025)](https://arxiv.org/abs/2512.19428)** — Score: 162
+  `ai`
+- **[Websites Should Be Printable](https://brennenputh.me/blog/printable-websites/)** — Score: 158
+  `frontend`
+- **[Growing Trees](https://brashandplucky.com/2026/10/15/growing-trees.html)** — Score: 155
+  `Another`
+- **[OLED iPad Mini](https://www.apple.com/shop/buy-ipad/ipad-mini)** — Score: 118
+  `Another`
+- **[One of the Greatest Inventions in the History of Human Transport](https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html)** — Score: 116
+  `Another`
+- **[Iron Age salt-mining complex found beneath Hallstatt in Austria](https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/)** — Score: 106
+  `Another`
+- **[The new iPad mini](https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/)** — Score: 87
+  `Another`
+- **[Fixing Tool-Call Accuracy in vLLM](https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm)** — Score: 83
+  `ai` `python`
+- **[DOJ says presidents should be able to sell secrets on eBay](https://freedom.press/the-classifieds/doj-says-presidents-should-be-able-to-sell-secrets-on-ebay/)** — Score: 71
   `security`
-- **[I don't understand quantum physics (2018)](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)** — Score: 334
+- **[Pharo 14](https://pharo.org/news/2026-10-26-Pharo14Release.html)** — Score: 68
   `Another`
-- **[Physicists trap a single antimatter particle for a month](https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/)** — Score: 319
+- **[Brown student maps the hidden global labor powering AI](https://www.brown.edu/news/2026-10-26/ai-data-workers)** — Score: 63
+  `ai` `opensource`
+- **[Colorfigures](https://april-zhu.com/colorfigures)** — Score: 61
   `Another`
-- **[FreeDNS](https://freedns.afraid.org/)** — Score: 313
-  `cloud` `opensource`
-- **[GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards](https://github.com/Zagitta/gpu-unlock)** — Score: 275
-  `performance` `c++` `architecture`
-- **[Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)** — Score: 225
-  `ai`
-- **[SpeedCrunch 1.1](https://www.speedcrunch.org/)** — Score: 176
-  `opensource`
-- **[Small Programs and Languages](https://ratfactor.com/cards/pl-small)** — Score: 134
+- **[Writing Is Closer to Thought Than Code](https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code)** — Score: 52
+  `architecture`
+- **[PhysicsForums and the Dead Internet Theory (2025)](https://hallofdreams.org/posts/physicsforums/)** — Score: 28
   `Another`
-- **[The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise](https://de.numista.com/9866)** — Score: 127
+- **['It's offensively cheap': Solar power is quietly becoming bigger than nuclear](https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear)** — Score: 15
   `Another`
-- **[Samsung running a TensorFlow lite model on 960x540 image to track you](https://twitter.com/mike64_t/status/2114150399406202896)** — Score: 117
-  `ai` `privacy`
-- **[Neural chip decodes interactions between brain regions](https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/)** — Score: 114
-  `ai` `robotics`
-- **[Why Gopher in 2026?](https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt)** — Score: 98
-  `go` `backend`
-- **[I Built a Stereo Vision Board for Hardware Hackers](https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/)** — Score: 93
-  `hardware` `robotics` `opensource`
-- **[The Importance of Limitations for Creativity and Learning (2023)](https://ratfactor.com/cards/limitations)** — Score: 91
-  `Another`
-- **[How Japanese Dried Bonito Is Made](https://kottke.org/26/10/how-japanese-dried-bonito-is-made)** — Score: 86
-  `Another`
-- **[Social dynamics of toxic metal industry in medieval Europe](https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829)** — Score: 62
-  `Another`
-- **[fheroes2: A recreation of Heroes of Might and Magic II game engine](https://github.com/ihhub/fheroes2)** — Score: 59
-  `games` `opensource`
-- **[Rewriting a Commercial Engine in Jai](https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch)** — Score: 49
-  `c++` `games` `performance`
-- **[A story of a Figma bug that wasn't a bug at all (2021)](https://aresluna.org/this-is-a-story-of-a-figma-bug/)** — Score: 45
-  `debugging`
-- **[Nikon photography contest winner loses title after scientists spot signs of AI](https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html)** — Score: 37
-  `ai`
-- **[Reverse engineer of PC-98 Touhou games retires](https://rec98.nmlgc.net/blog/2026-10-05)** — Score: 21
-  `games` `opensource`
-- **[XPS 16 Creator Edition Laptop](https://www.dell.com/en-us/shop/laptop-computers/spd/xps16dx16263)** — Score: 15
-  `Another`
-- **[The Lego group reveals collaboration with Daft Punk](https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk)** — Score: 7
-  `Another`
-- **[Tool book of a Nuremberg knight from 1505](https://loeffelholz-codex.org/en/)** — Score: 5
-  `Another`
-- **[Radio Days](https://oldster.substack.com/p/radio-days)** — Score: 3
+- **[Partyline: A group voice application for Reticulum, built on LXST](https://github.com/RFnexus/partyline)** — Score: 14
+  `opensource` `architecture` `mobile`
+- **[AmiJa, a cycle-exact Amiga emulator written in Java](https://www.reddit.com/r/amiga/comments/1xftc5s/amija_amiga_emulator_in_java/)** — Score: 13
+  `java` `games` `emulator`
+- **[Microsoft offers mass buyouts for roughly a quarter of its workforce](https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/)** — Score: 8
+  `microsoft`
+- **[Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)** — Score: 4
+  `ai` `python` `tutorial`
+- **[SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.com/blog/simd-fast-esp32s3/)** — Score: 4
+  `c++` `performance` `robotics`
+- **[Reinventing the Pencil Sharpener [video]](https://www.youtube.com/watch?v=0Gi5Z51KdUE)** — Score: 3
   `Another`
 
 ## Dev.to
 
-- **[Should You Build an MVP Before Your First Customer?](https://dev.to/startupcafe/should-you-build-an-mvp-before-your-first-customer-4242)** — Score: 39
-  `webdev` `programming` `startup` `discuss`
-- **[I'm Not on the DEV Team. I Still Debugged Their Missing Badges From Public Code. (And My First Test Was Wrong.)](https://dev.to/dj29/im-not-on-the-dev-team-i-still-debugged-their-missing-badges-from-public-code-and-my-first-test-18oo)** — Score: 38
-  `opensource` `ruby` `rails` `testing`
-- **[I turned my portfolio into a playground (plug a theme into a display to open it)](https://dev.to/m_ahmad/i-turned-my-portfolio-into-a-playground-plug-a-theme-into-a-display-to-open-it-1p6)** — Score: 20
-  `showdev` `webdev` `nextjs` `react`
-- **[Three Times My Test Failed and the LLM Was Right](https://dev.to/debashish_ghosal/three-times-my-test-failed-and-the-llm-was-right-43l2)** — Score: 17
-  `ai` `programming` `llm` `testing`
-- **[knowledge-gate: slow and steady, a new AI talk becomes one line in my notes](https://dev.to/gracelee087/knowledge-gate-ai-talks-into-my-own-notes-while-i-sleep-1agg)** — Score: 9
-  `hf26challenge` `devchallenge` `opensource`
-- **[SlothOps: A Local AI Caretaker for Your Codebase](https://dev.to/extinctsion/slothops-a-local-ai-caretaker-for-your-codebase-4nh)** — Score: 8
+- **[🦥 We built a pixel-art office where five cats do your data analysis while a sloth naps 🐱](https://dev.to/fionakhl/we-built-a-pixel-art-office-where-five-cats-do-your-data-analysis-while-a-sloth-naps-1in8)** — Score: 22
   `devchallenge` `hf26challenge` `ai` `opensource`
-- **[Let It Die: The Lazy Email Agent on TabPFN, Gemma and Temporal](https://dev.to/khushighosh/let-it-die-the-lazy-email-agent-on-tabpfn-gemma-and-temporal-10o0)** — Score: 7
-  `devchallenge` `hf26challenge` `ai` `webdev`
-- **[I Replaced My Whole SaaS Stack With One App I Described in a Sentence. Here's What Happened.](https://dev.to/infoinlet1/i-replaced-my-whole-saas-stack-with-one-app-i-described-in-a-sentence-heres-what-happened-476a)** — Score: 7
-  `webdev` `productivity` `discuss` `sass`
-- **[DownloadsSloth: a local Gemma tool that tidies messy folders so you don't have to](https://dev.to/aakash_mehta_48e67c642976/downloadssloth-a-local-gemma-tool-that-tidies-messy-folders-so-you-dont-have-to-5h5l)** — Score: 6
-  `ai` `devchallenge` `hf26challenge` `opensource`
-- **[Slow Post: planning five DEV posts took me 67 minutes, so now two open models do it while I sleep](https://dev.to/abeera_lodhi/slow-post-planning-five-dev-posts-took-me-67-minutes-so-now-two-open-models-do-it-while-i-sleep-1fep)** — Score: 6
-  `devchallenge` `hf26challenge` `ai` `machinelearning`
-- **[PHP2Shell, Node.js, GitLab & LiteLLM Vulnerabilities: October 2026 Patch Guide](https://dev.to/asyncinnovator/php2shell-nodejs-gitlab-litellm-vulnerabilities-october-2026-patch-guide-25le)** — Score: 6
-  `security` `php` `node` `devops`
-- **[From Ancient Epigraphy to 3D Proteins: Building Plugins, Skills & MCP Sidecars in Google Antigravity](https://dev.to/gde/from-ancient-epigraphy-to-3d-proteins-building-plugins-skills-mcp-sidecars-in-google-antigravity-4l1m)** — Score: 5
-  `ai` `gemini` `bioinformatics` `opensource`
-- **[Everyone Clicks 'I Agree.' No One Reads Them: I Fine-Tuned a 4B Model with Tinker to Catch Unfair Terms of Service in 30 Seconds](https://dev.to/emmasofia/everyone-clicks-i-agree-no-one-reads-them-i-fine-tuned-a-4b-model-with-tinker-to-catch-unfair-30lm)** — Score: 5
-  `devchallenge` `hf26challenge` `opensource` `ai`
-- **[Sloth: commit messages from a model that lives in the binary](https://dev.to/ishaan-jindal/sloth-commit-messages-from-a-model-that-lives-in-the-binary-1930)** — Score: 5
-  `hf26challenge` `devchallenge` `opensource` `ai`
-- **[👾 Nested Bookmarks Organizer for Chrome w/Custom Ticker](https://dev.to/annavi11arrea1/nested-bookmarks-organizer-for-chrome-wcustom-ticker-267p)** — Score: 5
-  `webdev` `themes` `customization` `browser`
-- **[Your App Can Receive Email Too: Build an Email-to-Ticket Pipeline with TypeScript](https://dev.to/boiliev/your-app-can-receive-email-too-build-an-email-to-ticket-pipeline-with-typescript-4ihh)** — Score: 5
-  `typescript` `node` `webdev` `tutorial`
-- **[I'm not getting up: a voice remote for YouTube that runs fully offline (and understands Pidgin)](https://dev.to/bennykillua/im-not-getting-up-a-voice-remote-for-youtube-that-runs-fully-offline-and-understands-pidgin-1028)** — Score: 5
-  `devchallenge` `hf26challenge` `opensource` `gemma`
-- **[Vendorwake: the upstream changed, Gemma caught it, and a test proved it](https://dev.to/shaileshvats2004/vendorwake-the-upstream-changed-gemma-caught-it-and-a-test-proved-it-3o3f)** — Score: 5
-  `devchallenge` `hf26challenge` `opensource` `ai`
-- **[Add On-Device Summarization to React with Chrome's Summarizer API](https://dev.to/raju_dandigam/add-on-device-summarization-to-react-with-chromes-summarizer-api-1bkn)** — Score: 4
-  `ai` `react` `webdev` `javascript`
-- **[👻 The $249 Ghost Sale](https://dev.to/annavi11arrea1/the-249-ghost-sale-12do)** — Score: 3
-  `google` `webdev` `rails` `analytics`
-- **[Giving Kubernetes ServiceAccounts an identity in Forgejo with oauth2-proxy](https://dev.to/3deep5me/giving-kubernetes-serviceaccounts-an-identity-in-forgejo-with-oauth2-proxy-1po6)** — Score: 3
-  `kubernetes` `security` `devops` `opensource`
-- **[Day 71: One Command, Two Machines](https://dev.to/ndcodes/day-71-one-command-two-machines-1i3e)** — Score: 3
-  `devops` `jenkins` `azure` `cicd`
-- **[Road to State Machines VI - But What If Independent Work Finishes in a Different Order?](https://dev.to/canburaks/road-to-state-machines-vi-but-what-if-independent-work-finishes-in-a-different-order-2eho)** — Score: 2
-  `ai` `python` `systemdesign` `programming`
-- **[You know you can automate screen reader tests right?](https://dev.to/craigmorten/you-know-you-can-automate-screen-reader-tests-right-2dnk)** — Score: 2
-  `a11y` `webdev` `playwright` `node`
-- **[GKE Autopilot vs Cloud Run: The Decision I Keep Coming Back To](https://dev.to/purvanshbhatt/gke-autopilot-vs-cloud-run-the-decision-i-keep-coming-back-to-2m93)** — Score: 2
-  `architecture` `cloud` `devops` `startup`
-- **[Stop Blocking on the Database Inside IsValid. .NET 11 Validates Async](https://dev.to/iamprincejkc/stop-blocking-on-the-database-inside-isvalid-net-11-validates-async-455d)** — Score: 1
-  `backend` `csharp` `dotnet`
-- **[Simplifying life with Configuration Files in EF Core 11](https://dev.to/mikhailnefedov/simplifying-life-with-configuration-files-in-ef-core-11-1dc5)** — Score: 1
-  `csharp` `efcore` `net11` `dotnet`
-- **[AI agents were told my inputs were optional, then rejected for leaving them out 🤖](https://dev.to/timmkal01/ai-agents-were-told-my-inputs-were-optional-then-rejected-for-leaving-them-out-3el4)** — Score: 1
-  `ai` `mcp` `javascript` `webdev`
-- **[AWS Won't Patch a CVSS 9.8 Bug in Multi Model Server. Its Management API Has No Login](https://dev.to/gabrielanhaia/aws-wont-patch-a-cvss-98-bug-in-multi-model-server-its-management-api-has-no-login-2e71)** — Score: 1
-  `security` `aws` `machinelearning` `devops`
-- **[Sentry and Mandrill Both Went Down When Postgres Ran Out of Transaction IDs](https://dev.to/gabrielanhaia/sentry-and-mandrill-both-went-down-when-postgres-ran-out-of-transaction-ids-f11)** — Score: 1
-  `postgres` `database` `sql` `devops`
-- **[Why no Python configuration library covers everything](https://dev.to/niccolum/why-no-python-configuration-library-covers-everything-1phe)** — Score: 1
-  `python` `configuration` `devops` `opensource`
-- **[VITI MAGAZINE SPECIAL REPORT | THE 24-MONTH COLLAPSE OF ITIL THEATER](https://dev.to/bigf_fellow/viti-magazine-special-report-the-24-month-collapse-of-itil-theater-mh3)** — Score: 1
-  `architecture` `devops` `sre` `humor`
-- **[Building a $0 VPS on Google Cloud: DietPi, Tailscale, IPv6, and the traps I hit](https://dev.to/jrpasolini/building-a-0-vps-on-google-cloud-dietpi-tailscale-ipv6-and-the-traps-i-hit-3aeb)** — Score: 1
-  `gcp` `linux` `devops` `selfhosted`
-- **[Still: a diary that writes itself, as fast as my Raspberry Pi can think](https://dev.to/zorexsalvo/still-a-diary-that-writes-itself-as-fast-as-my-raspberry-pi-can-think-58om)** — Score: 1
-  `devchallenge` `hf26challenge` `opensource` `python`
-- **[My /robots.txt Was Paying Full Pipeline Price](https://dev.to/ssukhpinder/my-robotstxt-was-paying-full-pipeline-price-1f5)** — Score: 0
-  `aspnetcore` `dotnet` `csharp` `webdev`
-- **[Advanced AI Agents](https://dev.to/rhuturaj_takle/advanced-ai-agents-1fdk)** — Score: 0
+- **[Slowth Money: a local AI agent for your financial goals](https://dev.to/javz/slowth-money-a-local-ai-agent-for-your-financial-goals-2ki2)** — Score: 21
+  `devchallenge` `hf26challenge` `fintech` `ai`
+- **[I Coded for 30 Days Using Only Claude Code — Here's What I Learned](https://dev.to/infoinlet1/i-coded-for-30-days-using-only-claude-code-heres-what-i-learned-3cln)** — Score: 14
+  `ai` `webdev` `programming` `claude`
+- **[I asked Claude to explain an API request as a tiny machine](https://dev.to/m_ahmad/i-asked-claude-to-explain-an-api-request-as-a-tiny-machine-59op)** — Score: 14
+  `showdev` `webdev` `react` `ai`
+- **[Said It: Gemma finds the 6 promises I forgot, offline, in 17 seconds](https://dev.to/ayush_01/said-it-gemma-finds-the-6-promises-i-forgot-offline-in-17-seconds-2hob)** — Score: 11
+  `devchallenge` `hf26challenge` `ai` `opensource`
+- **[One unit over 200 can cost a Pakistani home Rs 32,000. By day 14 my forecaster had warned 31 of the 38 homes that crossed](https://dev.to/arqamwd/one-unit-over-200-can-cost-a-pakistani-home-rs-32000-by-day-14-my-forecaster-had-warned-31-of-the-20jk)** — Score: 10
+  `devchallenge` `hf26challenge` `ai` `opensource`
+- **[MCP Token Cost: I Cut My MCP Server From 15 Tools to 4](https://dev.to/aws-builders/mcp-token-cost-i-cut-my-mcp-server-from-15-tools-to-4-cek)** — Score: 10
+  `mcp` `aws` `ai` `discuss`
+- **[Python 3.14's concurrent.interpreters module turns a 3.6-second GIL bottleneck into 0.9 seconds](https://dev.to/alexgeorgiev17/python-314s-concurrentinterpreters-module-turns-a-36-second-gil-bottleneck-into-09-seconds-219)** — Score: 8
+  `python` `performance` `programming` `devops`
+- **[🦥 My Screenshots Folder Was a To-Do List That Never Reminded Me. So I Hired a Sloth.](https://dev.to/minhlong2605/my-screenshots-folder-was-a-to-do-list-that-never-reminded-me-so-i-hired-a-sloth-4o86)** — Score: 7
+  `devchallenge` `hf26challenge` `ai` `opensource`
+- **[Gheist: 13,500 secret-dumping workflows planted with stolen GitHub tokens — audit yours in 5 minutes](https://dev.to/slabb/gheist-13500-secret-dumping-workflows-planted-with-stolen-github-tokens-audit-yours-in-5-minutes-299f)** — Score: 7
+  `security` `github` `devops` `infosec`
+- **[Cloud in the AI Era](https://dev.to/aws-builders/cloud-in-the-ai-era-463k)** — Score: 6
+  `ai` `aws` `infrastructure` `architecture`
+- **[You're Debouncing Scroll Wrong. requestAnimationFrame Fixes It.](https://dev.to/parsajiravand/youre-debouncing-scroll-wrong-requestanimationframe-fixes-it-2pa5)** — Score: 6
+  `javascript` `webdev` `performance` `programming`
+- **[My Reducer's Switch Stopped Being Exhaustive. `as const` Fixed It.](https://dev.to/parsajiravand/my-reducers-switch-stopped-being-exhaustive-as-const-fixed-it-4aa4)** — Score: 6
+  `typescript` `javascript` `webdev` `programming`
+- **[🦥 SlothSort : Messy files 📁 to Calm folders 🗂️](https://dev.to/crimsoncodie09/slothsort-messy-files-to-calm-folders-3ei9)** — Score: 6
+  `devchallenge` `hf26challenge` `webdev` `python`
+- **[Vue v-for: The Directive Unmounted Hook Bug, Fixed in 3.5.41](https://dev.to/parsajiravand/vue-v-for-the-directive-unmounted-hook-bug-fixed-in-3541-1nk6)** — Score: 6
+  `vue` `javascript` `tutorial` `webdev`
+- **[How a Key Leaked in May Shipped Malware in October](https://dev.to/dhruv1206/how-a-key-leaked-in-may-shipped-malware-in-october-1nkl)** — Score: 6
+  `security` `python` `devops` `ai`
+- **[Google DevFest Central Valley: Community First, Buildathon Second.](https://dev.to/earlgreyhot1701d/google-devfest-central-valley-community-first-buildathon-second-101e)** — Score: 4
+  `ai` `google` `community` `hackathon`
+- **[I Don’t Write Ruby. A Fix I Sent Is Now in Forem.](https://dev.to/dannwaneri/i-dont-write-ruby-a-fix-i-sent-is-now-in-forem-13c5)** — Score: 4
+  `opensource` `forem` `devto` `ai`
+- **[The Model Proposes, Rust Verifies: Triaging Job Postings with a Local Gemma](https://dev.to/lymah/the-model-proposes-rust-verifies-triaging-job-postings-with-a-local-gemma-1gen)** — Score: 3
+  `devchallenge` `hf26challenge` `rust` `ai`
+- **[Is Open Source Still Open? A Look at Recent License Changes and Who They Hurt](https://dev.to/elsie-rainee/is-open-source-still-open-a-look-at-recent-license-changes-and-who-they-hurt-3ga)** — Score: 3
+  `opensource` `webdev` `discuss` `devdiscuss`
+- **[Node.js Isn't Single-Threaded. How libuv and the OS Kernel Actually Run Your Code.](https://dev.to/smtahosin/nodejs-isnt-single-threaded-how-libuv-and-the-os-kernel-actually-run-your-code-3460)** — Score: 2
+  `node` `javascript` `webdev` `architecture`
+- **[Our Health Check Failed and the Deploy Went Live Anyway](https://dev.to/thegdsks/our-health-check-failed-and-the-deploy-went-live-anyway-5i0)** — Score: 2
+  `devops` `docker` `postmortem` `selfhosting`
+- **[My HVAC Voice Agent Was Listening for the Word Invisalign](https://dev.to/nabeelbaghoor/my-hvac-voice-agent-was-listening-for-the-word-invisalign-273g)** — Score: 2
+  `ai` `llm` `testing` `devops`
+- **[Idempotency Should Resume Partial Work, Not Hide It](https://dev.to/ivan_rossouw_63dff0f4084e/idempotency-should-resume-partial-work-not-hide-it-35i6)** — Score: 1
+  `dotnet` `csharp` `architecture` `testing`
+- **[I look at old .exe files for a living. Here's how I tell what they're built with in 2 minutes](https://dev.to/morejaime/i-look-at-old-exe-files-for-a-living-heres-how-i-tell-what-theyre-built-with-in-2-minutes-3aci)** — Score: 1
+  `legacy` `dotnet` `windows` `programming`
+- **[Bookmark Buddy: Gemma Tidies Your Messy Bookmarks While You Put Your Feet Up](https://dev.to/tmott13/bookmark-buddy-gemma-tidies-your-messy-bookmarks-while-you-put-your-feet-up-3ebb)** — Score: 1
+  `devchallenge` `hf26challenge` `gemma` `webdev`
+- **[How EU shops label the 30-day lowest price, and how a browser extension reads them in 15 languages](https://dev.to/emirmrkaljevic/how-eu-shops-label-the-30-day-lowest-price-and-how-a-browser-extension-reads-them-in-15-languages-4g8f)** — Score: 1
+  `javascript` `webdev` `opensource` `browserextensions`
+- **[The eMudhra Fallout, Part 2: I Scanned 30 Docker Images. 10 Still Trust the Root Chrome Is Dropping](https://dev.to/kielltampubolon/the-emudhra-fallout-part-2-i-scanned-30-docker-images-10-still-trust-the-root-chrome-is-dropping-6lf)** — Score: 1
+  `security` `docker` `devops` `tls`
+- **[Your CI runs other people's code. Is anyone still maintaining it?](https://dev.to/kotakanbe/your-ci-runs-other-peoples-code-is-anyone-still-maintaining-it-19c5)** — Score: 1
+  `security` `opensource` `github` `devops`
+- **[Railway October 2026 Incident: Treat Every Environment Variable as Exposed](https://dev.to/gitguardian/railway-october-2026-incident-treat-every-environment-variable-as-exposed-24oa)** — Score: 1
+  `security` `devsecops` `appsec` `devops`
+- **[We cut our scanner binary by 68% — and removing packages one by one wasn't how](https://dev.to/kotakanbe/we-cut-our-scanner-binary-by-68-and-removing-packages-one-by-one-wasnt-how-4d98)** — Score: 1
+  `security` `opensource` `go` `devops`
+- **[SlothBox: a local file butler that files your downloads, screenshots and receipts while you do nothing](https://dev.to/iamamitkumarsahoo/slothbox-a-local-file-butler-that-files-your-downloads-screenshots-and-receipts-while-you-do-3m4j)** — Score: 0
+  `devchallenge` `hf26challenge` `opensource` `dotnet`
+- **[StartsWith Was Asking ICU Every Time](https://dev.to/ssukhpinder/startswith-was-asking-icu-every-time-58m7)** — Score: 0
+  `csharp` `dotnet` `programming` `webdev`
+- **[The GUID That Sorts Itself (Until It Doesn't)](https://dev.to/ssukhpinder/the-guid-that-sorts-itself-until-it-doesnt-22bd)** — Score: 0
+  `csharp` `dotnet` `programming` `webdev`
+- **[MCP — Model Context Protocol](https://dev.to/rhuturaj_takle/mcp-model-context-protocol-1g58)** — Score: 0
   `dotnet` `ai` `programming` `learning`
-- **[I was too lazy to read 53 emails, so a local LLM reads them for me](https://dev.to/barbarosalagoz/i-built-an-ai-email-assistant-in-net-with-serpapi-and-a-local-llm-heres-what-broke-37od)** — Score: 0
-  `ai` `dotnet` `devchallenge` `hf26challenge`
-- **[Your repo isn't on .NET 8 in just one file: what to change before November 10](https://dev.to/ltslift/your-repo-isnt-on-net-8-in-just-one-file-what-to-change-before-november-10-8fk)** — Score: 0
-  `dotnet` `csharp` `azure` `devops`
-- **[Finding the processes Claude Code leaves running on Windows](https://dev.to/hazeliscoding/finding-the-processes-claude-code-leaves-running-on-windows-2eg7)** — Score: 0
-  `claudecode` `windows` `dotnet` `opensource`
-- **[Day 1: Why ERP Needs a Definition-Driven Framework](https://dev.to/jeff377/day-1-why-erp-needs-a-definition-driven-framework-1c2b)** — Score: 0
-  `architecture` `dotnet` `erp` `softwareengineering`
-- **[Securing Agent-to-Agent Delegation in .NET: A Practical Design](https://dev.to/kamal1910/securing-agent-to-agent-delegation-in-net-a-practical-design-44no)** — Score: 0
-  `dotnet` `security` `ai` `csharp`
-- **[Construindo agentes de IA com o Microsoft Agent Framework no .NET](https://dev.to/hgmauri/construindo-agentes-de-ia-com-o-microsoft-agent-framework-no-net-3153)** — Score: 0
-  `dotnet` `csharp` `ai` `opentelemetry`
-- **[When the Guard Itself Breaks: Making .NET AI Agent Guardrails Fail Closed](https://dev.to/michael_maurice/when-the-guard-itself-breaks-making-net-ai-agent-guardrails-fail-closed-5dpj)** — Score: 0
-  `dotnet` `ai` `security` `llm`
-- **[An AI ported WinQuake to C#, and per-frame hashes prove it bit-exact](https://dev.to/andre_ad2623514c/an-ai-ported-winquake-to-c-and-per-frame-hashes-prove-it-bit-exact-15f1)** — Score: 0
-  `csharp` `dotnet` `ai` `testing`
-- **[Function Calling in C#: Building Tools Your AI Agent Can Call](https://dev.to/mehdimohseni82/function-calling-in-c-building-tools-your-ai-agent-can-call-5hm2)** — Score: 0
-  `ai` `llm` `dotnet` `csharp`
-- **[I Booted a Whole Web Server to Check a 404](https://dev.to/ssukhpinder/i-booted-a-whole-web-server-to-check-a-404-3ik7)** — Score: 0
-  `aspnetcore` `dotnet` `csharp` `programming`
-- **[Developing Software with AI: Why Understanding Code Still Matters](https://dev.to/thebetterway/developing-software-with-ai-why-understanding-code-still-matters-3iea)** — Score: 0
-  `ai` `dotnet` `csharp` `testing`
-- **[Postmortem: The Tuesday Our AI Bill Had No Owner](https://dev.to/gde/postmortem-the-tuesday-our-ai-bill-had-no-owner-34pd)** — Score: 0
-  `discuss` `vertexai` `sre` `ai`
-- **[Valkey 9.2's new rdbcompression lz4 setting cuts a 1M-row RDB from 178MB to 35MB](https://dev.to/alexgeorgiev17/valkey-92s-new-rdbcompression-lz4-setting-cuts-a-1m-row-rdb-from-178mb-to-35mb-1cje)** — Score: 0
-  `valkey` `database` `performance` `devops`
+- **[Performance no .NET com IA: medir, otimizar e provar com BenchmarkDotNet](https://dev.to/hgmauri/performance-no-net-com-ia-medir-otimizar-e-provar-com-benchmarkdotnet-36ea)** — Score: 0
+  `dotnet` `csharp` `performance` `ai`
+- **[Parameterized Queries Can't Help Here: 6 SQLite Traps When an LLM Writes Your SQL](https://dev.to/michael_maurice/parameterized-queries-cant-help-here-6-sqlite-traps-when-an-llm-writes-your-sql-10f4)** — Score: 0
+  `dotnet` `sql` `sqlite` `ai`
+- **[The Brotli flaw is in .NET now: Microsoft's out-of-band patch, and the self-contained trap](https://dev.to/damiano_builds/the-brotli-flaw-is-in-net-now-microsofts-out-of-band-patch-and-the-self-contained-trap-4ke8)** — Score: 0
+  `dotnet` `security` `csharp` `webdev`
+- **[GraphQL para Iniciantes: Guia Completo com .NET](https://dev.to/lzocate-li/graphql-para-iniciantes-guia-completo-com-net-1id1)** — Score: 0
+  `portuguese` `graphql` `dotnet` `aspnetcore`
+- **[I Took a Closed-Book C# Exam Written by ChatGPT and Claude (Score: 22%)](https://dev.to/incomplete_developer/i-took-a-closed-book-c-exam-written-by-chatgpt-and-claude-score-22-1h94)** — Score: 0
+  `ai` `csharp` `coding`
+- **[CQRS with MediatR, Revisited for .NET 10](https://dev.to/adrianbailador/cqrs-with-mediatr-revisited-for-net-10-5a7l)** — Score: 0
+  `csharp` `dotnet` `cqrs` `softwareengineering`
+- **[Verifying Razorpay subscription webhooks in ASP.NET Core (the parts that bit me)](https://dev.to/ranveersidhu/verifying-razorpay-subscription-webhooks-in-aspnet-core-the-parts-that-bit-me-1el3)** — Score: 0
+  `dotnet` `csharp` `webdev` `payments`
+- **[Migrating Semantic Kernel Agents to Microsoft Agent Framework in ASP.NET Core](https://dev.to/rahmatafridi/migrating-semantic-kernel-agents-to-microsoft-agent-framework-in-aspnet-core-3d59)** — Score: 0
+  `aspnetcore` `dotnet` `ai` `csharp`
+- **[Comparing two lists of 1 million objects in 0.7 s in .NET, and why the result should be data, not a boolean](https://dev.to/youssef_bouha_417febe3701/comparing-two-lists-of-1-million-objects-in-07-s-in-net-and-why-the-result-should-be-data-not-a-hl7)** — Score: 0
+  `dotnet` `csharp` `performance` `testing`
+- **[Stop Building Docker Images on Your 2 GB Droplet](https://dev.to/highcenburg/stop-building-docker-images-on-your-2-gb-droplet-4e57)** — Score: 0
+  `django` `docker` `devops`
 
