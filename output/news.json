@@ -27498,5 +27498,630 @@
         ]
       }
     ]
+  },
+  {
+    "DataNoticia": "2026-10-30T15:28:15.6290236Z",
+    "NumeroArtigos": 53,
+    "Artigo": [
+      {
+        "Titulo": "elect.horse",
+        "Url": "https://elect.horse/",
+        "Fonte": "Hacker News",
+        "Score": 424,
+        "Data": "2026-10-30T15:28:14.906435Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+        "Url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+        "Fonte": "Hacker News",
+        "Score": 184,
+        "Data": "2026-10-30T15:28:14.9253528Z",
+        "Tag": [
+          "security",
+          "ai"
+        ]
+      },
+      {
+        "Titulo": "Azure\u0027s Weakest Link \u2013 Five Full Cross-Tenant Compromises",
+        "Url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+        "Fonte": "Hacker News",
+        "Score": 141,
+        "Data": "2026-10-30T15:28:14.9457858Z",
+        "Tag": [
+          "security",
+          "cloud",
+          "azure",
+          "microsoft"
+        ]
+      },
+      {
+        "Titulo": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+        "Url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+        "Fonte": "Hacker News",
+        "Score": 342,
+        "Data": "2026-10-30T15:28:14.9265319Z",
+        "Tag": [
+          "ai"
+        ]
+      },
+      {
+        "Titulo": "Binance-hacker-1029 \u2013 $5.6B stolen from Binance",
+        "Url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+        "Fonte": "Hacker News",
+        "Score": 1634,
+        "Data": "2026-10-30T15:28:14.9364351Z",
+        "Tag": [
+          "security"
+        ]
+      },
+      {
+        "Titulo": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It",
+        "Url": "https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no",
+        "Fonte": "Hacker News",
+        "Score": 49,
+        "Data": "2026-10-30T15:28:14.9247735Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "We\u0027re releasing the weights of Mistral Large 4",
+        "Url": "https://mistral.ai/news/mistral-large-4-oss/",
+        "Fonte": "Hacker News",
+        "Score": 1621,
+        "Data": "2026-10-30T15:28:14.9281158Z",
+        "Tag": [
+          "ai",
+          "opensource"
+        ]
+      },
+      {
+        "Titulo": "5-MeO-DMT sometimes cancels the Ebbinghaus illusion",
+        "Url": "https://psychotechnology.substack.com/p/5-meo-dmt-sometimes-cancels-the-ebbinghaus",
+        "Fonte": "Hacker News",
+        "Score": 18,
+        "Data": "2026-10-30T15:28:14.9316107Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes",
+        "Url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+        "Fonte": "Hacker News",
+        "Score": 119,
+        "Data": "2026-10-30T15:28:14.9473393Z",
+        "Tag": [
+          "security"
+        ]
+      },
+      {
+        "Titulo": "Anthropic Cracking Down on Video Game Rewrites",
+        "Url": "https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968",
+        "Fonte": "Hacker News",
+        "Score": 44,
+        "Data": "2026-10-30T15:28:14.9321119Z",
+        "Tag": [
+          "ai",
+          "games"
+        ]
+      },
+      {
+        "Titulo": "Finding Panics with Call Graph Analyzer",
+        "Url": "https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/",
+        "Fonte": "Hacker News",
+        "Score": 29,
+        "Data": "2026-10-30T15:28:14.9308854Z",
+        "Tag": [
+          "debugging",
+          "rust",
+          "performance"
+        ]
+      },
+      {
+        "Titulo": "Gilgamesh by Simon Armitage review \u2013 an ancient epic is brilliantly translated",
+        "Url": "https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times",
+        "Fonte": "Hacker News",
+        "Score": 130,
+        "Data": "2026-10-30T15:28:14.9429911Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "Why a program doesn\u0027t work when run from a batch file, but works when clicked",
+        "Url": "https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/",
+        "Fonte": "Hacker News",
+        "Score": 76,
+        "Data": "2026-10-30T15:28:14.9262137Z",
+        "Tag": [
+          "debugging",
+          "windows"
+        ]
+      },
+      {
+        "Titulo": "Cisco gives engineer unlimited AI tokens to rewrite 98% of the company\u0027s code",
+        "Url": "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts",
+        "Fonte": "Hacker News",
+        "Score": 28,
+        "Data": "2026-10-30T15:28:14.9328848Z",
+        "Tag": [
+          "ai",
+          "dotnet"
+        ]
+      },
+      {
+        "Titulo": "Herdr has released native app",
+        "Url": "https://github.com/herdrdev/herdr-app",
+        "Fonte": "Hacker News",
+        "Score": 298,
+        "Data": "2026-10-30T15:28:14.9330516Z",
+        "Tag": [
+          "mobile"
+        ]
+      },
+      {
+        "Titulo": "Commodore 1600 VICmodem",
+        "Url": "https://dfarq.homeip.net/commodore-1600-vicmodem/",
+        "Fonte": "Hacker News",
+        "Score": 23,
+        "Data": "2026-10-30T15:28:14.930368Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "I\u0027m so bad at billiards that I ended up in the hyperbolic plane [video]",
+        "Url": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
+        "Fonte": "Hacker News",
+        "Score": 200,
+        "Data": "2026-10-30T15:28:14.9375717Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "We ran AI agent swarms in Minecraft and Mindustry",
+        "Url": "https://labs.ycombinator.com/projects/games/index.html",
+        "Fonte": "Hacker News",
+        "Score": 357,
+        "Data": "2026-10-30T15:28:14.9337642Z",
+        "Tag": [
+          "ai",
+          "games",
+          "opensource"
+        ]
+      },
+      {
+        "Titulo": "Astroterm: A Planetarium for Your Terminal",
+        "Url": "https://github.com/da-luce/astroterm",
+        "Fonte": "Hacker News",
+        "Score": 200,
+        "Data": "2026-10-30T15:28:14.9367807Z",
+        "Tag": [
+          "games",
+          "frontend"
+        ]
+      },
+      {
+        "Titulo": "Artificial Analysis v5 and the benchmarker\u0027s dilemma",
+        "Url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+        "Fonte": "Hacker News",
+        "Score": 51,
+        "Data": "2026-10-30T15:28:14.9335854Z",
+        "Tag": [
+          "ai",
+          "performance"
+        ]
+      },
+      {
+        "Titulo": "Lighthouses, War and a Puffling",
+        "Url": "https://adcochrane.wordpress.com/2026/10/29/lighthouses-war-and-a-puffling-the-isle-of-may/",
+        "Fonte": "Hacker News",
+        "Score": 12,
+        "Data": "2026-10-30T15:28:14.9329339Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
+        "Url": "https://www.workatastartup.com/jobs/98722",
+        "Fonte": "Hacker News",
+        "Score": 1,
+        "Data": "2026-10-30T15:28:14.9330242Z",
+        "Tag": [
+          "opensource",
+          "cloud"
+        ]
+      },
+      {
+        "Titulo": "H.264 Is Magic (2016)",
+        "Url": "https://sidbala.com/h-264-is-magic/",
+        "Fonte": "Hacker News",
+        "Score": 484,
+        "Data": "2026-10-30T15:28:14.9559967Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "Compile-Time Dependent Types",
+        "Url": "https://thenumb.at/Syl-Intro/",
+        "Fonte": "Hacker News",
+        "Score": 5,
+        "Data": "2026-10-30T15:28:14.9476707Z",
+        "Tag": [
+          "c\u002B\u002B",
+          "rust"
+        ]
+      },
+      {
+        "Titulo": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+        "Url": "https://github.com/SheepSeb/tinyworldformer",
+        "Fonte": "Hacker News",
+        "Score": 255,
+        "Data": "2026-10-30T15:28:14.9310237Z",
+        "Tag": [
+          "ai",
+          "games",
+          "robotics",
+          "opensource"
+        ]
+      },
+      {
+        "Titulo": "Neal Stephenson on AI and What Comes Next [video]",
+        "Url": "https://www.youtube.com/watch?v=Ii-aeW5pHPQ",
+        "Fonte": "Hacker News",
+        "Score": 13,
+        "Data": "2026-10-30T15:28:14.9352989Z",
+        "Tag": [
+          "ai"
+        ]
+      },
+      {
+        "Titulo": "Cuis: The Modern Smalltalk-80",
+        "Url": "https://cuis.st/",
+        "Fonte": "Hacker News",
+        "Score": 160,
+        "Data": "2026-10-30T15:28:14.94356Z",
+        "Tag": [
+          "architecture"
+        ]
+      },
+      {
+        "Titulo": "Show HN: I Turned DOOM into a Transformer",
+        "Url": "https://github.com/mottopanikeiku/doomformer",
+        "Fonte": "Hacker News",
+        "Score": 119,
+        "Data": "2026-10-30T15:28:14.9336776Z",
+        "Tag": [
+          "ai",
+          "games",
+          "c\u002B\u002B",
+          "opensource"
+        ]
+      },
+      {
+        "Titulo": "LLM Voice",
+        "Url": "https://martinfowler.com/bliki/LLM-Voice.html",
+        "Fonte": "Hacker News",
+        "Score": 544,
+        "Data": "2026-10-30T15:28:14.9356297Z",
+        "Tag": [
+          "ai"
+        ]
+      },
+      {
+        "Titulo": "Cormac McCarthy\u0027s Library",
+        "Url": "https://cormacmccarthy.lib.utk.edu/",
+        "Fonte": "Hacker News",
+        "Score": 89,
+        "Data": "2026-10-30T15:28:14.9331384Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "I Clamped Two Million Readings and Nothing Happened",
+        "Url": "https://dev.to/ssukhpinder/i-clamped-two-million-readings-and-nothing-happened-ce2",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-10-30T15:28:15.0961313Z",
+        "Tag": [
+          "csharp",
+          "dotnet",
+          "programming",
+          "webdev"
+        ]
+      },
+      {
+        "Titulo": "The Backing Field a Typo Could Reach",
+        "Url": "https://dev.to/ssukhpinder/i-clamped-the-discount-and-still-got-110-6eh",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-10-30T15:28:15.0961769Z",
+        "Tag": [
+          "csharp",
+          "dotnet",
+          "programming",
+          "webdev"
+        ]
+      },
+      {
+        "Titulo": "Parsing Steam Achievement Sets: DLC ownership, archived achievements and a batch-write gotcha",
+        "Url": "https://dev.to/zevnda/steam-achievement-sets-broke-our-bulk-unlocks-what-changed-in-the-schema-and-how-we-fixed-it-4h8e",
+        "Fonte": "Dev.to",
+        "Score": 2,
+        "Data": "2026-10-30T15:28:15.0961802Z",
+        "Tag": [
+          "gamedev",
+          "csharp",
+          "dotnet",
+          "showdev"
+        ]
+      },
+      {
+        "Titulo": "Criando um servidor MCP com o .NET",
+        "Url": "https://dev.to/hgmauri/criando-um-servidor-mcp-com-o-net-532h",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-10-30T15:28:15.0961869Z",
+        "Tag": [
+          "dotnet",
+          "csharp",
+          "mcp",
+          "ai"
+        ]
+      },
+      {
+        "Titulo": "Building an Open Forensic Tool for iCloud Backups When Commercial Extractors Say \u201CAccess Denied\u201D",
+        "Url": "https://dev.to/giordanosconti/building-an-open-forensic-tool-for-icloud-backups-when-commercial-extractors-say-access-denied-3e68",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-10-30T15:28:15.0961899Z",
+        "Tag": [
+          "dotnet",
+          "opensource",
+          "security"
+        ]
+      },
+      {
+        "Titulo": "Sharing State Across Sessions and Agents: Memory, MCP, and Handoffs in .NET",
+        "Url": "https://dev.to/mehdimohseni82/sharing-state-across-sessions-and-agents-memory-mcp-and-handoffs-in-net-41lo",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-10-30T15:28:15.0961934Z",
+        "Tag": [
+          "ai",
+          "dotnet",
+          "mcp",
+          "claude"
+        ]
+      },
+      {
+        "Titulo": "Claude Code for .NET Developers: A Practical Agentic Workflow",
+        "Url": "https://dev.to/mehdimohseni82/claude-code-for-net-developers-a-practical-agentic-workflow-429c",
+        "Fonte": "Dev.to",
+        "Score": 1,
+        "Data": "2026-10-30T15:28:15.0961963Z",
+        "Tag": [
+          "ai",
+          "dotnet",
+          "claudecode",
+          "developertools"
+        ]
+      },
+      {
+        "Titulo": "Cohere Rerank v5 Pro and Fast for C# Developers",
+        "Url": "https://dev.to/taswar_bhatti/cohere-rerank-v5-pro-and-fast-for-c-developers-567o",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-10-30T15:28:15.0961994Z",
+        "Tag": [
+          "ai",
+          "dotnet",
+          "csharp",
+          "rag"
+        ]
+      },
+      {
+        "Titulo": "The Shadow Model Issued a Refund: 7 Mistakes That Make LLM Model Upgrades in .NET Riskier Than They Look",
+        "Url": "https://dev.to/michael_maurice/the-shadow-model-issued-a-refund-7-mistakes-that-make-llm-model-upgrades-in-net-riskier-than-they-j9j",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-10-30T15:28:15.0962023Z",
+        "Tag": [
+          "dotnet",
+          "csharp",
+          "ai",
+          "devops"
+        ]
+      },
+      {
+        "Titulo": "I Took Over a .NET Visitor System with Face Recognition",
+        "Url": "https://dev.to/umerfarooqofficial/i-took-over-a-net-visitor-system-with-face-recognition-5bnc",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-10-30T15:28:15.0962054Z",
+        "Tag": [
+          "csharp",
+          "dotnet",
+          "architecture",
+          "programming"
+        ]
+      },
+      {
+        "Titulo": "Review Your LLM Tool Like a Public Endpoint: 8 Questions to Ask Before You Merge an AIFunction in .NET 10",
+        "Url": "https://dev.to/michael_maurice/review-your-llm-tool-like-a-public-endpoint-8-questions-to-ask-before-you-merge-an-aifunction-in-jc",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-10-30T15:28:15.2531153Z",
+        "Tag": [
+          "dotnet",
+          "csharp",
+          "ai",
+          "llm"
+        ]
+      },
+      {
+        "Titulo": "Cronlight: a dashboard for Quartz.NET that drops into your existing ASP.NET Core app (open source, MIT)",
+        "Url": "https://dev.to/mkokkerametla/cronlight-a-dashboard-for-quartznet-that-drops-into-your-existing-aspnet-core-app-open-source-3b9f",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-10-30T15:28:15.2531229Z",
+        "Tag": [
+          "dotnet",
+          "csharp",
+          "quartznet",
+          "opensource"
+        ]
+      },
+      {
+        "Titulo": "Setting Up a .NET Developer Machine That Just Works",
+        "Url": "https://dev.to/softinbit/setting-up-a-net-developer-machine-that-just-works-2gmo",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-10-30T15:28:15.2531282Z",
+        "Tag": [
+          "dotnet",
+          "csharp",
+          "developertools",
+          "gettingstarted"
+        ]
+      },
+      {
+        "Titulo": "Giving AI Pain: The Architecture of Synthetic Scars \u0026 The Rapid-Regret Miner",
+        "Url": "https://dev.to/gde/giving-ai-pain-the-architecture-of-synthetic-scars-the-rapid-regret-miner-1740",
+        "Fonte": "Dev.to",
+        "Score": 11,
+        "Data": "2026-10-30T15:28:15.3826925Z",
+        "Tag": [
+          "ai",
+          "programming",
+          "architecture",
+          "unix"
+        ]
+      },
+      {
+        "Titulo": "Undead Agent - My AI Agent Dies, Comes Back, and Tells Me What It Saw(Gemma \u002B Ollama \u002B Temporal)",
+        "Url": "https://dev.to/khushighosh/undead-agent-my-ai-agent-dies-comes-back-and-tells-me-what-it-saw-33c9",
+        "Fonte": "Dev.to",
+        "Score": 12,
+        "Data": "2026-10-30T15:28:15.3827998Z",
+        "Tag": [
+          "devchallenge",
+          "hf26challenge",
+          "ai",
+          "opensource"
+        ]
+      },
+      {
+        "Titulo": "Marigold /router - A Private Ofrenda for the Memories We Refuse to Lose",
+        "Url": "https://dev.to/kumuda/marigold-router-a-private-ofrenda-for-the-memories-we-refuse-to-lose-2e68",
+        "Fonte": "Dev.to",
+        "Score": 13,
+        "Data": "2026-10-30T15:28:15.3828077Z",
+        "Tag": [
+          "devchallenge",
+          "hf26challenge",
+          "ai",
+          "gemma"
+        ]
+      },
+      {
+        "Titulo": "A trojanized Claude Code extension plants an SSH backdoor: the 7-point audit for your machine",
+        "Url": "https://dev.to/slabb/a-trojanized-claude-code-extension-plants-an-ssh-backdoor-the-7-point-audit-for-your-machine-23cj",
+        "Fonte": "Dev.to",
+        "Score": 9,
+        "Data": "2026-10-30T15:28:15.3828184Z",
+        "Tag": [
+          "security",
+          "ai",
+          "vscode",
+          "supplychain"
+        ]
+      },
+      {
+        "Titulo": "Open Source Maintainers Are the First People Whose Inbox Got Automated",
+        "Url": "https://dev.to/debashish_ghosal/open-source-maintainers-are-the-first-people-whose-inbox-got-automated-1lpd",
+        "Fonte": "Dev.to",
+        "Score": 13,
+        "Data": "2026-10-30T15:28:15.3828409Z",
+        "Tag": [
+          "discuss",
+          "ai",
+          "opensource",
+          "programming"
+        ]
+      },
+      {
+        "Titulo": "Google Docs Just Learned to Edit Markdown Natively.",
+        "Url": "https://dev.to/om_shree_0709/google-docs-just-learned-to-edit-markdown-natively-54na",
+        "Fonte": "Dev.to",
+        "Score": 6,
+        "Data": "2026-10-30T15:28:15.3828471Z",
+        "Tag": [
+          "ai",
+          "googlecloud",
+          "discuss",
+          "programming"
+        ]
+      },
+      {
+        "Titulo": "MoE Offloading Isn\u2019t Always Faster: I Tested 5 Models on a 16GB GPU",
+        "Url": "https://dev.to/sizzlebop/moe-offloading-isnt-always-faster-i-tested-5-models-on-a-16gb-gpu-498a",
+        "Fonte": "Dev.to",
+        "Score": 8,
+        "Data": "2026-10-30T15:28:15.3828533Z",
+        "Tag": [
+          "ai",
+          "machinelearning",
+          "llm"
+        ]
+      },
+      {
+        "Titulo": "The Eye of Beholder = UMGD",
+        "Url": "https://dev.to/pengeszikra/the-eye-of-beholder-umgd-55lm",
+        "Fonte": "Dev.to",
+        "Score": 11,
+        "Data": "2026-10-30T15:28:15.3828592Z",
+        "Tag": [
+          "ai",
+          "discuss",
+          "gamedev",
+          "showdev"
+        ]
+      },
+      {
+        "Titulo": "Gemini 4 Carbon and an anti-LLM script: what each one actually says",
+        "Url": "https://dev.to/axrisi/gemini-4-carbon-and-an-anti-llm-script-what-each-one-actually-says-5d3d",
+        "Fonte": "Dev.to",
+        "Score": 1,
+        "Data": "2026-10-30T15:28:15.382865Z",
+        "Tag": [
+          "ai",
+          "security",
+          "opensource",
+          "news"
+        ]
+      },
+      {
+        "Titulo": "Microsoft Just Shipped Visual Studio\u0027s October Update. Here\u0027s What It Actually Changes.",
+        "Url": "https://dev.to/om_shree_0709/microsoft-just-shipped-visual-studios-october-update-heres-what-it-actually-changes-j76",
+        "Fonte": "Dev.to",
+        "Score": 5,
+        "Data": "2026-10-30T15:28:15.3828707Z",
+        "Tag": [
+          "ai",
+          "vscode",
+          "discuss",
+          "microsoft"
+        ]
+      }
+    ]
   }
 ]
