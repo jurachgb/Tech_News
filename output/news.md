@@ -1,128 +1,134 @@
 ﻿# Tech News Report
 
-> Gerado em: 02/11/2026 19:02 UTC | Total: 59 artigos
+> Gerado em: 03/11/2026 16:46 UTC | Total: 62 artigos
 
 ## Hacker News
 
-- **[WTF Ubuntu?](https://chalmovsky.com/posts/wtf-ubuntu)** — Score: 883
-  `linux`
-- **[Postgres 19 is late because so many more bugs are being found now](http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html)** — Score: 787
-  `database` `performance` `bugs`
-- **[Bones may release proteins that slow aging and extend life span](https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span)** — Score: 287
+- **[The 'Astra can read and write weights to improve Qwen' post is misleading](https://honnibal.dev/blog/astra-read-write-misleading)** — Score: 618
+  `ai` `architecture`
+- **[Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/)** — Score: 421
+  `ai`
+- **[DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)** — Score: 325
+  `opensource`
+- **[Could a modern chess engine on a Pentium have defeated Kasparov in 1996?](https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html)** — Score: 250
+  `ai` `games`
+- **[Nvidia – open-source auto-ontology](https://github.com/NVIDIA/auto-ontology)** — Score: 232
+  `ai` `opensource`
+- **[Toit v2.0.0](https://toit.io/blog/toit-v2-0-0/)** — Score: 185
+  `opensource`
+- **[Fujifilm to boost tape production 5x as AI fuels archiving demand](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/)** — Score: 145
+  `ai` `cloud`
+- **[Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/)** — Score: 114
+  `hardware` `debugging` `linux`
+- **[Katamari Damacy but it's The Met collection](https://katamari.vaguespac.es/)** — Score: 108
+  `games`
+- **[Charles Tandy, the mastermind behind Radio Shack](https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/)** — Score: 75
   `Another`
-- **[Supermarket freezers across Europe hit by second suspected cyber-attack](https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack)** — Score: 262
-  `security` `ai`
-- **[Show HN: Subvocal – Talk to your computer without making noise](https://subvocal.company/)** — Score: 219
-  `ai` `hardware`
-- **[If you love a website, back it up](https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/)** — Score: 202
-  `opensource` `architecture`
-- **[Show HN: I've updated my Linux System Call website and API](https://syscall.sh/)** — Score: 174
-  `linux` `opensource`
-- **[Anthropic's internal AI use, at retail prices, now exceeds its employee pay](https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11)** — Score: 149
+- **[Designing responsible AI for learning](https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html)** — Score: 74
   `ai`
-- **[Moving our warehouse off DuckDB](https://posthog.com/blog/moving-off-duckdb)** — Score: 111
-  `database` `backend`
-- **[US boy names that became girl names and vice versa](https://namedaisy.com/blog/boy-names-that-became-girl-names)** — Score: 108
+- **[Quili AI](https://www.quili.ai/)** — Score: 64
+  `ai`
+- **[Mac at Any Scale](https://namespace.so/blog/mac-at-any-scale)** — Score: 56
+  `devops` `cloud` `microsoft`
+- **[Why Don't We Live in an Art Nouveau World?](https://asteriskmag.com/issues/16/why-don-t-we-life-in-an-art-nouveau-world)** — Score: 50
   `Another`
-- **[Show HN: Warsaw in voxels – an interactive 3D map of the city centre](https://p.migdal.pl/warsaw-vibe-voxel/)** — Score: 107
-  `frontend` `games`
-- **[We halved DNS build delay and cut memory use by 85%](https://blog.cloudflare.com/dns-targeted-zone-builds/)** — Score: 76
-  `performance` `architecture`
-- **[My Favourite Laptop](https://blog.jsbarretto.com/post/laptop)** — Score: 73
+- **[Writing seen in PHerc. 306B, for the first time in 2000 years](https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the)** — Score: 45
   `Another`
-- **[Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/)** — Score: 64
-  `ai`
-- **[Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app](https://momentic.ai/)** — Score: 62
-  `ai` `testing` `debugging`
-- **[LongCat-2.5: Native Multimodality for Agentic Tasks](https://longcat.ai/blog/longcat-2.5/)** — Score: 52
-  `ai`
-- **[Let Me Ch...](https://blog.alxgsv.com/let-me-check/)** — Score: 51
+- **[Kalshi and its co-founders face felony charges for violating Utah gambling laws](https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/)** — Score: 38
   `Another`
-- **[GPT-Rosalind-6 System Card Addendum](https://deploymentsafety.openai.com/gpt-rosalind-6)** — Score: 47
-  `ai`
-- **[The U.S. Census Bureau and "Super Intelligence"](https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/)** — Score: 37
-  `ai`
-- **[C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)](https://retrogamecoders.com/c64-basic-dungeon-part11/)** — Score: 23
-  `games` `c++`
-- **[Agentic Backdoors via Pretraining Poisoning](https://arxiv.org/abs/2610.37741)** — Score: 14
-  `ai` `security`
-- **[Byesky: Wipe your Bluesky account clean](https://byesky.pirhoo.com)** — Score: 11
-  `opensource` `privacy`
-- **[Sneaking into the auditorium for the Windows 2000 launch rehearsal](https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/)** — Score: 11
-  `microsoft`
-- **[I Read the Clankers' Code](https://fev.al/posts/i-read-the-code/)** — Score: 5
-  `ai`
-- **[Egoless Mathematics in the AI Era](https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/)** — Score: 4
-  `ai`
-- **[SOML – A Config Format for Humans](https://github.com/soml-lang/soml)** — Score: 3
+- **[Octomind – open-source AI harness that saves your tokens, static rust](https://github.com/Muvon/octomind)** — Score: 35
+  `ai` `opensource` `rust`
+- **[Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables](https://www.mattkeeter.com/projects/antimony/3/)** — Score: 26
   `architecture` `opensource`
-- **[Skill to Create Product Videos](https://github.com/aaitor/skill-video-studio)** — Score: 3
+- **[Killing what can't be handled – putting a spaghetti demon to eternal rest](https://themaister.net/blog/2026/10/29/killing-what-cant-be-handled-putting-a-spaghetti-demon-to-eternal-rest/)** — Score: 24
+  `debugging` `architecture`
+- **[Notice How Old websites look better than new websites](https://yingster.net/)** — Score: 22
+  `frontend` `architecture`
+- **[No brother of mine will play the flute](https://homosabiens.substack.com/p/no-brother-of-mine-will-play-the)** — Score: 22
   `Another`
-- **[Making Peace with the Projective Plane](https://www.johndcook.com/blog/2026/11/02/projective-plane/)** — Score: 3
+- **[Study estimates 75% of NFL players who died over 15-year span had CTE](https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975)** — Score: 22
   `Another`
-- **[Bitmovin (YC S15) Is Hiring Technical Graduates in Denver (Engineering/CS Focus)](https://bitmovin.com/careers/8660599002/)** — Score: 1
-  `jobs` `backend`
+- **[Tiny Basic for Arduino](https://dilshan.github.io/tiny-basic/)** — Score: 19
+  `arduino` `games` `opensource`
+- **[Show HN: HackerChurn – which SaaS tools HN wants to cancel](https://hissingkitty.com/hacker-churn)** — Score: 17
+  `opensource` `ai`
+- **[Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals](https://concepts.laxmena.com/)** — Score: 14
+  `ai`
+- **[Handles are the better pointers (2018)](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)** — Score: 11
+  `c++` `architecture`
+- **[Bear turns 10, and it still feels like day one](https://blog.bear.app/2026/11/bear-turns-10-and-it-still-feels-like-day-one/)** — Score: 5
+  `Another`
+- **[Embedding boolean circuits in a neural network](https://edwardbenson.com/2026/10/embedding-boolean-circuits-in-a-neural-network)** — Score: 4
+  `ai` `architecture`
+- **[Sava Trust (YC F25) Is Hiring a Founding Engineer in NYC](https://www.ycombinator.com/companies/sava-trust-company/jobs)** — Score: 1
+  `backend` `startup`
 
 ## Dev.to
 
-- **[Architecting Deterministic Safety Gates for Agentic Workflows](https://dev.to/debashish_ghosal/architecting-deterministic-safety-gates-for-agentic-workflows-24pl)** — Score: 14
-  `discuss` `ai` `devops` `cloud`
-- **[I shipped my biggest project ever and felt… nothing](https://dev.to/dhananjay_mundhada_02c326/i-shipped-my-biggest-project-ever-and-felt-nothing-585f)** — Score: 10
-  `discuss` `ai` `career` `productivity`
-- **[I Let AI Type the Code and Lost the Map](https://dev.to/programmerraja/i-let-ai-type-the-code-and-lost-the-map-1jie)** — Score: 7
-  `ai` `learning` `vibecoding`
-- **[AI crawlers vs search crawlers: the 7-night census](https://dev.to/mrsaynothing/ai-crawlers-vs-search-crawlers-the-7-night-census-36g5)** — Score: 6
-  `ai` `seo` `analytics` `webscraping`
-- **[Standard bf16 Rounding Discards 99% of Your RL Policy Updates](https://dev.to/reidmarlow/standard-bf16-rounding-discards-99-of-your-rl-policy-updates-2pf5)** — Score: 5
-  `ai` `machinelearning` `python` `programming`
-- **[How a Trusted Extension Name Delivered an SSH Backdoor Through Cursor's Store](https://dev.to/dhruv1206/how-a-trusted-extension-name-delivered-an-ssh-backdoor-through-cursors-store-31ba)** — Score: 5
-  `security` `vscode` `ai` `devops`
-- **[I built a 3D game about my Nigerian childhood (and I'm not a game developer)](https://dev.to/deborahemeni1/i-built-a-3d-game-about-my-nigerian-childhood-and-im-not-a-game-developer-281g)** — Score: 4
-  `gamedev` `webdev` `ai` `showdev`
-- **[Claude Code Custom System Prompts in 2026: Overriding Defaults, Appending Instructions, and What You Cannot Change](https://dev.to/jsmanifest/claude-code-custom-system-prompts-in-2026-overriding-defaults-appending-instructions-and-what-53lm)** — Score: 1
-  `typescript` `ai` `javascript` `webdev`
-- **[AI coding and open-source CRM: the Salesforce replacement test](https://dev.to/axrisi/ai-coding-and-open-source-crm-the-salesforce-replacement-test-4on2)** — Score: 1
-  `ai` `opensource` `programming` `devops`
-- **[ASP.NET Core Authentication & Authorization Explained: What to Use, When, and How to Ship It Safely](https://dev.to/chethanramaswamy/aspnet-core-authentication-authorization-explained-what-to-use-when-and-how-to-ship-it-safely-fo2)** — Score: 0
-  `dotnet` `aspnetcore` `security` `csharp`
-- **[One Contains Call, 375 Million Comparisons](https://dev.to/ssukhpinder/one-contains-call-375-million-comparisons-3jom)** — Score: 0
+- **[Use it, or lose it 🧠](https://dev.to/fm/use-it-or-lose-it-42l)** — Score: 26
+  `discuss` `ai` `softwaredevelopment` `programming`
+- **[My Agent Gave the Right Answer. Then It Wrote Down That It Was Wrong.](https://dev.to/kenielzep97/my-agent-gave-the-right-answer-then-it-wrote-down-that-it-was-wrong-311d)** — Score: 22
+  `ai` `agents` `python` `opensource`
+- **[I Built a Visual System Design Reference — Switch Any Architecture Between AWS, Azure, GCP & Open Source](https://dev.to/amananandrai/i-built-a-visual-system-design-reference-switch-any-architecture-between-aws-azure-gcp-open-55og)** — Score: 22
+  `systemdesign` `webdev` `opensource` `showdev`
+- **[I Let AI Build a Feature Without Giving It the Full Context](https://dev.to/harsh2644/i-let-ai-build-a-feature-without-giving-it-the-full-context-6h)** — Score: 21
+  `ai` `programming` `webdev` `discuss`
+- **[Your Website Has a Design System. Does Your Marketing Team Have a Content System?](https://dev.to/yassersoliman/your-website-has-a-design-system-does-your-marketing-team-have-a-content-system-27d1)** — Score: 18
+  `webdev` `marketing` `designsystem` `performance`
+- **[OpenRouter Alternatives: 5 AI API Gateways Worth Considering in 2026](https://dev.to/bearerclub/openrouter-alternatives-5-ai-api-gateways-worth-considering-in-2026-2l56)** — Score: 14
+  `ai` `llm` `api` `programming`
+- **[Writing code for a computer that is mostly asleep](https://dev.to/remdore/writing-code-for-a-computer-that-is-mostly-asleep-27ok)** — Score: 12
+  `ai` `cloud` `devops` `architecture`
+- **[My homepage took 8 seconds to load. I threw a CDN, a cache, and lazy-loading at it. It was still slow.](https://dev.to/infoinlet1/my-homepage-took-8-seconds-to-load-i-threw-a-cdn-a-cache-and-lazy-loading-at-it-it-was-still-1abh)** — Score: 12
+  `webdev` `programming` `discuss` `performance`
+- **[FastAPI 0.162.0 fixes a required checkbox that was never actually required](https://dev.to/alexgeorgiev17/fastapi-01620-fixes-a-required-checkbox-that-was-never-actually-required-5boc)** — Score: 11
+  `python` `fastapi` `webdev` `api`
+- **[Supervising AI All Day Is Exhausting. Nobody Scheduled Relief.](https://dev.to/debashish_ghosal/supervising-ai-all-day-is-exhausting-nobody-scheduled-relief-2mci)** — Score: 10
+  `discuss` `ai` `mentalhealth` `career`
+- **[I Built LLM Explained: 43 Interactive Pages That Take You From Tokens to AI Agents](https://dev.to/amananandrai/i-built-llm-explained-43-interactive-pages-that-take-you-from-tokens-to-ai-agents-2n37)** — Score: 9
+  `ai` `showdev` `beginners` `opensource`
+- **[You're Still Writing CSS Like It's 2015: The Modern Architecture Guide That Fixes Specificity Forever](https://dev.to/smtahosin/youre-still-writing-css-like-its-2015-the-modern-architecture-guide-that-fixes-specificity-nlh)** — Score: 9
+  `css` `webdev` `frontend` `programming`
+- **[Your Database Has Backups. Have You Ever Tried Restoring One?](https://dev.to/robertadam987_/your-database-has-backups-have-you-ever-tried-restoring-one-404h)** — Score: 9
+  `database` `devops` `webdev` `discuss`
+- **[The Postcard That Ate Six Grammars: 1980 Smalltalk-80, 1976 Make, TDD, and the Four Attractors of Agentic Coding](https://dev.to/gde/the-postcard-that-ate-six-grammars-1980-smalltalk-80-1976-make-tdd-and-the-four-attractors-of-45me)** — Score: 4
+  `ai` `architecture` `smalltalk` `programming`
+- **[Rack Before You Remember](https://dev.to/kenwalger/rack-before-you-remember-2jl3)** — Score: 3
+  `ai` `llm` `architecture` `programming`
+- **[DevRel Didn't Die, Its Audience Changed](https://dev.to/debs_obrien/devrel-didnt-die-its-audience-changed-586g)** — Score: 3
+  `ai` `agents` `devrel` `mcp`
+- **[My Harness Reported 0 Findings on 100 Files. All 100 Were Ignored.](https://dev.to/ofri-peretz/my-harness-reported-0-findings-on-100-files-all-100-were-ignored-1okn)** — Score: 3
+  `javascript` `eslint` `testing` `webdev`
+- **[Your logos folder is already out of date](https://dev.to/thegdsks/your-logos-folder-is-already-out-of-date-jo8)** — Score: 2
+  `webdev` `javascript` `opensource` `tutorial`
+- **[Day 10: Multi-Database Support: CRUD and Structure Upgrades](https://dev.to/jeff377/day-10-multi-database-support-crud-and-structure-upgrades-1cld)** — Score: 1
+  `architecture` `dotnet` `erp` `softwareengineering`
+- **[pingpad: table tennis in the browser, with your phone as the paddle](https://dev.to/topheman/pingpad-table-tennis-in-the-browser-with-your-phone-as-the-paddle-3e1b)** — Score: 1
+  `webrtc` `gamedev` `webdev` `typescript`
+- **[My Extension Method Became a Property and Lost Nothing](https://dev.to/ssukhpinder/my-extension-method-became-a-property-and-lost-nothing-2lld)** — Score: 0
   `csharp` `dotnet` `programming` `webdev`
-- **[SortedDictionary Kept Sorting My Insertion Order Away](https://dev.to/ssukhpinder/sorteddictionary-kept-sorting-my-insertion-order-away-391j)** — Score: 0
+- **[I Drained a List From the Front. It Shifted Five Billion Elements.](https://dev.to/ssukhpinder/i-drained-a-list-from-the-front-it-shifted-five-billion-elements-1p9k)** — Score: 0
   `csharp` `dotnet` `programming` `webdev`
-- **[Criando um chat inteligente com React, .NET e Microsoft Foundry](https://dev.to/hgmauri/criando-um-chat-inteligente-com-react-net-e-microsoft-foundry-52nj)** — Score: 0
-  `dotnet` `react` `azure` `ai`
 - **[Building an Offline-First POS That Stays Consistent With an Online Store](https://dev.to/storeflux/building-an-offline-first-pos-that-stays-consistent-with-an-online-store-37lh)** — Score: 0
   `architecture` `rust` `tauri` `dotnet`
-- **[C# 14 Extension Members: The Shadowing Bug the Compiler Won't Warn You About](https://dev.to/adrianbailador/c-14-extension-members-the-shadowing-bug-the-compiler-wont-warn-you-about-1595)** — Score: 0
-  `csharp` `dotnet` `programming` `productivity`
-- **[Your Stripe inbox prevents duplicate updates. What about duplicate emails?](https://dev.to/martinpisacreta/your-stripe-inbox-prevents-duplicate-updates-what-about-duplicate-emails-2738)** — Score: 0
-  `dotnet` `csharp` `stripe` `webdev`
-- **[Humanize Perplexity Agent API Output in C#: A .NET 10 Linter for Orphan Citations and Source Talk + 5 Free Tools (2026)](https://dev.to/unaimytext_app/humanize-perplexity-agent-api-output-in-c-a-net-10-linter-for-orphan-citations-and-source-talk--3noc)** — Score: 0
-  `csharp` `dotnet` `perplexity` `ai`
-- **[Your Classifier Says 0.97. Six Ways That Number Lies in .NET 10](https://dev.to/michael_maurice/your-classifier-says-097-six-ways-that-number-lies-in-net-10-52db)** — Score: 0
-  `dotnet` `csharp` `ai` `machinelearning`
-- **[Upgrading a Production API from .NET 8 to .NET 10: What Broke](https://dev.to/softinbit/upgrading-a-production-api-from-net-8-to-net-10-what-broke-4h8c)** — Score: 0
-  `dotnet` `aspnetcore` `efcore` `dotnet10`
-- **[I Knew the Count and Let the List Guess Twenty Times](https://dev.to/ssukhpinder/i-knew-the-count-and-let-the-list-guess-twenty-times-35b0)** — Score: 0
-  `csharp` `dotnet` `programming` `webdev`
-- **[My Struct Key Boxed Itself Two Million Times](https://dev.to/ssukhpinder/my-struct-key-boxed-itself-two-million-times-1if5)** — Score: 0
-  `csharp` `dotnet` `programming` `webdev`
-- **[Ten Years of Rollback Netcode in a Cross-Platform RTS, Without Fixed-Point](https://dev.to/chromealex/ten-years-of-rollback-netcode-in-a-cross-platform-rts-without-fixed-point-2c71)** — Score: 0
-  `gamedev` `networking` `csharp` `unity3d`
-- **[810 blocking calls at once: what the .NET thread pool did to the first burst](https://dev.to/leppsd/810-blocking-calls-at-once-what-the-net-thread-pool-did-to-the-first-burst-551o)** — Score: 0
-  `dotnet` `csharp` `performance` `backenddevelopment`
-- **[ASP.NET Core 'Error Unprotecting the Session Cookie': Why Your Keys Disappear on Deploy](https://dev.to/kausarraza/aspnet-core-error-unprotecting-the-session-cookie-why-your-keys-disappear-on-deploy-42fe)** — Score: 0
-  `aspnetcore` `dotnet` `csharp` `webdev`
-- **[From 1 Minute 56 Seconds to 3 Seconds: Optimizing Database Inserts with Batch Processing](https://dev.to/rishabhrawat05/from-1-minute-56-seconds-to-3-seconds-optimizing-database-inserts-with-batch-processing-1pi4)** — Score: 0
-  `csharp` `database` `performance` `mysql`
-- **[SharpLsp is the .NET Dev Experience You Have Been Looking For](https://dev.to/cfdevelop/sharplsp-is-the-net-dev-experience-you-have-been-looking-for-2f55)** — Score: 0
-  `csharp` `dotnet` `softwaredevelopment`
-- **[Decorator pattern σε CQRS handlers με authorization και telemetry στο .NET](https://dev.to/__b63657/decorator-pattern-se-cqrs-handlers-me-authorization-kai-telemetry-sto-net-7do)** — Score: 0
-  `csharp` `dotnet` `architecture` `cqrs`
-- **[Validating References in NoSQL Databases: A Reusable C# Approach Using MongoDB](https://dev.to/akintunde_morakinyo_db6b2/validating-references-in-nosql-databases-a-reusable-c-approach-using-mongodb-19h1)** — Score: 0
-  `csharp` `mongodb` `architecture` `nosql`
-- **[Before the 2 AM Page: 5 Questions I Ask Every .NET Service Before It Ships](https://dev.to/michael_maurice/before-the-2-am-page-5-questions-i-ask-every-net-service-before-it-ships-1d47)** — Score: 0
-  `dotnet` `csharp` `architecture` `backend`
-- **[AI Search Measurement Needs to Move Beyond Brand Mentions](https://dev.to/alifar/ai-search-measurement-needs-to-move-beyond-brand-mentions-3l06)** — Score: 0
-  `ai` `seo` `geo` `aeo`
+- **[What I learned from building a relational database engine in C#](https://dev.to/janijarvinen/what-i-learned-from-building-a-relational-database-engine-in-c-439j)** — Score: 0
+  `database` `csharp` `dotnet` `learning`
+- **[162 Integration Tests Found 3 Real Bugs in My .NET Wallet Kit](https://dev.to/harut_petrosyan/162-integration-tests-found-3-real-bugs-in-my-net-wallet-kit-34j8)** — Score: 0
+  `dotnet` `csharp` `postgres` `testing`
+- **[Telr payments in ASP.NET Core: the parts the docs skip](https://dev.to/anasamin22311/telr-payments-in-aspnet-core-the-parts-the-docs-skip-2ca0)** — Score: 0
+  `payments` `aspnetcore` `telr` `dotnet`
+- **[Image Search in C#: Find Photos by Description with CLIP, Offline](https://dev.to/olafur_aron/image-search-in-c-find-photos-by-description-with-clip-offline-f8p)** — Score: 0
+  `csharp` `dotnet` `machinelearning` `opensource`
+- **[SQL Server in Docker & .NET Aspire: Zero-Pollution Local Dev Experience](https://dev.to/ondej_podhorny/sql-server-in-docker-net-aspire-zero-pollution-local-dev-experience-2ac2)** — Score: 0
+  `dotnet` `sqlserver` `docker` `aspire`
+- **[Stop Pulling a NuGet Package for zstd. .NET 11 Has ZstandardStream](https://dev.to/iamprincejkc/stop-pulling-a-nuget-package-for-zstd-net-11-has-zstandardstream-3pc8)** — Score: 0
+  `csharp` `dotnet` `performance` `softwaredevelopment`
+- **[Why "stay awake" APIs don't keep you green on Teams](https://dev.to/christianmusumeci00/why-stay-awake-apis-dont-keep-you-green-on-teams-385e)** — Score: 0
+  `macos` `windows` `swift` `csharp`
+- **[How to Debug AI Agent Failures in .NET Using OpenTelemetry and Distributed Tracing](https://dev.to/aiengfoundry/how-to-debug-ai-agent-failures-in-net-using-opentelemetry-and-distributed-tracing-2kgh)** — Score: 0
+  `ai` `csharp` `debugging` `dotnet`
+- **[Central package management and feature flags solve the same problem at opposite speeds](https://dev.to/webruster/central-package-management-and-feature-flags-solve-the-same-problem-at-opposite-speeds-2jlk)** — Score: 0
+  `dotnet` `csharp` `architecture` `webdev`
+- **[Role-based access to reports and folders in ASP.NET Core: users, roles and admin claims](https://dev.to/razisyed/role-based-access-to-reports-and-folders-in-aspnet-core-users-roles-and-admin-claims-13g2)** — Score: 0
+  `dotnet` `csharp` `aspnetcore` `security`
 
