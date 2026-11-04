@@ -26617,5 +26617,518 @@
         ]
       }
     ]
+  },
+  {
+    "DataNoticia": "2026-11-04T16:44:59.8002899Z",
+    "NumeroArtigos": 44,
+    "Artigo": [
+      {
+        "Titulo": "AI is forcing us to pay off 40 years of technical debt",
+        "Url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+        "Fonte": "Hacker News",
+        "Score": 577,
+        "Data": "2026-11-04T16:44:59.4982827Z",
+        "Tag": [
+          "ai",
+          "architecture",
+          "performance"
+        ]
+      },
+      {
+        "Titulo": "Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent (2016)",
+        "Url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+        "Fonte": "Hacker News",
+        "Score": 79,
+        "Data": "2026-11-04T16:44:59.5366507Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+        "Url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+        "Fonte": "Hacker News",
+        "Score": 408,
+        "Data": "2026-11-04T16:44:59.5606815Z",
+        "Tag": [
+          "linux",
+          "ai",
+          "performance"
+        ]
+      },
+      {
+        "Titulo": "Evergreen: A Provably Safe Systems Language",
+        "Url": "https://evergreenlang.net",
+        "Fonte": "Hacker News",
+        "Score": 28,
+        "Data": "2026-11-04T16:44:59.5475476Z",
+        "Tag": [
+          "rust",
+          "opensource"
+        ]
+      },
+      {
+        "Titulo": "North Korean fake job interview led to $6.3B Binance heist",
+        "Url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+        "Fonte": "Hacker News",
+        "Score": 254,
+        "Data": "2026-11-04T16:44:59.5475342Z",
+        "Tag": [
+          "security"
+        ]
+      },
+      {
+        "Titulo": "Show HN: Codemap \u2013 one-page interactive map of any Go repository",
+        "Url": "https://github.com/peterretief/codemap",
+        "Fonte": "Hacker News",
+        "Score": 19,
+        "Data": "2026-11-04T16:44:59.548813Z",
+        "Tag": [
+          "go",
+          "opensource",
+          "architecture"
+        ]
+      },
+      {
+        "Titulo": "Verification Is Not Knowledge: Science needs more than answers",
+        "Url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+        "Fonte": "Hacker News",
+        "Score": 168,
+        "Data": "2026-11-04T16:44:59.5545346Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "\u0027It\u0027s just vape, nail, charity shops\u0027: Can anything save UK high street?",
+        "Url": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
+        "Fonte": "Hacker News",
+        "Score": 34,
+        "Data": "2026-11-04T16:44:59.5364183Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "AMD expects to outsell Intel in Q4 for the first time in history",
+        "Url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+        "Fonte": "Hacker News",
+        "Score": 65,
+        "Data": "2026-11-04T16:44:59.551963Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "Incident with Pull Requests, Git Operations and Issues",
+        "Url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+        "Fonte": "Hacker News",
+        "Score": 194,
+        "Data": "2026-11-04T16:44:59.5517836Z",
+        "Tag": [
+          "devops"
+        ]
+      },
+      {
+        "Titulo": "Adding Window Functions to a Spreadsheet",
+        "Url": "https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/",
+        "Fonte": "Hacker News",
+        "Score": 17,
+        "Data": "2026-11-04T16:44:59.5367051Z",
+        "Tag": [
+          "architecture",
+          "performance"
+        ]
+      },
+      {
+        "Titulo": "Letting users trust their own MCP clients, without opening a phishing hole",
+        "Url": "https://streamvessel.com/blog/mcp-trusted-redirect-uris",
+        "Fonte": "Hacker News",
+        "Score": 13,
+        "Data": "2026-11-04T16:44:59.5470278Z",
+        "Tag": [
+          "security",
+          "architecture"
+        ]
+      },
+      {
+        "Titulo": "Jelly Sheet",
+        "Url": "https://mrdoob.github.io/codevember-2026/01/",
+        "Fonte": "Hacker News",
+        "Score": 378,
+        "Data": "2026-11-04T16:44:59.5365992Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "Show HN: I built a tool that prices a prebuilt PC part by part",
+        "Url": "https://pcdealcheck.com/",
+        "Fonte": "Hacker News",
+        "Score": 10,
+        "Data": "2026-11-04T16:44:59.5480559Z",
+        "Tag": [
+          "backend",
+          "architecture",
+          "opensource"
+        ]
+      },
+      {
+        "Titulo": "Debian apt security update (man-in-the-middle)",
+        "Url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=",
+        "Fonte": "Hacker News",
+        "Score": 59,
+        "Data": "2026-11-04T16:44:59.5543814Z",
+        "Tag": [
+          "security",
+          "linux"
+        ]
+      },
+      {
+        "Titulo": "Kitty 0.50",
+        "Url": "https://sw.kovidgoyal.net/kitty/changelog/#",
+        "Fonte": "Hacker News",
+        "Score": 287,
+        "Data": "2026-11-04T16:44:59.5470458Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "Kimi K3.1 Pro model weights are out",
+        "Url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+        "Fonte": "Hacker News",
+        "Score": 35,
+        "Data": "2026-11-04T16:44:59.5513097Z",
+        "Tag": [
+          "ai",
+          "opensource"
+        ]
+      },
+      {
+        "Titulo": "Mocktastic: A Meshtastic Node on Arduino",
+        "Url": "https://github.com/Vapmuz/Mocktastic",
+        "Fonte": "Hacker News",
+        "Score": 13,
+        "Data": "2026-11-04T16:44:59.5480944Z",
+        "Tag": [
+          "arduino",
+          "c\u002B\u002B",
+          "opensource"
+        ]
+      },
+      {
+        "Titulo": "YC\u0027s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+        "Url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+        "Fonte": "Hacker News",
+        "Score": 29,
+        "Data": "2026-11-04T16:44:59.5538526Z",
+        "Tag": [
+          "ai"
+        ]
+      },
+      {
+        "Titulo": "Stringman, an $800 open-source room scale gripper robot",
+        "Url": "https://neufangled.com/",
+        "Fonte": "Hacker News",
+        "Score": 725,
+        "Data": "2026-11-04T16:44:59.5366539Z",
+        "Tag": [
+          "robotics",
+          "opensource"
+        ]
+      },
+      {
+        "Titulo": "The Internals of PostgreSQL",
+        "Url": "https://www.interdb.jp/pg/index.html",
+        "Fonte": "Hacker News",
+        "Score": 337,
+        "Data": "2026-11-04T16:44:59.5551445Z",
+        "Tag": [
+          "database",
+          "backend"
+        ]
+      },
+      {
+        "Titulo": "The lost malloc()",
+        "Url": "https://napcakes.nekoweb.org/posts/malloc/",
+        "Fonte": "Hacker News",
+        "Score": 115,
+        "Data": "2026-11-04T16:44:59.5361103Z",
+        "Tag": [
+          "c\u002B\u002B",
+          "performance"
+        ]
+      },
+      {
+        "Titulo": "Pierre Computer is being acquired by OpenAI",
+        "Url": "https://twitter.com/pierrecomputer/status/2117999036175188183",
+        "Fonte": "Hacker News",
+        "Score": 30,
+        "Data": "2026-11-04T16:44:59.5362485Z",
+        "Tag": [
+          "ai",
+          "architecture"
+        ]
+      },
+      {
+        "Titulo": "Giant canyon on Mars is still tectonically active",
+        "Url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+        "Fonte": "Hacker News",
+        "Score": 130,
+        "Data": "2026-11-04T16:44:59.5576105Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "Show HN: HackerTV \u2013 HN\u0027s most-recommended Youtube videos as 24/7 TV channels",
+        "Url": "https://hackertv.org",
+        "Fonte": "Hacker News",
+        "Score": 412,
+        "Data": "2026-11-04T16:44:59.5577098Z",
+        "Tag": [
+          "frontend",
+          "backend",
+          "media"
+        ]
+      },
+      {
+        "Titulo": "Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver",
+        "Url": "https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver",
+        "Fonte": "Hacker News",
+        "Score": 111,
+        "Data": "2026-11-04T16:44:59.5474782Z",
+        "Tag": [
+          "opensource",
+          "linux"
+        ]
+      },
+      {
+        "Titulo": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+        "Url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+        "Fonte": "Hacker News",
+        "Score": 112,
+        "Data": "2026-11-04T16:44:59.5533608Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+        "Url": "https://uncracked.city",
+        "Fonte": "Hacker News",
+        "Score": 110,
+        "Data": "2026-11-04T16:44:59.55249Z",
+        "Tag": [
+          "games",
+          "ai"
+        ]
+      },
+      {
+        "Titulo": "Jaron Lanier on parallels between AI and social media",
+        "Url": "https://www.youtube.com/watch?v=WxaRn8kX2eI",
+        "Fonte": "Hacker News",
+        "Score": 36,
+        "Data": "2026-11-04T16:44:59.5519953Z",
+        "Tag": [
+          "ai",
+          "another"
+        ]
+      },
+      {
+        "Titulo": "133,334 Projections for 66,667 Receipts",
+        "Url": "https://dev.to/ssukhpinder/133334-projections-for-66667-receipts-a3m",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-11-04T16:44:59.363595Z",
+        "Tag": [
+          "csharp",
+          "dotnet",
+          "programming",
+          "webdev"
+        ]
+      },
+      {
+        "Titulo": "Exploring MCP: From My First Integration to Architectural Decisions",
+        "Url": "https://dev.to/rodri-oliveira-dev/exploring-mcp-from-my-first-integration-to-architectural-decisions-36gf",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-11-04T16:44:59.3636685Z",
+        "Tag": [
+          "ai",
+          "mcp",
+          "dotnet",
+          "opensource"
+        ]
+      },
+      {
+        "Titulo": "Autoriza\u00E7\u00E3o ABAC no ASP.NET Core: indo al\u00E9m das roles",
+        "Url": "https://dev.to/guigovaski/autorizacao-abac-no-aspnet-core-indo-alem-das-roles-dee",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-11-04T16:44:59.3636711Z",
+        "Tag": [
+          "security",
+          "dotnet"
+        ]
+      },
+      {
+        "Titulo": "TinyLocalization: database-backed translations for .NET, without redeploying",
+        "Url": "https://dev.to/angelodotnet/tinylocalization-database-backed-translations-for-net-without-redeploying-2nd1",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-11-04T16:44:59.3636773Z",
+        "Tag": [
+          "dotnet",
+          "sqlserver",
+          "localization",
+          "fusioncache"
+        ]
+      },
+      {
+        "Titulo": "I Put a Local 7B Model Inside SSMS 21 \u0026 22 (No Cloud, No API Keys)",
+        "Url": "https://dev.to/mosyi_99c4f2/i-put-a-local-7b-model-inside-ssms-21-22-no-cloud-no-api-keys-ii",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-11-04T16:44:59.3636792Z",
+        "Tag": [
+          "ai",
+          "dotnet",
+          "showdev",
+          "sqlserver"
+        ]
+      },
+      {
+        "Titulo": "The Handler Signature That Kept Growing",
+        "Url": "https://dev.to/ssukhpinder/the-handler-signature-that-kept-growing-1apn",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-11-04T16:44:59.3637024Z",
+        "Tag": [
+          "aspnetcore",
+          "dotnet",
+          "csharp",
+          "webdev"
+        ]
+      },
+      {
+        "Titulo": "Privacy Boundaries for AI Telemetry",
+        "Url": "https://dev.to/lukaswalter/privacy-boundaries-for-ai-telemetry-4ji4",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-11-04T16:44:59.3637043Z",
+        "Tag": [
+          "dotnet",
+          "ai",
+          "observability",
+          "opentelemetry"
+        ]
+      },
+      {
+        "Titulo": "What protecting a .NET binary can and cannot solve",
+        "Url": "https://dev.to/proofcloak/what-protecting-a-net-binary-can-and-cannot-solve-56p",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-11-04T16:44:59.3637103Z",
+        "Tag": [
+          "dotnet",
+          "security",
+          "csharp",
+          "testing"
+        ]
+      },
+      {
+        "Titulo": "Your Agent Cited Pastebin: 5 Checks Before You Trust HostedWebSearchTool",
+        "Url": "https://dev.to/michael_maurice/your-agent-cited-pastebin-5-checks-before-you-trust-hostedwebsearchtool-fm2",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-11-04T16:44:59.363712Z",
+        "Tag": [
+          "dotnet",
+          "csharp",
+          "ai",
+          "security"
+        ]
+      },
+      {
+        "Titulo": "\u5728 C# \u91CC\u8FDE\u63A5 Kaspa \u8282\u70B9\u5E76\u53D1\u4E00\u7B14\u4EA4\u6613",
+        "Url": "https://dev.to/lifeme2027/zai-c-li-lian-jie-kaspa-jie-dian-bing-fa-bi-jiao-yi-lea",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-11-04T16:44:59.3637139Z",
+        "Tag": [
+          "csharp",
+          "dotnet",
+          "kaspa",
+          "tutorial"
+        ]
+      },
+      {
+        "Titulo": "From Check-In to Check-Out in a .NET Visitor System",
+        "Url": "https://dev.to/umerfarooqofficial/from-check-in-to-check-out-in-a-net-visitor-system-3j0c",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-11-04T16:44:59.5093491Z",
+        "Tag": [
+          "csharp",
+          "dotnet",
+          "sql",
+          "architecture"
+        ]
+      },
+      {
+        "Titulo": "How to Build Human-in-the-Loop AI Agents in C# with ASP.NET Core",
+        "Url": "https://dev.to/aiengfoundry/how-to-build-human-in-the-loop-ai-agents-in-c-with-aspnet-core-2pph",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-11-04T16:44:59.5093531Z",
+        "Tag": [
+          "ai",
+          "csharp",
+          "dotnet",
+          "tutorial"
+        ]
+      },
+      {
+        "Titulo": "Can an AI assistant fix Godot C# build errors? We tested Ziva on a .NET project",
+        "Url": "https://dev.to/ziva/can-an-ai-assistant-fix-godot-c-build-errors-we-tested-ziva-on-a-net-project-4ja2",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-11-04T16:44:59.509355Z",
+        "Tag": [
+          "godot",
+          "csharp",
+          "gamedev",
+          "ai"
+        ]
+      },
+      {
+        "Titulo": "Connect to a Kaspa Node and Send a Transaction in C# (.NET, Testnet)",
+        "Url": "https://dev.to/lifeme2027/connect-to-a-kaspa-node-and-send-a-transaction-in-c-net-testnet-3d7m",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-11-04T16:44:59.5093567Z",
+        "Tag": [
+          "csharp",
+          "dotnet",
+          "kaspa",
+          "tutorial"
+        ]
+      },
+      {
+        "Titulo": "Modern C# Cheat Sheet: C# 10 to C# 14",
+        "Url": "https://dev.to/softinbit/modern-c-cheat-sheet-c-10-to-c-14-c7b",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-11-04T16:44:59.5093588Z",
+        "Tag": [
+          "csharp",
+          "dotnet",
+          "csharp14",
+          "cheatsheet"
+        ]
+      }
+    ]
   }
 ]
