@@ -1,23 +1,155 @@
 ﻿<!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <title>Tech News Statistics</title>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>TechNewsScraper – Tags mais usadas</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+    <style>
+        :root {
+            --bg: #f1f5f8;
+            --surface: #ffffff;
+            --ink: #13202b;
+            --muted: #53636f;
+            --line: #cfd9e1;
+            --accent: #1c4fd6;
+            --accent-ink: #ffffff;
+            --focus: #d98e04;
+            color-scheme: light;
+        }
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg: #0e1720;
+                --surface: #15222d;
+                --ink: #e8eff4;
+                --muted: #9bb0be;
+                --line: #26394a;
+                --accent: #6c93ff;
+                --accent-ink: #0b1220;
+                --focus: #f2b83c;
+                color-scheme: dark;
+            }
+        }
+        * { box-sizing: border-box; }
+        body {
+            margin: 0;
+            background: var(--bg);
+            color: var(--ink);
+            font: 400 1rem/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+        }
+        .wrap { max-width: 920px; margin: 0 auto; padding: 0 20px; }
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 16px;
+            flex-wrap: wrap;
+            padding: 24px 0;
+        }
+        .brand { font-weight: 800; font-size: 1.15rem; letter-spacing: -0.01em; }
+        .gh {
+            display: inline-block;
+            padding: 9px 16px;
+            border-radius: 8px;
+            background: var(--accent);
+            color: var(--accent-ink);
+            font-weight: 600;
+            text-decoration: none;
+        }
+        .gh:hover { opacity: 0.9; }
+        a:focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; }
+        h1 { font-size: clamp(1.6rem, 4vw, 2.3rem); line-height: 1.15; margin: 8px 0 6px; }
+        .meta { color: var(--muted); margin: 0 0 24px; }
+        .card {
+            background: var(--surface);
+            border: 1px solid var(--line);
+            border-radius: 12px;
+            padding: 20px;
+        }
+        .chart-box { position: relative; height: 670px; }
+        .empty { color: var(--muted); padding: 32px 0; text-align: center; }
+        footer { color: var(--muted); font-size: 0.9rem; padding: 28px 0 48px; }
+        footer a { color: var(--accent); }
+    </style>
 </head>
 <body>
-    <h1>Most Used Tags (Last 30 Days)</h1>
-    <canvas id="chart" width="800" height="800"></canvas>
+    <div class="wrap">
+        <header>
+            <span class="brand">TechNewsScraper</span>
+            <a class="gh" href="https://github.com/jurachgb/Tech_News.git" target="_blank" rel="noopener">Ver no GitHub</a>
+        </header>
+        <main>
+            <h1>Tags mais usadas nos últimos 30 dias</h1>
+            <p class="meta">144 ocorrências nas 15 principais tags · gerado em 10/11/2026 20:15</p>
+            <div class="card">
+                <div class="chart-box">
+                    <canvas id="chart" role="img" aria-label="Gráfico de barras com as tags mais usadas"></canvas>
+                </div>
+            </div>
+        </main>
+        <footer>
+            Dados coletados do Hacker News e do Dev.to. Mais informações no Github.
+            Código-fonte em <a href="https://github.com/jurachgb/Tech_News.git" target="_blank" rel="noopener">https://github.com/jurachgb/Tech_News.git</a>.
+        </footer>
+    </div>
     <script>
-        new Chart(document.getElementById('chart'), {
-            type: 'pie',
-            data: {
-                labels: ["ai","dotnet","webdev","Another","csharp","programming","architecture","opensource","discuss","cloud","showdev","agents","linux","security","typescript"],
-                datasets: [{
-                    data: [23,13,12,11,10,8,6,5,5,4,4,4,3,3,3]
-                }]
-            }
-        });
+        const labels = ["ai","webdev","dotnet","csharp","opensource","devops","security","architecture","discuss","hardware","productivity","programming","agents","backend","cloud"];
+        const values = [24,18,17,13,13,12,7,6,6,6,5,5,4,4,4];
+        const total = 144;
+
+        if (labels.length === 0) {
+            document.querySelector('.chart-box').outerHTML =
+                '<p class="empty">Ainda não há tags registradas.</p>';
+        } else {
+            const css = getComputedStyle(document.documentElement);
+            const ink = css.getPropertyValue('--ink').trim();
+            const muted = css.getPropertyValue('--muted').trim();
+            const line = css.getPropertyValue('--line').trim();
+            const dark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+            const colors = labels.map((_, i) =>
+                'hsl(' + ((i * 137.508 + 215) % 360).toFixed(1) + ', 68%, ' + (dark ? 62 : 46) + '%)');
+
+            new Chart(document.getElementById('chart'), {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        data: values,
+                        backgroundColor: colors,
+                        borderRadius: 4,
+                        barPercentage: 0.78
+                    }]
+                },
+                options: {
+                    indexAxis: 'y',
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: { display: false },
+                        tooltip: {
+                            callbacks: {
+                                label: function (ctx) {
+                                    const pct = (ctx.parsed.x / total * 100).toFixed(1);
+                                    return ctx.parsed.x.toLocaleString('pt-BR') + ' (' + pct + '%)';
+                                }
+                            }
+                        }
+                    },
+                    scales: {
+                        x: {
+                            beginAtZero: true,
+                            ticks: { color: muted, precision: 0 },
+                            grid: { color: line }
+                        },
+                        y: {
+                            ticks: { color: ink, font: { size: 14 } },
+                            grid: { display: false }
+                        }
+                    }
+                }
+            });
+        }
     </script>
 </body>
 </html>
