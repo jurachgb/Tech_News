@@ -1,62 +1,224 @@
 namespace Graphics;
-
+ 
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Net;
 using System.Text;
+using System.Text.Json;
 using Database.Models;
 using Estatisticas;
-
+ 
 public static class HtmlCharts
 {
-    public static void GenerateHtmlChartFromDb(string dbPath = "", string outputPath = "output/View/chart.html")
+    
+    public const string DefaultGithubUrl = "https://github.com/jurachgb/Tech_News.git";
+ 
+    private static readonly HashSet<string> IgnoredTags = new(StringComparer.OrdinalIgnoreCase)
+    {
+        "another"
+    };
+ 
+    private const int TopCount = 15;
+ 
+    public static void GenerateHtmlChartFromDb(
+        string dbPath = "",
+        string outputPath = "output/View/chart.html",
+        string githubUrl = DefaultGithubUrl)
     {
         var tagCounts = Statistic.GetTagCountsFromDb(dbPath);
         var tagDict = tagCounts.ToDictionary(t => t.Tag, t => t.Count);
-        GenerateHtmlChart(tagDict, outputPath);
+        GenerateHtmlChart(tagDict, outputPath, githubUrl);
     }
-
-    public static void GenerateHtmlChart(Dictionary<string, int> tags, string outputPath)
+ 
+    public static void GenerateHtmlChart(
+        Dictionary<string, int> tags,
+        string outputPath,
+        string githubUrl = DefaultGithubUrl)
     {
-        var top = tags.OrderByDescending(t => t.Value).Take(15).ToList();
-
-        var labels = string.Join(",", top.Select(t => $"\"{t.Key}\""));
-        var values = string.Join(",", top.Select(t => t.Value));
-
+        var top = tags
+            .Where(t => !string.IsNullOrWhiteSpace(t.Key) && !IgnoredTags.Contains(t.Key.Trim()))
+            .OrderByDescending(t => t.Value)
+            .ThenBy(t => t.Key, StringComparer.OrdinalIgnoreCase)
+            .Take(TopCount)
+            .ToList();
+ 
+        // JsonSerializer escapa aspas e "<", então é seguro dentro do <script>.
+        var labels = JsonSerializer.Serialize(top.Select(t => t.Key));
+        var values = JsonSerializer.Serialize(top.Select(t => t.Value));
+ 
+        var total = top.Sum(t => t.Value);
+        var generatedAt = DateTime.Now.ToString("dd/MM/yyyy HH:mm");
+        var safeGithubUrl = WebUtility.HtmlEncode(githubUrl);
+        var chartHeight = Math.Max(top.Count, 1) * 42 + 40;
+ 
         string html = $$"""
             <!DOCTYPE html>
-            <html>
+            <html lang="pt-BR">
             <head>
                 <meta charset="UTF-8">
-                <title>Tech News Statistics</title>
-                <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+                <meta name="viewport" content="width=device-width, initial-scale=1">
+                <title>TechNewsScraper – Tags mais usadas</title>
+                <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+                <style>
+                    :root {
+                        --bg: #f1f5f8;
+                        --surface: #ffffff;
+                        --ink: #13202b;
+                        --muted: #53636f;
+                        --line: #cfd9e1;
+                        --accent: #1c4fd6;
+                        --accent-ink: #ffffff;
+                        --focus: #d98e04;
+                        color-scheme: light;
+                    }
+                    @media (prefers-color-scheme: dark) {
+                        :root {
+                            --bg: #0e1720;
+                            --surface: #15222d;
+                            --ink: #e8eff4;
+                            --muted: #9bb0be;
+                            --line: #26394a;
+                            --accent: #6c93ff;
+                            --accent-ink: #0b1220;
+                            --focus: #f2b83c;
+                            color-scheme: dark;
+                        }
+                    }
+                    * { box-sizing: border-box; }
+                    body {
+                        margin: 0;
+                        background: var(--bg);
+                        color: var(--ink);
+                        font: 400 1rem/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+                    }
+                    .wrap { max-width: 920px; margin: 0 auto; padding: 0 20px; }
+                    header {
+                        display: flex;
+                        justify-content: space-between;
+                        align-items: center;
+                        gap: 16px;
+                        flex-wrap: wrap;
+                        padding: 24px 0;
+                    }
+                    .brand { font-weight: 800; font-size: 1.15rem; letter-spacing: -0.01em; }
+                    .gh {
+                        display: inline-block;
+                        padding: 9px 16px;
+                        border-radius: 8px;
+                        background: var(--accent);
+                        color: var(--accent-ink);
+                        font-weight: 600;
+                        text-decoration: none;
+                    }
+                    .gh:hover { opacity: 0.9; }
+                    a:focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; }
+                    h1 { font-size: clamp(1.6rem, 4vw, 2.3rem); line-height: 1.15; margin: 8px 0 6px; }
+                    .meta { color: var(--muted); margin: 0 0 24px; }
+                    .card {
+                        background: var(--surface);
+                        border: 1px solid var(--line);
+                        border-radius: 12px;
+                        padding: 20px;
+                    }
+                    .chart-box { position: relative; height: {{chartHeight}}px; }
+                    .empty { color: var(--muted); padding: 32px 0; text-align: center; }
+                    footer { color: var(--muted); font-size: 0.9rem; padding: 28px 0 48px; }
+                    footer a { color: var(--accent); }
+                </style>
             </head>
             <body>
-                <h1>Most Used Tags (Last 30 Days)</h1>
-                <canvas id="chart" width="800" height="800"></canvas>
+                <div class="wrap">
+                    <header>
+                        <span class="brand">TechNewsScraper</span>
+                        <a class="gh" href="{{safeGithubUrl}}" target="_blank" rel="noopener">Ver no GitHub</a>
+                    </header>
+                    <main>
+                        <h1>Tags mais usadas nos últimos 30 dias</h1>
+                        <p class="meta">{{total}} ocorrências nas {{top.Count}} principais tags · gerado em {{generatedAt}}</p>
+                        <div class="card">
+                            <div class="chart-box">
+                                <canvas id="chart" role="img" aria-label="Gráfico de barras com as tags mais usadas"></canvas>
+                            </div>
+                        </div>
+                    </main>
+                    <footer>
+                        Dados coletados do Hacker News e do Dev.to. Mais informações no Github.
+                        Código-fonte em <a href="{{safeGithubUrl}}" target="_blank" rel="noopener">{{safeGithubUrl}}</a>.
+                    </footer>
+                </div>
                 <script>
-                    new Chart(document.getElementById('chart'), {
-                        type: 'pie',
-                        data: {
-                            labels: [{{labels}}],
-                            datasets: [{
-                                data: [{{values}}]
-                            }]
-                        }
-                    });
+                    const labels = {{labels}};
+                    const values = {{values}};
+                    const total = {{total}};
+ 
+                    if (labels.length === 0) {
+                        document.querySelector('.chart-box').outerHTML =
+                            '<p class="empty">Ainda não há tags registradas.</p>';
+                    } else {
+                        const css = getComputedStyle(document.documentElement);
+                        const ink = css.getPropertyValue('--ink').trim();
+                        const muted = css.getPropertyValue('--muted').trim();
+                        const line = css.getPropertyValue('--line').trim();
+                        const dark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+ 
+                        const colors = labels.map((_, i) =>
+                            'hsl(' + ((i * 137.508 + 215) % 360).toFixed(1) + ', 68%, ' + (dark ? 62 : 46) + '%)');
+ 
+                        new Chart(document.getElementById('chart'), {
+                            type: 'bar',
+                            data: {
+                                labels: labels,
+                                datasets: [{
+                                    data: values,
+                                    backgroundColor: colors,
+                                    borderRadius: 4,
+                                    barPercentage: 0.78
+                                }]
+                            },
+                            options: {
+                                indexAxis: 'y',
+                                responsive: true,
+                                maintainAspectRatio: false,
+                                plugins: {
+                                    legend: { display: false },
+                                    tooltip: {
+                                        callbacks: {
+                                            label: function (ctx) {
+                                                const pct = (ctx.parsed.x / total * 100).toFixed(1);
+                                                return ctx.parsed.x.toLocaleString('pt-BR') + ' (' + pct + '%)';
+                                            }
+                                        }
+                                    }
+                                },
+                                scales: {
+                                    x: {
+                                        beginAtZero: true,
+                                        ticks: { color: muted, precision: 0 },
+                                        grid: { color: line }
+                                    },
+                                    y: {
+                                        ticks: { color: ink, font: { size: 14 } },
+                                        grid: { display: false }
+                                    }
+                                }
+                            }
+                        });
+                    }
                 </script>
             </body>
             </html>
             """;
-
+ 
         var dir = Path.GetDirectoryName(outputPath);
         if (!string.IsNullOrEmpty(dir) && !Directory.Exists(dir))
         {
             Directory.CreateDirectory(dir);
         }
-
+ 
         File.WriteAllText(outputPath, html, Encoding.UTF8);
         Console.WriteLine($"[Statistics] HTML gerado em {outputPath}");
     }
 }
+ 
