@@ -1,96 +1,98 @@
 ﻿# Tech News Report
 
-> Gerado em: 12/11/2026 17:17 UTC | Total: 43 artigos
+> Gerado em: 13/11/2026 16:53 UTC | Total: 44 artigos
 
 ## Hacker News
 
-- **[NVIDIA Announces CEO Transition](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition)** — Score: 1419
+- **[Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)** — Score: 3863
   `Another`
-- **[Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)** — Score: 1368
-  `Another`
-- **[AWS emulator](https://github.com/aws/aws-emulator)** — Score: 935
-  `cloud` `devops` `backend`
-- **[93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/)** — Score: 544
-  `Another`
-- **[Socratic Tutor](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md)** — Score: 541
-  `tutorial` `ai`
-- **[Anthropic IPO](https://ipo.anthropic.com/us/)** — Score: 529
-  `ai` `career`
-- **[Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)** — Score: 324
-  `security` `opensource` `backend`
-- **[A live tree of systemd jobs on the boot console](https://codeberg.org/wvhulle/bootvine)** — Score: 273
-  `linux` `devops`
-- **[Why Writing Correct Software Is Hard](https://pron.github.io/posts/correctness-and-complexity)** — Score: 265
-  `architecture` `debugging` `performance`
-- **[Abandoned Quake 4 expansion finished by modders and now playable](https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64)** — Score: 112
-  `games` `opensource`
-- **[Making a €40 USB-C hub work as a Nintendo Switch 2 dock](http://blog.nozomi.space/posts/sw2_dock/)** — Score: 112
-  `hardware` `games`
-- **[Talking Zen 6 with Mike Clark at AMD In-Depth](https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at)** — Score: 97
-  `hardware` `science`
-- **[Researchers discover rare star system that emits radio signals every 8 minutes](https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/)** — Score: 81
-  `science`
-- **[Our software engineering interviews are changing (a little)](https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/)** — Score: 80
-  `career`
-- **[Libreagi – Save OSS Models](https://libreagi.com/)** — Score: 62
-  `opensource` `ai`
-- **[PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC 2 Released](https://www.postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442/)** — Score: 61
-  `database`
-- **[I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/)** — Score: 52
+- **[Service degradation on Microsoft 365](https://status.cloud.microsoft/)** — Score: 1093
+  `cloud` `microsoft`
+- **[Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)** — Score: 815
+  `rust`
+- **[Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag)** — Score: 671
+  `hardware` `opensource`
+- **[Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/)** — Score: 471
+  `ai` `cloud`
+- **[I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/)** — Score: 442
   `ai` `mobile` `hardware`
-- **[Research taste in history: the importance of learning Babylonian math](https://resobscura.substack.com/p/research-taste-in-history-the-importance)** — Score: 48
+- **[Elevated errors on claude.ai, Claude Code, and platform.claude.com](https://status.claude.com/incidents/nn11wk485zfn)** — Score: 418
+  `ai` `webdev` `backend`
+- **[Former Nvidia CEO Huang had a relationship with a second employee, sources say](https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/)** — Score: 397
   `Another`
-- **[Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games](https://fable52.games)** — Score: 41
-  `games` `webdev`
-- **[Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep](https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep)** — Score: 41
-  `opensource` `security`
-- **[Electric Ship Batteries Promise Compact, Cooler Power](https://spectrum.ieee.org/electric-ship-batteries)** — Score: 35
-  `hardware` `science`
-- **[Running web sites makes me not want to](https://lowkey.party/running-web-sites-makes-me-not-want-to)** — Score: 34
-  `webdev` `frontend`
-- **[Show HN: Build a PC in 3D in the Browser](https://www.buildcores.com)** — Score: 34
-  `webdev` `frontend` `games`
-- **[ExcalidrawZ: Local Native Excalidraw on macOS/iOS](https://github.com/chocoford/ExcalidrawZ)** — Score: 29
-  `mobile` `swift`
-- **[Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux](https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/)** — Score: 27
-  `linux` `hardware`
-- **[Pulling the Lever in a Subway Problem](https://www.jefftk.com/p/pulling-the-lever-in-a-subway-problem)** — Score: 13
+- **[Dwarf planet candidate appears which takes roughly 280 years to orbit our sun](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/)** — Score: 366
+  `science`
+- **[Doomsday: Friday, 13 November, A.D. 2026 (1960)](https://www.science.org/doi/10.1126/science.132.3436.1291)** — Score: 319
   `Another`
-- **[Show HN: AI Red Lines – write down what would make you act on AI](https://yourairedlines.com)** — Score: 12
-  `ai` `security`
-- **[AWS Lambda Web Functions keep billing memory ~7 minutes after the last request](https://www.easel.sh/blog/lambda-web-functions-idle-memory)** — Score: 8
-  `cloud` `architecture` `performance`
-- **[Decoding REXPaint Files in Odin](https://tylerelton.com/posts/decoding-rexpaint-files-in-odin/)** — Score: 7
-  `cpp` `games` `opensource`
-- **[Show HN: A self-hosted PHP platform combining CMS, e-commerce and more, built-in](https://getvale.org)** — Score: 7
-  `php` `webdev` `backend` `opensource`
+- **[Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer)** — Score: 313
+  `ai` `hardware`
+- **[IceWM](https://ice-wm.org/)** — Score: 310
+  `linux` `opensource`
+- **[Reverse Engineering My Coway Air Purifier to Ditch the Cloud](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/)** — Score: 298
+  `security` `hardware`
+- **[Foundation Models framework](https://developer.apple.com/foundation-models-framework/)** — Score: 250
+  `ai`
+- **[Brave Search API now accepts agentic payments via the x402 protocol](https://brave.com/blog/search-api-agentic-payments/)** — Score: 214
+  `webdev` `ai` `cloud`
+- **[AI Is Destroying the Trust Between Writers and Readers](https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/)** — Score: 165
+  `ai`
+- **[Switcher (2004)](https://folklore.org/Switcher.html)** — Score: 128
+  `Another`
+- **[Why Zig over C for Systems Programming](https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/)** — Score: 126
+  `cpp` `architecture`
+- **[The Dawn of the Data Intelligence Engineer](https://motherduck.com/blog/the-data-intelligence-engineer/)** — Score: 110
+  `architecture` `career`
+- **[US university students tell surveillance cameras to Flock off](https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts)** — Score: 86
+  `Another`
+- **[Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers](https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e)** — Score: 80
+  `security`
+- **[The 42-Year Journey to Bring 'Neuromancer' to the Screen](https://www.wired.com/story/exclusive-apple-tv-neuromancer-creator-interviews/)** — Score: 74
+  `Another`
+- **[A technical vision for the Haskell ecosystem](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078)** — Score: 57
+  `opensource` `backend`
+- **[Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]](https://www.youtube.com/watch?v=IRK8h67ol7Q)** — Score: 57
+  `ai` `games` `career`
+- **[EU Digital Identity Wallet rollout: every EU state on one board](https://myid.ie/business/eu-digital-wallet-tracker/)** — Score: 51
+  `security` `architecture` `cloud`
+- **[US test reactor cleared for operations](https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations)** — Score: 40
+  `science` `hardware`
+- **[Lonewolf 0.3 – A standalone XMPP server written in Rust](https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0)** — Score: 37
+  `rust` `opensource` `backend`
+- **[Why is Google cutting off Search from AI-free schools? Here are some theories](https://text.npr.org/nx-s1-6029408)** — Score: 35
+  `ai` `webdev`
+- **[Palmfrets, Minnesota guitarist's invention, strikes a new chord](https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord)** — Score: 21
+  `Another`
 
 ## Dev.to
 
-- **[Slow Unity IL2CPP Builds Usually Come in Three Kinds](https://dev.to/echolin/slow-unity-il2cpp-builds-usually-come-in-three-kinds-298h)** — Score: 2
-  `unity3d` `gamedev` `performance` `csharp`
-- **[I Re-Encoded the Same Eight Bytes Four Million Times](https://dev.to/ssukhpinder/i-re-encoded-the-same-eight-bytes-four-million-times-f21)** — Score: 1
+- **[175 MB of Substrings to Read One Column](https://dev.to/ssukhpinder/175-mb-of-substrings-to-read-one-column-44e1)** — Score: 1
   `csharp` `dotnet` `programming` `webdev`
-- **[The Array Hiding in Every params Call](https://dev.to/ssukhpinder/the-array-hiding-in-every-params-call-4hf9)** — Score: 1
-  `csharp` `dotnet` `programming` `webdev`
+- **[One Endpoint Filter, Six Fewer Guard Clauses](https://dev.to/ssukhpinder/one-endpoint-filter-six-fewer-guard-clauses-4ilp)** — Score: 1
+  `aspnetcore` `dotnet` `csharp` `webdev`
+- **[.NET 8 and .NET 9 Are Out of Support: How to Move to .NET 10](https://dev.to/nabil_since_dev/net-8-and-net-9-are-out-of-support-how-to-move-to-net-10-573d)** — Score: 1
+  `dotnet` `csharp` `devops` `programming`
+- **[Building a Resilient RAG System with .NET 10 and AWS Bedrock](https://dev.to/joaooliveiratech/building-a-resilient-rag-system-with-net-10-and-aws-bedrock-6mo)** — Score: 1
+  `ai` `csharp` `aws` `rag`
 - **[⁧مدفوعات Telr في ASP.NET Core: ما لا تقوله الوثائق⁩](https://dev.to/anasamin22311/mdfwt-telr-fy-aspnet-core-m-l-tqwlh-lwthyq-e83)** — Score: 0
   `dotnet` `payments` `telr` `arabic`
-- **[One Line of EF Core Config Cut My Query’s Reads by 99%](https://dev.to/umerfarooqofficial/one-line-of-ef-core-config-cut-my-querys-reads-by-99-1pc6)** — Score: 0
-  `csharp` `dotnet` `sql` `sqlserver`
-- **[SQL Server Multiple Cascade Paths (Error 1785): Which Foreign Key Loses ON DELETE CASCADE, and What Replaces It](https://dev.to/tbson87/sql-server-multiple-cascade-paths-error-1785-which-foreign-key-loses-on-delete-cascade-and-what-55an)** — Score: 0
-  `sqlserver` `database` `sql` `dotnet`
-- **[Build a Sales Report API in ASP.NET Core with PDF, XLSX and CSV](https://dev.to/esegece_com/build-a-sales-report-api-in-aspnet-core-with-pdf-xlsx-and-csv-5be3)** — Score: 0
-  `dotnet` `csharp` `aspnetcore` `pdf`
-- **[Google Maps Platform in .NET without the JSON plumbing: meet AarxMaps](https://dev.to/jsebas11/google-maps-platform-in-net-without-the-json-plumbing-meet-aarxmaps-5cin)** — Score: 0
-  `dotnet` `csharp` `opensource` `showdev`
-- **[SearchValues<T> in .NET 8/9 (.NET & C#)](https://dev.to/maayurdahake/searchvalues-in-net-89-net-c-2i7d)** — Score: 0
-  `dotnet` `csharp` `performance` `programming`
-- **[The Answer Cited Source [7]. I Only Sent Five: Trusting RAG Citations in .NET](https://dev.to/michael_maurice/the-answer-cited-source-7-i-only-sent-five-trusting-rag-citations-in-net-4422)** — Score: 0
-  `dotnet` `csharp` `ai` `llm`
-- **[Curious how Fable 5.2 performs in development. Anyone been testing it?](https://dev.to/hijiwee/curious-how-fable-52-performs-in-development-anyone-been-testing-it-1eni)** — Score: 0
-  `dotnet` `programming` `softwaredevelopment` `testing`
-- **[Construye un agente de desarrollo .NET, Parte 3: haz que te recuerde](https://dev.to/jgomezdev/construye-un-agente-de-desarrollo-net-parte-3-haz-que-te-recuerde-2980)** — Score: 0
+- **[Arabic and English in one Angular app: direction, fonts and numbers](https://dev.to/anasamin22311/arabic-and-english-in-one-angular-app-direction-fonts-and-numbers-55bi)** — Score: 0
+  `angular` `rtl` `i18n` `dotnet`
+- **[app_offline.htm in ASP.NET Core: How It Works and Why It Fails](https://dev.to/kausarraza/appofflinehtm-in-aspnet-core-how-it-works-and-why-it-fails-40a4)** — Score: 0
+  `dotnet` `aspnetcore` `devops` `webdev`
+- **[Talking to an IBM i (AS/400) from .NET: data queues, COBOL and a live web page](https://dev.to/emmanuel_dinicola/talking-to-an-ibm-i-as400-from-net-data-queues-cobol-and-a-live-web-page-1i79)** — Score: 0
+  `backend` `dotnet` `programming` `tutorial`
+- **[Integrating PayChangu Payments into .NET Applications with PayChangu.NET](https://dev.to/msiskasmith/integrating-paychangu-payments-into-net-applications-with-paychangunet-3i5a)** — Score: 0
+  `opensource` `dotnet` `csharp` `api`
+- **["Failed" Is a Lie Your .NET Agent Tells the Model: Four Outcomes Every Tool Call Needs](https://dev.to/michael_maurice/failed-is-a-lie-your-net-agent-tells-the-model-four-outcomes-every-tool-call-needs-4bih)** — Score: 0
   `dotnet` `csharp` `ai` `agents`
-- **[SearchValues<T> (.NET & C#)](https://dev.to/maayurdahake/searchvalues-net-c-2fkm)** — Score: 0
-  `dotnet` `csharp` `performance` `programming`
+- **[Todo projeto .NET tem a mesma pasta "Utils". Aqui está uma proposta para mudá-la.](https://dev.to/thaylon_lopes/todo-projeto-net-tem-a-mesma-pasta-utils-aqui-esta-uma-proposta-para-muda-la-2eg8)** — Score: 0
+  `architecture` `dotnet` `nuget` `cleancode`
+- **[How to Build an Enemy Spawn Trigger in Unity (C#)](https://dev.to/dalanchoo/how-to-build-an-enemy-spawn-trigger-in-unity-c-5ec1)** — Score: 0
+  `unity3d` `csharp` `gamedev` `tutorial`
+- **[Build Smarter AI Agents: Use Deterministic Code Before Calling an LLM](https://dev.to/naimulkarim/build-smarter-ai-agents-use-deterministic-code-before-calling-an-llm-3ipc)** — Score: 0
+  `ai` `softwareengineering` `architecture` `csharp`
+- **[Monolith, Modular Monolith and Microservices: A Practical Comparison for .NET](https://dev.to/mgebrov/monolith-modular-monolith-and-microservices-a-practical-comparison-for-net-pdc)** — Score: 0
+  `dotnet` `csharp` `architecture` `microservices`
+- **[.NET 8 support ended on 10 November: a migration checklist for WinForms, WPF and Office add-ins](https://dev.to/bakigervalla/net-8-support-ended-on-10-november-a-migration-checklist-for-winforms-wpf-and-office-add-ins-47b8)** — Score: 0
+  `dotnet` `csharp` `winforms` `wpf`
 
