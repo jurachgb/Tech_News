@@ -1,100 +1,96 @@
 ﻿# Tech News Report
 
-> Gerado em: 16/11/2026 19:09 UTC | Total: 45 artigos
+> Gerado em: 17/11/2026 18:02 UTC | Total: 43 artigos
 
 ## Hacker News
 
-- **[Qwen4-Max](https://qwen.ai/blog?id=qwen4-max)** — Score: 823
-  `ai` `microsoft`
-- **[How to make almost anything](https://pub.cba.mit.edu/863.26/site/)** — Score: 748
-  `hardware` `robotics`
-- **[Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings](http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/)** — Score: 603
+- **[Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)** — Score: 2125
+  `tutorial` `ai` `opensource`
+- **[New Evidence Shows School Phone Bans Are Gradually Improving Test Scores](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)** — Score: 859
   `Another`
-- **[Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)** — Score: 574
+- **[BugMeNot has closed](https://www.bugmenot.com/)** — Score: 691
   `security` `webdev`
-- **[Protomaps: Self-hosting map tiles has gotten cheap and easy](https://bruceroettgers.eu/blog/protomaps/)** — Score: 449
-  `webdev` `cloud` `opensource`
-- **[What's Next for Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/)** — Score: 429
-  `ai` `hardware`
-- **[Old Bitly links are being hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/)** — Score: 368
+- **[Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)** — Score: 589
   `security`
-- **[The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)](https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/)** — Score: 248
-  `hardware` `linux`
-- **[Interpreting claims that a theorem is correct because it was checked in Lean](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/)** — Score: 240
-  `science` `architecture`
-- **[Researchers track whole body movement with just a smartwatch](https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch)** — Score: 172
-  `hardware` `mobile` `science`
-- **[Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/)** — Score: 136
-  `rust` `devops` `backend`
-- **[OOS – an open operating system for the Rigol Scopes](https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/)** — Score: 103
-  `hardware` `opensource` `linux`
-- **[Grazing sheep in fields with solar arrays](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains)** — Score: 86
-  `Another`
-- **[Software is breaking down at a systemic level](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/)** — Score: 82
-  `architecture` `security` `performance`
-- **[The Active Directory Era Is Finally Over](https://infisical.com/blog/active-directory-machine-identity)** — Score: 74
-  `security` `architecture` `microsoft`
-- **[Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME](https://github.com/ages2001/WINUDF)** — Score: 74
-  `microsoft` `hardware`
-- **[Frame – 31.5" color ePaper display](https://trmnl.com/blog/introducing-frame)** — Score: 51
-  `hardware` `opensource`
-- **[Aristotle Expands into Rust](https://www.harmonic.fun/news/aristotle-rust-verification/)** — Score: 32
-  `rust` `ai`
-- **[OpenAI: Strengthening the fight against online child sexual abuse](https://openai.com/index/strengthening-online-child-safety/)** — Score: 29
-  `ai` `security`
-- **[Smallest possible nopert polyhedra: the Septopert](https://github.com/tom7/noperts/blob/main/septopert.md)** — Score: 28
+- **[Chemistry is Actually Geometry](https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry)** — Score: 316
   `science`
-- **[Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself](https://copyrightlately.com/michael-mann-heat-copyright-termination/)** — Score: 25
-  `Another`
-- **[Just 400 US Data Centers Use More Electricity Than Michigan](https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/)** — Score: 24
-  `cloud` `hardware`
-- **[A 512 KiB binary message teaching chess without a shared language](https://artemlegotin.com/golden-board/)** — Score: 24
-  `games`
-- **[Jolt – Clojure that speaks C](https://jolt-lang.net/)** — Score: 23
-  `dotnet` `csharp` `architecture`
-- **[Chase Bank is now also having a meltdown](https://twitter.com/downdetector/status/2122345174290374924)** — Score: 16
-  `Another`
-- **[US Banks report outages in latest tech hiccup](https://nypost.com/2026/11/16/business/outages-hit-chase-bank-of-america-and-wells-fargo-customers/)** — Score: 14
-  `Another`
-- **[Show HN: Fakemetrics.com – "build in public" like a superstar](https://fakemetrics.com/)** — Score: 12
+- **[We don't need more apps. We need better open source](https://jordankrueger.com/blog/better-open-source-not-more-apps/)** — Score: 279
   `opensource` `webdev`
-- **[Quxnet Is a Breath of Fresh Air](https://moddedbear.com/quxnet-is-a-breath-of-fresh-air/)** — Score: 10
+- **[Why 3dfx 1 cards had such a washed out color output?](https://twitter.com/id_aa_carmack/status/2122478083319992513)** — Score: 253
+  `hardware` `games`
+- **[If an App Asks for Full Disk Access or System and App Protection Override](https://support.apple.com/en-us/149699)** — Score: 213
+  `security`
+- **[Highly classified US national security communications network goes down](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down)** — Score: 209
+  `security` `architecture`
+- **[What is the best harness for each model?](https://runta.com/blog/introducing-frontierharness-eval-v1-1/)** — Score: 183
   `Another`
-- **[Chase, US Bank, Zelle, others are down](https://www.boston25news.com/news/trending/customers-report-chase-us-bank-zelle-others-are-down/LYYL3KX37JAGDGDPB65AS36Q24/)** — Score: 8
+- **[VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012](https://visualbasic.world/)** — Score: 175
+  `microsoft` `opensource`
+- **[How the Claude Code team thinks about verification](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/)** — Score: 170
+  `ai` `architecture`
+- **[NSA Internal Network Down](https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/)** — Score: 155
+  `security` `devops` `linux`
+- **[Nimony: A New Compiler for Nim](https://nimony.org/)** — Score: 155
+  `cpp`
+- **[GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)** — Score: 151
+  `ai`
+- **[Rows vs. Columns: How different are they, really?](https://spiraldb.com/blog/rows-vs-columns)** — Score: 117
+  `architecture` `database`
+- **[Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off](https://alloyhtml.com/example.html)** — Score: 97
+  `webdev` `frontend` `javascript` `opensource`
+- **[Turbo Pascal Compiler Written in Turbo Pascal](https://turbo51.com/compiler-design/tpc16-turbo-pascal-compiler-written-in-turbo-pascal)** — Score: 83
+  `cpp` `opensource`
+- **[First Photos of the Poles of a Rod-Shaped Bacterium](https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664)** — Score: 75
+  `science`
+- **[Jensen Huang Posts on X](https://twitter.com/JensenHuang/status/2122726005219737649)** — Score: 49
   `Another`
-- **[Giant Roadside Attractions Face Mounting Costs and an Uncertain Future](https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html)** — Score: 3
+- **[Charles Schwab website goes down](https://www.businessinsider.com/charles-scwab-website-outage-reports-2026-11)** — Score: 39
+  `Another`
+- **[Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware](https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/)** — Score: 31
+  `security`
+- **[Show HN: VennDB: append-only in-memory Rust DB for rows queried using bit flags](https://github.com/plabayo/venndb)** — Score: 31
+  `rust` `database` `opensource`
+- **[Antfly learned to stop worrying and love Apache 2.0](https://antfly.io/thoughts/how-antfly-learned-to-stop-worrying-and-love-apache-2)** — Score: 20
+  `opensource`
+- **[Exploiting Replay Protected Monotonic Counters to Brute-Force Windows Hello PINs](https://arxiv.org/abs/2611.18126)** — Score: 15
+  `security` `debugging` `hardware`
+- **[Elephant-Goldfish Model](https://egm.dev/)** — Score: 15
+  `ai` `architecture`
+- **[Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium](https://github.com/RunanywhereAI/trnrt)** — Score: 14
+  `ai` `cloud` `opensource`
+- **[Nvidia stopped disclosing Singapore sales as revenues hit $104B](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf)** — Score: 11
+  `ai` `hardware`
+- **[Apple Services Down](https://downdetector.com/status/apple-support/)** — Score: 8
   `Another`
 
 ## Dev.to
 
-- **[Win+V forgets everything when Windows restarts. Here is what I use instead.](https://dev.to/azadkshitij/winv-forgets-everything-when-windows-restarts-here-is-what-i-use-instead-nbp)** — Score: 5
-  `windows` `opensource` `productivity` `dotnet`
-- **[Money in Code: Integer Cents vs Decimal Types](https://dev.to/tlaboratory/money-in-code-integer-cents-vs-decimal-types-2dbg)** — Score: 1
-  `python` `java` `csharp` `programming`
-- **[How I keep bots out of my own analytics, with no cookies and no third-party scripts](https://dev.to/hanzala_rasool_6d069eeab1/how-i-keep-bots-out-of-my-own-analytics-with-no-cookies-and-no-third-party-scripts-40k6)** — Score: 0
-  `webdev` `privacy` `javascript` `dotnet`
-- **[I Installed .NET 11 This Morning. The SDK Worked; the Install Didn't (At First).](https://dev.to/aheadkit/i-installed-net-11-this-morning-the-sdk-worked-the-install-didnt-at-first-41hf)** — Score: 0
-  `dotnet` `csharp` `programming`
-- **[Why I built a live request-flow visualizer for ASP.NET Core (and what v0.4.0 adds)](https://dev.to/douglasproglima/why-i-built-a-live-request-flow-visualizer-for-aspnet-core-and-what-v040-adds-5cjp)** — Score: 0
-  `backend` `csharp` `debugging` `dotnet`
-- **[Instagram Comments Webhook Not Firing? 7 Causes and the Polling Backstop We Run in Production](https://dev.to/hayatnextoria/instagram-comments-webhook-not-firing-7-causes-and-the-polling-backstop-we-run-in-production-3ja6)** — Score: 0
-  `instagram` `webhooks` `api` `dotnet`
-- **[Upgrading .NET 8 or 9 to .NET 10: the checklist](https://dev.to/mervenor/upgrading-net-8-or-9-to-net-10-the-checklist-38am)** — Score: 0
-  `dotnet` `csharp` `aspnetcore` `webdev`
-- **[ArrayPool<T>.Shared for High-Throughput APIs](https://dev.to/maayurdahake/arraypoolshared-for-high-throughput-apis-2hkl)** — Score: 0
-  `dotnet` `csharp` `performance` `programming`
+- **[C# Without a Project File: File-Based Apps in .NET 11 (a 5-Minute Refresh)](https://dev.to/mrviduus/c-without-a-project-file-file-based-apps-in-net-11-a-5-minute-refresh-1pif)** — Score: 9
+  `dotnet` `csharp` `tutorial` `programming`
+- **[Checking every number an LLM writes against the source file](https://dev.to/chanhyounglee/checking-every-number-an-llm-writes-against-the-source-file-2obo)** — Score: 1
+  `showdev` `ai` `webdev` `dotnet`
+- **[Rust is not faster by default: how my .NET client got 33x ahead of the official Rust SDK](https://dev.to/axitordev/rust-is-not-faster-by-default-how-my-net-client-got-33x-ahead-of-the-official-rust-sdk-360f)** — Score: 0
+  `dotnet` `csharp` `rust` `performance`
+- **[Parsing HTML in .NET 10–30x faster than HtmlAgilityPack and AngleSharp: a list of tags instead of a DOM](https://dev.to/romanti3172/parsing-html-in-net-10-30x-faster-than-htmlagilitypack-and-anglesharp-a-list-of-tags-instead-of-a-2cab)** — Score: 0
+  `dotnet` `csharp` `webscraping` `showdev`
+- **[Staying hands-on while leading delivery](https://dev.to/anasamin22311/staying-hands-on-while-leading-delivery-bd2)** — Score: 0
+  `engineeringleadership` `delivery` `codereview` `dotnet`
+- **[Same Prompt, Two Runs, 13 Points Apart: Why My .NET Eval Gate Needed a Third Answer](https://dev.to/michael_maurice/same-prompt-two-runs-13-points-apart-why-my-net-eval-gate-needed-a-third-answer-137i)** — Score: 0
+  `dotnet` `csharp` `ai` `testing`
 - **[Why We Decoupled Clients from Orders: Architecture Lessons from Building a SaaS Portal](https://dev.to/ostapyrih/why-we-decoupled-clients-from-orders-architecture-lessons-from-building-a-saas-portal-1hm1)** — Score: 0
   `architecture` `webdev` `dotnet` `saas`
-- **[Invoice PDFs in a Multi-Tenant Backend: Who Can Download What, and Where the Edges Are](https://dev.to/storeflux/invoice-pdfs-in-a-multi-tenant-backend-who-can-download-what-and-where-the-edges-are-1ld2)** — Score: 0
-  `dotnet` `pdf` `ecommerce` `webdev`
-- **[Sticky Sessions Won't Save Your AI Chat: 6 Questions Before You Run a .NET Chat Backend on Two Nodes](https://dev.to/michael_maurice/sticky-sessions-wont-save-your-ai-chat-6-questions-before-you-run-a-net-chat-backend-on-two-nodes-5476)** — Score: 0
-  `dotnet` `csharp` `ai` `architecture`
-- **[Microsoft Entra ID Application Identities](https://dev.to/bhaidar/microsoft-entra-id-application-identities-2o40)** — Score: 0
-  `azure` `azurefunctions` `serverless` `csharp`
-- **[Automating Project Artifacts with Blazor WebAssembly and SignalR](https://dev.to/grantwatsondev/automating-project-artifacts-with-blazor-webassembly-and-signalr-380c)** — Score: 0
-  `csharp` `webdev` `blazor`
-- **[PDF to Markdown for LLM pipelines in .NET – without Python and without native libraries](https://dev.to/wolfgang_mitterbucher_dd5/pdf-to-markdown-for-llm-pipelines-in-net-without-python-and-without-native-libraries-436b)** — Score: 0
-  `dotnet` `csharp` `pdf` `ai`
-- **[Unity 6 LTS Upgrade Notes: What to Audit Before You Migrate a Live Project](https://dev.to/juegostudiosofficial/unity-6-lts-upgrade-notes-what-to-audit-before-you-migrate-a-live-project-3k5m)** — Score: 0
-  `unity3d` `gamedev` `csharp` `devops`
+- **[Build vs buy for embedded reporting in a SaaS product: an honest engineering cost model](https://dev.to/razisyed/build-vs-buy-for-embedded-reporting-in-a-saas-product-an-honest-engineering-cost-model-1nil)** — Score: 0
+  `dotnet` `csharp` `saas` `architecture`
+- **[System.Threading.Channels in .NET 10, Measured: The Write Said True and the Item Was Gone](https://dev.to/jgomezdev/systemthreadingchannels-in-net-10-measured-the-write-said-true-and-the-item-was-gone-3p20)** — Score: 0
+  `dotnet` `csharp` `concurrency` `performance`
+- **[NuGet Manager for VS Code: manage your .NET packages without leaving the editor](https://dev.to/baliestri/nuget-manager-for-vs-code-manage-your-net-packages-without-leaving-the-editor-511f)** — Score: 0
+  `vscode` `dotnet` `nuget` `programming`
+- **[Stop Losing Background Jobs: Meet Masterly.NightShift for .NET](https://dev.to/a7mdfre7at/stop-losing-background-jobs-meet-masterlynightshift-for-net-2cmd)** — Score: 0
+  `opensource` `csharp` `dotnet`
+- **[C# 15 Union Types: What Changed and When I’d Actually Use Them](https://dev.to/farzadslash33/c-15-union-types-what-changed-and-when-id-actually-use-them-3k8i)** — Score: 0
+  `dotnet` `csharp` `programming` `tutorial`
+- **[An N+1 query looks like a staircase](https://dev.to/eladser/an-n1-query-looks-like-a-staircase-54pi)** — Score: 0
+  `dotnet` `aspnetcore` `csharp` `opensource`
+- **[How to Let AI Write Business Rules Without Letting It Touch Production](https://dev.to/kikoz-bass/how-to-let-ai-write-business-rules-without-letting-it-touch-production-4bbl)** — Score: 0
+  `ai` `csharp` `dotnet` `mcp`
 
