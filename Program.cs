@@ -35,6 +35,6 @@ Limpeza.GetData.GetDataAsyncMd();
 
 
 var tagCounts = Statistic.CalculateAndSaveTagCounts(allArticles);
-HtmlCharts.GenerateHtmlChartFromDb("output/View/news.db", "output/View/.html");
+HtmlCharts.GenerateHtmlChartFromDb("output/View/news.db", "output/View/indexz.html");
 
 Console.WriteLine($"\n Concluído! {report.NumeroArtigos} artigos coletados.");
