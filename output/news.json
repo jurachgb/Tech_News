@@ -22110,15 +22110,15 @@
     ]
   },
   {
-    "DataNoticia": "2026-11-19T17:54:05.9940491Z",
-    "NumeroArtigos": 44,
+    "DataNoticia": "2026-11-19T18:04:08.4557192Z",
+    "NumeroArtigos": 73,
     "Artigo": [
       {
         "Titulo": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
         "Url": "https://thedataexchange.media/pete-warden-moonshine/",
         "Fonte": "Hacker News",
-        "Score": 122,
-        "Data": "2026-11-19T17:54:05.5719365Z",
+        "Score": 127,
+        "Data": "2026-11-19T18:04:08.2059412Z",
         "Tag": [
           "ai",
           "hardware",
@@ -22129,31 +22129,28 @@
         "Titulo": "Anthropic hits $2T in Nasdaq debut",
         "Url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
         "Fonte": "Hacker News",
-        "Score": 38,
-        "Data": "2026-11-19T17:54:05.6341477Z",
+        "Score": 96,
+        "Data": "2026-11-19T18:04:08.1351288Z",
         "Tag": [
-          "ai",
-          "cloud",
-          "career"
+          "ai"
         ]
       },
       {
         "Titulo": "Garage Door Spam",
         "Url": "https://blog.harrison.page/garage-door-spam/",
         "Fonte": "Hacker News",
-        "Score": 494,
-        "Data": "2026-11-19T17:54:05.6326062Z",
+        "Score": 498,
+        "Data": "2026-11-19T18:04:08.2059393Z",
         "Tag": [
-          "hardware",
-          "robotics"
+          "hardware"
         ]
       },
       {
         "Titulo": "Launch HN: Onlook (YC W25) \u2013 An open-source developer tool for designers",
         "Url": "https://github.com/onlook-dev/onlook/",
         "Fonte": "Hacker News",
-        "Score": 18,
-        "Data": "2026-11-19T17:54:05.6423429Z",
+        "Score": 24,
+        "Data": "2026-11-19T18:04:08.2021368Z",
         "Tag": [
           "opensource",
           "webdev",
@@ -22164,19 +22161,19 @@
         "Titulo": "I built Cornhole News. A Hacker News inspired site for news across the Midwest",
         "Url": "https://cornholenews.news",
         "Fonte": "Hacker News",
-        "Score": 58,
-        "Data": "2026-11-19T17:54:05.6338404Z",
+        "Score": 63,
+        "Data": "2026-11-19T18:04:08.2299037Z",
         "Tag": [
           "webdev",
-          "opensource"
+          "frontend"
         ]
       },
       {
         "Titulo": "Claude Fable 5.2 solves two open problems in the physics of black holes",
         "Url": "https://www.anthropic.com/research/claude-black-hole-physics",
         "Fonte": "Hacker News",
-        "Score": 8,
-        "Data": "2026-11-19T17:54:05.6707409Z",
+        "Score": 31,
+        "Data": "2026-11-19T18:04:08.1955483Z",
         "Tag": [
           "ai",
           "science"
@@ -22186,63 +22183,64 @@
         "Titulo": "Making 8-page foldable zines from a single A4 sheet in the browser",
         "Url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
         "Fonte": "Hacker News",
-        "Score": 125,
-        "Data": "2026-11-19T17:54:05.6339454Z",
+        "Score": 132,
+        "Data": "2026-11-19T18:04:08.2161162Z",
         "Tag": [
           "webdev",
-          "frontend"
+          "javascript"
         ]
       },
       {
         "Titulo": "Someone reported java4shell bug in September 2026",
         "Url": "https://github.com/openjdk/jdk/pull/32781",
         "Fonte": "Hacker News",
-        "Score": 175,
-        "Data": "2026-11-19T17:54:05.6341712Z",
+        "Score": 185,
+        "Data": "2026-11-19T18:04:08.209673Z",
         "Tag": [
+          "java",
           "security",
-          "java"
+          "debugging"
         ]
       },
       {
         "Titulo": "UK Government Forced to Admit It Issued Apple a Secret Encryption Order",
         "Url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
         "Fonte": "Hacker News",
-        "Score": 95,
-        "Data": "2026-11-19T17:54:05.6375861Z",
+        "Score": 113,
+        "Data": "2026-11-19T18:04:08.2065571Z",
         "Tag": [
-          "security"
+          "security",
+          "opensource"
         ]
       },
       {
         "Titulo": "How the European Commission rolled out Matrix to more than 40k staff",
         "Url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
         "Fonte": "Hacker News",
-        "Score": 544,
-        "Data": "2026-11-19T17:54:05.6341208Z",
+        "Score": 553,
+        "Data": "2026-11-19T18:04:08.2101199Z",
         "Tag": [
           "opensource",
-          "security",
-          "architecture"
+          "webdev"
         ]
       },
       {
         "Titulo": "Nintendo takes Picofly firmware down from GitHub [video]",
         "Url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
         "Fonte": "Hacker News",
-        "Score": 176,
-        "Data": "2026-11-19T17:54:05.6385805Z",
+        "Score": 179,
+        "Data": "2026-11-19T18:04:08.2064301Z",
         "Tag": [
           "hardware",
-          "opensource"
+          "security"
         ]
       },
       {
         "Titulo": "Everything you need to survive and rebuild society",
         "Url": "https://lastbook.org/",
         "Fonte": "Hacker News",
-        "Score": 210,
-        "Data": "2026-11-19T17:54:05.6385832Z",
+        "Score": 214,
+        "Data": "2026-11-19T18:04:08.219598Z",
         "Tag": [
           "Another"
         ]
@@ -22251,8 +22249,8 @@
         "Titulo": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence",
         "Url": "https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/",
         "Fonte": "Hacker News",
-        "Score": 29,
-        "Data": "2026-11-19T17:54:05.6315083Z",
+        "Score": 31,
+        "Data": "2026-11-19T18:04:08.2105509Z",
         "Tag": [
           "Another"
         ]
@@ -22261,8 +22259,8 @@
         "Titulo": "Ruby2\u00DFhell: Pre-authentication RCE on stock Rails",
         "Url": "https://verialabs.com/ruby2shell/",
         "Fonte": "Hacker News",
-        "Score": 310,
-        "Data": "2026-11-19T17:54:05.6382273Z",
+        "Score": 313,
+        "Data": "2026-11-19T18:04:08.2074827Z",
         "Tag": [
           "security",
           "backend"
@@ -22272,8 +22270,8 @@
         "Titulo": "What\u0027s New in PHP 8.6",
         "Url": "https://www.php.net/releases/8.6/en.php",
         "Fonte": "Hacker News",
-        "Score": 217,
-        "Data": "2026-11-19T17:54:05.6327731Z",
+        "Score": 219,
+        "Data": "2026-11-19T18:04:08.2076496Z",
         "Tag": [
           "php"
         ]
@@ -22282,20 +22280,18 @@
         "Titulo": "Cooling buildings is overtaking heating them as an energy need, IEA says",
         "Url": "https://maccus.fr/en/cooling-overtaking-heating/",
         "Fonte": "Hacker News",
-        "Score": 94,
-        "Data": "2026-11-19T17:54:05.6343101Z",
+        "Score": 98,
+        "Data": "2026-11-19T18:04:08.2081948Z",
         "Tag": [
-          "cloud",
-          "architecture",
-          "hardware"
+          "Another"
         ]
       },
       {
         "Titulo": "An Oregon library ditched Dewey Decimal and got people excited about books again",
         "Url": "https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system",
         "Fonte": "Hacker News",
-        "Score": 103,
-        "Data": "2026-11-19T17:54:05.6323877Z",
+        "Score": 105,
+        "Data": "2026-11-19T18:04:08.2107971Z",
         "Tag": [
           "Another"
         ]
@@ -22304,42 +22300,42 @@
         "Titulo": "Chrome AI features wasting much bandwidth",
         "Url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
         "Fonte": "Hacker News",
-        "Score": 51,
-        "Data": "2026-11-19T17:54:05.6709254Z",
+        "Score": 54,
+        "Data": "2026-11-19T18:04:08.2192265Z",
         "Tag": [
-          "ai"
+          "ai",
+          "performance"
         ]
       },
       {
         "Titulo": "I\u0027ve Got Your Packages: Harvesting Customers\u0027 Delivery Order Information (2020)",
         "Url": "https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380062",
         "Fonte": "Hacker News",
-        "Score": 19,
-        "Data": "2026-11-19T17:54:05.6710343Z",
+        "Score": 20,
+        "Data": "2026-11-19T18:04:08.2111772Z",
         "Tag": [
           "security",
-          "backend"
+          "architecture"
         ]
       },
       {
         "Titulo": "Distributed, high-performance blob storage on SQLite",
         "Url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
         "Fonte": "Hacker News",
-        "Score": 192,
-        "Data": "2026-11-19T17:54:05.6343047Z",
+        "Score": 195,
+        "Data": "2026-11-19T18:04:08.2128513Z",
         "Tag": [
+          "backend",
           "database",
-          "architecture",
-          "performance",
-          "backend"
+          "performance"
         ]
       },
       {
         "Titulo": "Do not buy RAM, compress",
         "Url": "https://curiousbits.nl/blog/do-not-buy-ram-compress/",
         "Fonte": "Hacker News",
-        "Score": 126,
-        "Data": "2026-11-19T17:54:05.6346683Z",
+        "Score": 127,
+        "Data": "2026-11-19T18:04:08.2148253Z",
         "Tag": [
           "hardware",
           "performance"
@@ -22349,8 +22345,8 @@
         "Titulo": "OpenAI still has a WebRTC Problem",
         "Url": "https://moq.dev/blog/webrtc-is-still-the-problem/",
         "Fonte": "Hacker News",
-        "Score": 70,
-        "Data": "2026-11-19T17:54:05.6315211Z",
+        "Score": 71,
+        "Data": "2026-11-19T18:04:08.2226588Z",
         "Tag": [
           "ai",
           "webdev"
@@ -22360,8 +22356,8 @@
         "Titulo": "Unblockable communication with gravity",
         "Url": "https://www.science.org/doi/10.1126/sciadv.aee0802",
         "Fonte": "Hacker News",
-        "Score": 57,
-        "Data": "2026-11-19T17:54:05.6722921Z",
+        "Score": 60,
+        "Data": "2026-11-19T18:04:08.2264715Z",
         "Tag": [
           "science"
         ]
@@ -22371,7 +22367,7 @@
         "Url": "https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c/",
         "Fonte": "Hacker News",
         "Score": 52,
-        "Data": "2026-11-19T17:54:05.6352249Z",
+        "Data": "2026-11-19T18:04:08.2200654Z",
         "Tag": [
           "cpp",
           "csharp"
@@ -22382,7 +22378,7 @@
         "Url": "https://benoitrostykus.com/data_to_silicon.html",
         "Fonte": "Hacker News",
         "Score": 6,
-        "Data": "2026-11-19T17:54:05.6385179Z",
+        "Data": "2026-11-19T18:04:08.2147224Z",
         "Tag": [
           "hardware",
           "games",
@@ -22394,19 +22390,19 @@
         "Url": "https://kapteko.com/15-million-webservers/",
         "Fonte": "Hacker News",
         "Score": 311,
-        "Data": "2026-11-19T17:54:05.6377556Z",
+        "Data": "2026-11-19T18:04:08.2215458Z",
         "Tag": [
           "rust",
-          "performance",
-          "linux"
+          "webdev",
+          "performance"
         ]
       },
       {
         "Titulo": "It\u0027s all about the allocator",
         "Url": "https://aarol.dev/posts/zig-allocator/",
         "Fonte": "Hacker News",
-        "Score": 31,
-        "Data": "2026-11-19T17:54:05.6346466Z",
+        "Score": 32,
+        "Data": "2026-11-19T18:04:08.2151527Z",
         "Tag": [
           "performance",
           "cpp"
@@ -22416,8 +22412,8 @@
         "Titulo": "SSD prices may begin to decline in the latter half of 2027",
         "Url": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
         "Fonte": "Hacker News",
-        "Score": 250,
-        "Data": "2026-11-19T17:54:05.6315832Z",
+        "Score": 251,
+        "Data": "2026-11-19T18:04:08.2149748Z",
         "Tag": [
           "hardware"
         ]
@@ -22426,11 +22422,11 @@
         "Titulo": "Show HN: Watch weight-space programming in action with WebGPU",
         "Url": "https://tabbyml.github.io/weight-space-playground/",
         "Fonte": "Hacker News",
-        "Score": 9,
-        "Data": "2026-11-19T17:54:05.6316319Z",
+        "Score": 11,
+        "Data": "2026-11-19T18:04:08.2248281Z",
         "Tag": [
-          "webdev",
           "javascript",
+          "webdev",
           "ai"
         ]
       },
@@ -22438,8 +22434,8 @@
         "Titulo": "Fuck Your AI Safeguards",
         "Url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
         "Fonte": "Hacker News",
-        "Score": 72,
-        "Data": "2026-11-19T17:54:05.6324072Z",
+        "Score": 81,
+        "Data": "2026-11-19T18:04:08.2070372Z",
         "Tag": [
           "ai",
           "security"
@@ -22450,7 +22446,7 @@
         "Url": "https://dev.to/pedro_vila_99b529625617e/from-net-framework-48-to-net-10-what-the-tool-did-what-i-did-and-what-my-architecture-saved-57d3",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-11-19T17:54:05.4848405Z",
+        "Data": "2026-11-19T18:04:07.7179747Z",
         "Tag": [
           "architecture",
           "dotnet",
@@ -22463,7 +22459,7 @@
         "Url": "https://dev.to/thaylon_lopes/tllitecore-vs-tlresilientcore-minimal-api-leve-ou-clean-architecture-com-outbox-o-guia-pratico-3g9g",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-11-19T17:54:05.4849648Z",
+        "Data": "2026-11-19T18:04:07.7181371Z",
         "Tag": [
           "architecture",
           "backend",
@@ -22476,7 +22472,7 @@
         "Url": "https://dev.to/edgarmesquita_rj/building-a-cross-platform-ui-sdk-in-net-10-c-to-javascript-without-wasm-and-gpu-pixels-without-2do4",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-11-19T17:54:05.4849686Z",
+        "Data": "2026-11-19T18:04:07.7181424Z",
         "Tag": [
           "dotnet",
           "csharp",
@@ -22489,7 +22485,7 @@
         "Url": "https://dev.to/dunirvana/background-processing-in-net-8-with-backgroundservice-and-channel-3ff2",
         "Fonte": "Dev.to",
         "Score": 1,
-        "Data": "2026-11-19T17:54:05.4849755Z",
+        "Data": "2026-11-19T18:04:07.7181486Z",
         "Tag": [
           "dotnet",
           "csharp",
@@ -22502,7 +22498,7 @@
         "Url": "https://dev.to/gigaherz/byteaetherulid-v142-brings-native-aspnet-core-route-constraints-zero-allocation-json-4aj8",
         "Fonte": "Dev.to",
         "Score": 5,
-        "Data": "2026-11-19T17:54:05.4849779Z",
+        "Data": "2026-11-19T18:04:07.7181517Z",
         "Tag": [
           "backend",
           "cli",
@@ -22515,7 +22511,7 @@
         "Url": "https://dev.to/anasamin22311/nzm-mtdd-lmstjryn-wkthyr-lslhyt-jl-fhs-lwswl-mmlanw-3k6h",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-11-19T17:54:05.4849807Z",
+        "Data": "2026-11-19T18:04:07.7181551Z",
         "Tag": [
           "dotnet",
           "authorization",
@@ -22528,7 +22524,7 @@
         "Url": "https://dev.to/jgomezdev/systemthreadingchannels-en-net-10-medido-la-escritura-devolvio-true-y-el-elemento-ya-no-estaba-9am",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-11-19T17:54:05.4849834Z",
+        "Data": "2026-11-19T18:04:07.7181585Z",
         "Tag": [
           "dotnet",
           "csharp",
@@ -22541,7 +22537,7 @@
         "Url": "https://dev.to/michael_maurice/your-stop-button-only-stops-the-screen-5-places-a-net-signalr-chat-drops-the-cancellationtoken-419b",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-11-19T17:54:05.4849857Z",
+        "Data": "2026-11-19T18:04:07.718162Z",
         "Tag": [
           "dotnet",
           "csharp",
@@ -22554,7 +22550,7 @@
         "Url": "https://dev.to/stevsharp/stop-using-exceptions-for-control-flow-railway-oriented-programming-in-c-4hna",
         "Fonte": "Dev.to",
         "Score": 1,
-        "Data": "2026-11-19T17:54:05.4849916Z",
+        "Data": "2026-11-19T18:04:07.7181724Z",
         "Tag": [
           "csharp",
           "dotnet",
@@ -22567,7 +22563,7 @@
         "Url": "https://dev.to/cng_ben_08a7022dd544d1a/ef-core-savechanges-not-saving-it-returns-0-no-error-5e4l",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-11-19T17:54:05.484994Z",
+        "Data": "2026-11-19T18:04:07.7181756Z",
         "Tag": [
           "dotnet",
           "csharp",
@@ -22580,7 +22576,7 @@
         "Url": "https://dev.to/jenll/how-to-move-columns-in-excel-without-dragging-14ad",
         "Fonte": "Dev.to",
         "Score": 2,
-        "Data": "2026-11-19T17:54:05.6086714Z",
+        "Data": "2026-11-19T18:04:07.8569668Z",
         "Tag": [
           "productivity",
           "csharp",
@@ -22593,7 +22589,7 @@
         "Url": "https://dev.to/tr00d/supabase-net-devlog-18-505c",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-11-19T17:54:05.6086787Z",
+        "Data": "2026-11-19T18:04:07.8569779Z",
         "Tag": [
           "supabase",
           "csharp",
@@ -22606,7 +22602,7 @@
         "Url": "https://dev.to/farazahmed614/the-building-blocks-of-spanflow-are-now-open-source-7-mit-licensed-net-libraries-15on",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-11-19T17:54:05.6086808Z",
+        "Data": "2026-11-19T18:04:07.8569822Z",
         "Tag": [
           "dotnet",
           "csharp",
@@ -22619,12 +22615,386 @@
         "Url": "https://dev.to/maayurdahake/frozendictionaryk-v-in-net-8-902",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-11-19T17:54:05.6086828Z",
+        "Data": "2026-11-19T18:04:07.8569864Z",
         "Tag": [
           "dotnet",
           "csharp",
           "performance",
           "programming"
+        ]
+      },
+      {
+        "Titulo": "The CodeNewbie Podcast is Back for Season 28!",
+        "Url": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484",
+        "Fonte": "Dev.to",
+        "Score": 68,
+        "Data": "2026-11-19T18:04:08.0138352Z",
+        "Tag": [
+          "codenewbie",
+          "ai",
+          "podcast",
+          "vibecoding"
+        ]
+      },
+      {
+        "Titulo": "Stratagems #36: They Finished Their Coffee. The AI Still Has No Answer.",
+        "Url": "https://dev.to/xulingfeng/stratagems-36-they-finished-their-coffee-the-ai-still-has-no-answer-4igh",
+        "Fonte": "Dev.to",
+        "Score": 97,
+        "Data": "2026-11-19T18:04:08.0138401Z",
+        "Tag": [
+          "discuss",
+          "ai",
+          "career",
+          "programming"
+        ]
+      },
+      {
+        "Titulo": "Exploring Decision Models, Part 1: Putting Gemini Decision 1 to the Test",
+        "Url": "https://dev.to/googleai/exploring-decision-models-part-1-putting-gemini-decision-1-to-the-test-50f0",
+        "Fonte": "Dev.to",
+        "Score": 13,
+        "Data": "2026-11-19T18:04:08.0138442Z",
+        "Tag": [
+          "ai",
+          "googlecloud",
+          "gemini",
+          "agents"
+        ]
+      },
+      {
+        "Titulo": "Serverless Gemma 4: E2B on a Lambda GPU Function, with Google\u0027s QAT Weights and Drafter",
+        "Url": "https://dev.to/gde/serverless-gemma-4-e2b-on-a-lambda-gpu-function-with-googles-qat-weights-and-drafter-fh4",
+        "Fonte": "Dev.to",
+        "Score": 24,
+        "Data": "2026-11-19T18:04:08.0138548Z",
+        "Tag": [
+          "gemma",
+          "ai",
+          "vllm",
+          "serverless"
+        ]
+      },
+      {
+        "Titulo": "Thinking On or Off? Gemma 4 E4B on an 8 GB RTX 3050",
+        "Url": "https://dev.to/gde/thinking-on-or-off-gemma-4-e4b-on-an-8-gb-rtx-3050-5d5",
+        "Fonte": "Dev.to",
+        "Score": 7,
+        "Data": "2026-11-19T18:04:08.0138589Z",
+        "Tag": [
+          "gemma",
+          "llm",
+          "benchmark",
+          "ai"
+        ]
+      },
+      {
+        "Titulo": "Stop Paying LLM Prices for an if Statement: A Field Guide to Decision Models in Late 2026",
+        "Url": "https://dev.to/amananandrai/stop-paying-llm-prices-for-an-if-statement-a-field-guide-to-decision-models-in-late-2026-4d24",
+        "Fonte": "Dev.to",
+        "Score": 12,
+        "Data": "2026-11-19T18:04:08.0138629Z",
+        "Tag": [
+          "ai",
+          "llm",
+          "agents",
+          "machinelearning"
+        ]
+      },
+      {
+        "Titulo": "Tool Names Are Identifiers. Don\u0027t Autocorrect Them.",
+        "Url": "https://dev.to/gde/tool-names-are-identifiers-dont-autocorrect-them-33g9",
+        "Fonte": "Dev.to",
+        "Score": 7,
+        "Data": "2026-11-19T18:04:08.0138668Z",
+        "Tag": [
+          "ai",
+          "typescript",
+          "debugging",
+          "security"
+        ]
+      },
+      {
+        "Titulo": "WebMCP in Practice - Find the Right Task and Update It",
+        "Url": "https://dev.to/playfulprogramming/webmcp-in-practice-find-the-right-task-and-update-it-4441",
+        "Fonte": "Dev.to",
+        "Score": 2,
+        "Data": "2026-11-19T18:04:08.0138706Z",
+        "Tag": [
+          "webmcp",
+          "ai",
+          "typescript"
+        ]
+      },
+      {
+        "Titulo": "Running my agent\u0027s code through DigitalOcean\u0027s Action Gateway",
+        "Url": "https://dev.to/alexgeorgiev17/running-my-agents-code-through-digitaloceans-action-gateway-7o7",
+        "Fonte": "Dev.to",
+        "Score": 10,
+        "Data": "2026-11-19T18:04:08.0138745Z",
+        "Tag": [
+          "digitalocean",
+          "ai",
+          "agents",
+          "mcp"
+        ]
+      },
+      {
+        "Titulo": "Can a plain table hijack an AI agent?",
+        "Url": "https://dev.to/edbrdi/can-a-plain-table-hijack-an-ai-agent-2pde",
+        "Fonte": "Dev.to",
+        "Score": 5,
+        "Data": "2026-11-19T18:04:08.0138784Z",
+        "Tag": [
+          "ai",
+          "security",
+          "llm",
+          "agents"
+        ]
+      },
+      {
+        "Titulo": "Stop Wrapping Everything in Promise.all: How Unbounded Concurrency Crashes APIs",
+        "Url": "https://dev.to/johnnylemonny/stop-wrapping-everything-in-promiseall-how-unbounded-concurrency-crashes-apis-11ol",
+        "Fonte": "Dev.to",
+        "Score": 17,
+        "Data": "2026-11-19T18:04:08.1299261Z",
+        "Tag": [
+          "javascript",
+          "node",
+          "webdev",
+          "performance"
+        ]
+      },
+      {
+        "Titulo": "CVE-2026-123007: the NGINX HTTP/2 bug, who is affected and the fix",
+        "Url": "https://dev.to/axrisi/cve-2026-123007-the-nginx-http2-bug-who-is-affected-and-the-fix-14g6",
+        "Fonte": "Dev.to",
+        "Score": 1,
+        "Data": "2026-11-19T18:04:08.1299314Z",
+        "Tag": [
+          "nginx",
+          "security",
+          "webdev",
+          "devops"
+        ]
+      },
+      {
+        "Titulo": "Passing a Room Key with 4 Pictures: Implementing SPAKE2 (RFC 9382) in the Browser",
+        "Url": "https://dev.to/kangchanghwan/passing-a-room-key-with-4-pictures-implementing-spake2-rfc-9382-in-the-browser-ah9",
+        "Fonte": "Dev.to",
+        "Score": 2,
+        "Data": "2026-11-19T18:04:08.1299354Z",
+        "Tag": [
+          "security",
+          "javascript",
+          "webdev",
+          "cryptography"
+        ]
+      },
+      {
+        "Titulo": "An activity log for Django that knows who really clicked, even under impersonation",
+        "Url": "https://dev.to/ahmad_dogar_7d098f5e48f72/an-activity-log-for-django-that-knows-who-really-clicked-even-under-impersonation-1e9c",
+        "Fonte": "Dev.to",
+        "Score": 1,
+        "Data": "2026-11-19T18:04:08.1299393Z",
+        "Tag": [
+          "django",
+          "python",
+          "security",
+          "webdev"
+        ]
+      },
+      {
+        "Titulo": "Making a personal website readable by AI agents: Markdown pages, llms.txt and an MCP server",
+        "Url": "https://dev.to/k4rthik_/making-a-personal-website-readable-by-ai-agents-markdown-pages-llmstxt-and-an-mcp-server-2akl",
+        "Fonte": "Dev.to",
+        "Score": 1,
+        "Data": "2026-11-19T18:04:08.1299431Z",
+        "Tag": [
+          "nextjs",
+          "ai",
+          "mcp",
+          "webdev"
+        ]
+      },
+      {
+        "Titulo": "I built a 37-line static site generator. Then I ran it on real markdown.",
+        "Url": "https://dev.to/marcusbeauregard/i-built-a-37-line-static-site-generator-then-i-ran-it-on-real-markdown-agd",
+        "Fonte": "Dev.to",
+        "Score": 1,
+        "Data": "2026-11-19T18:04:08.1299469Z",
+        "Tag": [
+          "python",
+          "markdown",
+          "webdev",
+          "beginners"
+        ]
+      },
+      {
+        "Titulo": "The race condition that prints free money, and how I stopped it in my Laravel payment gateway",
+        "Url": "https://dev.to/gbolahan_olanrewaju_01796/the-race-condition-that-prints-free-money-and-how-i-stopped-it-in-my-laravel-payment-gateway-5c9b",
+        "Fonte": "Dev.to",
+        "Score": 2,
+        "Data": "2026-11-19T18:04:08.1299508Z",
+        "Tag": [
+          "laravel",
+          "php",
+          "webdev",
+          "fintech"
+        ]
+      },
+      {
+        "Titulo": "Why Your Next.js App Overflows PostgreSQL Connections (And How to Fix It)",
+        "Url": "https://dev.to/u11d/why-your-nextjs-app-overflows-postgresql-connections-and-how-to-fix-it-51l7",
+        "Fonte": "Dev.to",
+        "Score": 1,
+        "Data": "2026-11-19T18:04:08.1299545Z",
+        "Tag": [
+          "webdev",
+          "nextjs",
+          "postgres"
+        ]
+      },
+      {
+        "Titulo": "Multi-Tab Testing: Ask a Peer to Edit the Same SaaS Record Twice",
+        "Url": "https://dev.to/urielbitton/multi-tab-testing-ask-a-peer-to-edit-the-same-saas-record-twice-2bc",
+        "Fonte": "Dev.to",
+        "Score": 1,
+        "Data": "2026-11-19T18:04:08.1299584Z",
+        "Tag": [
+          "webdev",
+          "testing",
+          "ux",
+          "buildinpublic"
+        ]
+      },
+      {
+        "Titulo": "A mutex is enough. Until the check and the write are in different locks.",
+        "Url": "https://dev.to/marcusbeauregard/a-mutex-is-enough-until-the-check-and-the-write-are-in-different-locks-349e",
+        "Fonte": "Dev.to",
+        "Score": 1,
+        "Data": "2026-11-19T18:04:08.1299628Z",
+        "Tag": [
+          "go",
+          "webdev",
+          "programming",
+          "security"
+        ]
+      },
+      {
+        "Titulo": "What this week\u0027s nginx HTTP/2 CVEs mean for the server I actually run",
+        "Url": "https://dev.to/alexgeorgiev17/what-this-weeks-nginx-http2-cves-mean-for-the-server-i-actually-run-3nbf",
+        "Fonte": "Dev.to",
+        "Score": 11,
+        "Data": "2026-11-19T18:04:08.2622665Z",
+        "Tag": [
+          "nginx",
+          "security",
+          "devops",
+          "linux"
+        ]
+      },
+      {
+        "Titulo": "A DigitalOcean volume next to the Droplet\u0027s own disk",
+        "Url": "https://dev.to/remdore/a-digitalocean-volume-next-to-the-droplets-own-disk-51nb",
+        "Fonte": "Dev.to",
+        "Score": 14,
+        "Data": "2026-11-19T18:04:08.2622708Z",
+        "Tag": [
+          "digitalocean",
+          "linux",
+          "postgres",
+          "devops"
+        ]
+      },
+      {
+        "Titulo": "Adopt Pre-Existing Docker Containers with Zero Downtime: Reverse-Engineering docker-compose.yml in Gubernator v4.0",
+        "Url": "https://dev.to/gde/adopt-pre-existing-docker-containers-with-zero-downtime-reverse-engineering-docker-composeyml-in-3cic",
+        "Fonte": "Dev.to",
+        "Score": 9,
+        "Data": "2026-11-19T18:04:08.2622745Z",
+        "Tag": [
+          "devops",
+          "docker",
+          "opensource",
+          "infrastructure"
+        ]
+      },
+      {
+        "Titulo": "I Don\u0027t Like Kubernetes. Portability and Being the Industry Standard Aren\u0027t Enough",
+        "Url": "https://dev.to/aws-builders/i-dont-like-kubernetes-portability-and-being-the-industry-standard-arent-enough-293e",
+        "Fonte": "Dev.to",
+        "Score": 4,
+        "Data": "2026-11-19T18:04:08.2622805Z",
+        "Tag": [
+          "kubernetes",
+          "architecture",
+          "eks",
+          "devops"
+        ]
+      },
+      {
+        "Titulo": "How long a DigitalOcean Cloud Firewall change takes to apply",
+        "Url": "https://dev.to/remdore/how-long-a-digitalocean-cloud-firewall-change-takes-to-apply-kkb",
+        "Fonte": "Dev.to",
+        "Score": 6,
+        "Data": "2026-11-19T18:04:08.2622838Z",
+        "Tag": [
+          "digitalocean",
+          "networking",
+          "security",
+          "devops"
+        ]
+      },
+      {
+        "Titulo": "Amazon EKS Network Policies in Practice: Real-World Usage and CI/CD",
+        "Url": "https://dev.to/aws-builders/amazon-eks-network-policies-in-practice-real-world-usage-and-cicd-27na",
+        "Fonte": "Dev.to",
+        "Score": 4,
+        "Data": "2026-11-19T18:04:08.2622871Z",
+        "Tag": [
+          "aws",
+          "kubernetes",
+          "eks",
+          "devops"
+        ]
+      },
+      {
+        "Titulo": "A job retry should not hide the next job in GitLab CI",
+        "Url": "https://dev.to/himanshu_748/a-job-retry-should-not-hide-the-next-job-in-gitlab-ci-3kfd",
+        "Fonte": "Dev.to",
+        "Score": 8,
+        "Data": "2026-11-19T18:04:08.2622902Z",
+        "Tag": [
+          "cli",
+          "devops",
+          "testing"
+        ]
+      },
+      {
+        "Titulo": "We Started With Four Open Agent CLI Questions. We Ended With Two Real Wins.",
+        "Url": "https://dev.to/debashish_ghosal/we-started-with-four-open-agent-cli-questions-we-ended-with-two-real-wins-47ih",
+        "Fonte": "Dev.to",
+        "Score": 15,
+        "Data": "2026-11-19T18:04:08.2622934Z",
+        "Tag": [
+          "discuss",
+          "ai",
+          "devops",
+          "showdev"
+        ]
+      },
+      {
+        "Titulo": "Docker Rebrand 2026: New Logo, Colors, and Strategy Explained",
+        "Url": "https://dev.to/docker/docker-rebrand-2026-new-logo-colors-and-strategy-explained-10g2",
+        "Fonte": "Dev.to",
+        "Score": 5,
+        "Data": "2026-11-19T18:04:08.2623005Z",
+        "Tag": [
+          "docker",
+          "security",
+          "ai",
+          "devops"
         ]
       }
     ]
