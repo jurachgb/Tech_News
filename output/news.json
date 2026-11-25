@@ -21260,15 +21260,15 @@
     ]
   },
   {
-    "DataNoticia": "2026-11-25T18:07:32.890149Z",
-    "NumeroArtigos": 72,
+    "DataNoticia": "2026-11-25T18:56:00.94761Z",
+    "NumeroArtigos": 76,
     "Artigo": [
       {
         "Titulo": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
         "Url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
         "Fonte": "Hacker News",
-        "Score": 272,
-        "Data": "2026-11-25T18:07:32.5914302Z",
+        "Score": 318,
+        "Data": "2026-11-25T18:56:00.8889495Z",
         "Tag": [
           "Another"
         ]
@@ -21277,19 +21277,19 @@
         "Titulo": "Investigating degraded experiences across GitHub products",
         "Url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
         "Fonte": "Hacker News",
-        "Score": 134,
-        "Data": "2026-11-25T18:07:32.6342896Z",
+        "Score": 157,
+        "Data": "2026-11-25T18:56:00.9263966Z",
         "Tag": [
           "webdev",
-          "backend"
+          "debugging"
         ]
       },
       {
         "Titulo": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
         "Url": "https://github.com/xoxorwr/pw-loudness-eq",
         "Fonte": "Hacker News",
-        "Score": 246,
-        "Data": "2026-11-25T18:07:32.6376966Z",
+        "Score": 260,
+        "Data": "2026-11-25T18:56:00.9259653Z",
         "Tag": [
           "linux",
           "opensource"
@@ -21299,8 +21299,8 @@
         "Titulo": "Google releases Cogentic papers on integer factorization, discrete logs and more",
         "Url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
         "Fonte": "Hacker News",
-        "Score": 301,
-        "Data": "2026-11-25T18:07:32.6385497Z",
+        "Score": 335,
+        "Data": "2026-11-25T18:56:00.9251781Z",
         "Tag": [
           "ai",
           "science"
@@ -21310,19 +21310,18 @@
         "Titulo": "1Password Security Incident",
         "Url": "https://1password.com/blog/update-on-nov-2026-security-incident",
         "Fonte": "Hacker News",
-        "Score": 136,
-        "Data": "2026-11-25T18:07:32.6375742Z",
+        "Score": 304,
+        "Data": "2026-11-25T18:56:00.861218Z",
         "Tag": [
-          "security",
-          "opensource"
+          "security"
         ]
       },
       {
         "Titulo": "Predicting LoRA size for any dataset",
         "Url": "https://engram.com/blog/lora-size",
         "Fonte": "Hacker News",
-        "Score": 45,
-        "Data": "2026-11-25T18:07:32.6412774Z",
+        "Score": 60,
+        "Data": "2026-11-25T18:56:00.9249943Z",
         "Tag": [
           "ai",
           "python"
@@ -21332,9 +21331,10 @@
         "Titulo": "I checked Clojure\u0027s core with Lean and found unreported bugs",
         "Url": "https://s.conao3.com/blog/2026/e4f733",
         "Fonte": "Hacker News",
-        "Score": 56,
-        "Data": "2026-11-25T18:07:32.6626124Z",
+        "Score": 88,
+        "Data": "2026-11-25T18:56:00.9230393Z",
         "Tag": [
+          "science",
           "debugging"
         ]
       },
@@ -21342,18 +21342,19 @@
         "Titulo": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
         "Url": "https://buttons.joshwcomeau.com/",
         "Fonte": "Hacker News",
-        "Score": 727,
-        "Data": "2026-11-25T18:07:32.6770131Z",
+        "Score": 745,
+        "Data": "2026-11-25T18:56:00.9253991Z",
         "Tag": [
-          "Another"
+          "games",
+          "opensource"
         ]
       },
       {
         "Titulo": "The matrix multiplication exponent is nine fourths [pdf]",
         "Url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
         "Fonte": "Hacker News",
-        "Score": 907,
-        "Data": "2026-11-25T18:07:32.6515603Z",
+        "Score": 919,
+        "Data": "2026-11-25T18:56:00.9275849Z",
         "Tag": [
           "science"
         ]
@@ -21362,8 +21363,8 @@
         "Titulo": "In C\u002B\u002B, = default and {} are not the same constructor",
         "Url": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
         "Fonte": "Hacker News",
-        "Score": 44,
-        "Data": "2026-11-25T18:07:32.6525244Z",
+        "Score": 53,
+        "Data": "2026-11-25T18:56:00.9240216Z",
         "Tag": [
           "cpp"
         ]
@@ -21372,8 +21373,8 @@
         "Titulo": "Rumors swirling that labs might have cracked Factoring in P",
         "Url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
         "Fonte": "Hacker News",
-        "Score": 218,
-        "Data": "2026-11-25T18:07:32.6606622Z",
+        "Score": 276,
+        "Data": "2026-11-25T18:56:00.9245901Z",
         "Tag": [
           "ai",
           "science"
@@ -21383,21 +21384,19 @@
         "Titulo": "Porting Rockbox to an Undocumented $9 Aliexpress \u0027YP3\u0027 MP3 Player with LLMs",
         "Url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
         "Fonte": "Hacker News",
-        "Score": 83,
-        "Data": "2026-11-25T18:07:32.6558487Z",
+        "Score": 107,
+        "Data": "2026-11-25T18:56:00.9235596Z",
         "Tag": [
           "ai",
-          "csharp",
-          "hardware",
-          "opensource"
+          "hardware"
         ]
       },
       {
         "Titulo": "The industrialization of noise: Automated proof-solving is the same old dead end [pdf]",
         "Url": "https://arxiv.org/abs/2611.31286",
         "Fonte": "Hacker News",
-        "Score": 37,
-        "Data": "2026-11-25T18:07:32.6567246Z",
+        "Score": 47,
+        "Data": "2026-11-25T18:56:00.9235014Z",
         "Tag": [
           "ai",
           "architecture"
@@ -21407,8 +21406,8 @@
         "Titulo": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
         "Url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
         "Fonte": "Hacker News",
-        "Score": 395,
-        "Data": "2026-11-25T18:07:32.6558782Z",
+        "Score": 407,
+        "Data": "2026-11-25T18:56:00.9232063Z",
         "Tag": [
           "ai",
           "security"
@@ -21418,8 +21417,8 @@
         "Titulo": "Pinocchio at 200: a tale of hunger, greed and Italy\u0027s culinary history",
         "Url": "https://www.repubblica.it/en/europe/food-travel/2026/11/24/news/carlo_collodi_pinocchio_pellegrino_artusi_italian_literature-425744069/",
         "Fonte": "Hacker News",
-        "Score": 46,
-        "Data": "2026-11-25T18:07:32.6555969Z",
+        "Score": 48,
+        "Data": "2026-11-25T18:56:00.9270796Z",
         "Tag": [
           "Another"
         ]
@@ -21428,8 +21427,8 @@
         "Titulo": "The short age of dragon riders",
         "Url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
         "Fonte": "Hacker News",
-        "Score": 226,
-        "Data": "2026-11-25T18:07:32.6508524Z",
+        "Score": 244,
+        "Data": "2026-11-25T18:56:00.9270952Z",
         "Tag": [
           "Another"
         ]
@@ -21438,8 +21437,8 @@
         "Titulo": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
         "Url": "https://gpu-demo-gallery.pages.dev/",
         "Fonte": "Hacker News",
-        "Score": 282,
-        "Data": "2026-11-25T18:07:32.6515573Z",
+        "Score": 293,
+        "Data": "2026-11-25T18:56:00.9359924Z",
         "Tag": [
           "javascript"
         ]
@@ -21449,7 +21448,7 @@
         "Url": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract",
         "Fonte": "Hacker News",
         "Score": 1,
-        "Data": "2026-11-25T18:07:32.6516474Z",
+        "Data": "2026-11-25T18:56:00.925514Z",
         "Tag": [
           "career"
         ]
@@ -21468,8 +21467,8 @@
         "Titulo": "Smart people who give a shit use tools",
         "Url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
         "Fonte": "Hacker News",
-        "Score": 107,
-        "Data": "2026-11-25T18:07:32.6475516Z",
+        "Score": 127,
+        "Data": "2026-11-25T18:56:00.9251121Z",
         "Tag": [
           "Another"
         ]
@@ -21478,8 +21477,8 @@
         "Titulo": "Bypassing iOS Safari\u0027s 60 FPS Limit to Build Web Applications That Feel Native",
         "Url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
         "Fonte": "Hacker News",
-        "Score": 379,
-        "Data": "2026-11-25T18:07:32.6459142Z",
+        "Score": 392,
+        "Data": "2026-11-25T18:56:00.927765Z",
         "Tag": [
           "mobile",
           "webdev",
@@ -21490,19 +21489,19 @@
         "Titulo": "Getting old Java phones online again",
         "Url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
         "Fonte": "Hacker News",
-        "Score": 142,
-        "Data": "2026-11-25T18:07:32.6574807Z",
+        "Score": 147,
+        "Data": "2026-11-25T18:56:00.9276264Z",
         "Tag": [
-          "java",
-          "mobile"
+          "mobile",
+          "hardware"
         ]
       },
       {
         "Titulo": "Ternary Bonsai 2.5 27B",
         "Url": "https://prismml.com/news/bonsai-2-5-27b",
         "Fonte": "Hacker News",
-        "Score": 515,
-        "Data": "2026-11-25T18:07:32.6479192Z",
+        "Score": 517,
+        "Data": "2026-11-25T18:56:00.9282083Z",
         "Tag": [
           "ai"
         ]
@@ -21511,19 +21510,18 @@
         "Titulo": "Is your DNS ready for a bigger namespace?",
         "Url": "https://www.akamai.com/blog/security/2026/nov/1615-new-tlds-dns-ready-for-bigger-namespace",
         "Fonte": "Hacker News",
-        "Score": 47,
-        "Data": "2026-11-25T18:07:32.6506802Z",
+        "Score": 50,
+        "Data": "2026-11-25T18:56:00.9281003Z",
         "Tag": [
-          "webdev",
-          "cloud"
+          "Another"
         ]
       },
       {
         "Titulo": "Macrohistory in Six Facts",
         "Url": "https://basilhalperin.com/essays/macrohistory.html",
         "Fonte": "Hacker News",
-        "Score": 144,
-        "Data": "2026-11-25T18:07:32.6453964Z",
+        "Score": 148,
+        "Data": "2026-11-25T18:56:00.9279113Z",
         "Tag": [
           "Another"
         ]
@@ -21532,8 +21530,8 @@
         "Titulo": "PenGPT: A Generative Transformer for Handwriting and Sketches",
         "Url": "https://greydanus.github.io/2026/11/12/pengpt/",
         "Fonte": "Hacker News",
-        "Score": 370,
-        "Data": "2026-11-25T18:07:32.6439121Z",
+        "Score": 375,
+        "Data": "2026-11-25T18:56:00.9278044Z",
         "Tag": [
           "ai",
           "python"
@@ -21543,8 +21541,8 @@
         "Titulo": "Taking over US Treasury subdomains for $3 each",
         "Url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
         "Fonte": "Hacker News",
-        "Score": 200,
-        "Data": "2026-11-25T18:07:32.6543153Z",
+        "Score": 205,
+        "Data": "2026-11-25T18:56:00.9230516Z",
         "Tag": [
           "security"
         ]
@@ -21564,8 +21562,8 @@
         "Titulo": "Show HN: Ribbon Architect \u2013 Endless ways to tie a gift ribbon",
         "Url": "https://ribbonarchitect.com",
         "Fonte": "Hacker News",
-        "Score": 4,
-        "Data": "2026-11-25T18:07:32.6542247Z",
+        "Score": 13,
+        "Data": "2026-11-25T18:56:00.9262928Z",
         "Tag": [
           "Another"
         ]
@@ -21575,7 +21573,7 @@
         "Url": "https://dev.to/umerfarooqofficial/c-features-i-wish-i-had-when-i-started-in-2016-1bel",
         "Fonte": "Dev.to",
         "Score": 1,
-        "Data": "2026-11-25T18:07:32.4560686Z",
+        "Data": "2026-11-25T18:56:00.7367339Z",
         "Tag": [
           "discuss",
           "csharp",
@@ -21601,7 +21599,7 @@
         "Url": "https://dev.to/dohyeontech/one-bit-was-enough-how-nets-image-loader-walked-past-wdac-ppl-and-virtualbox-hardening-o3o",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-11-25T18:07:32.4564369Z",
+        "Data": "2026-11-25T18:56:00.7369428Z",
         "Tag": [
           "security",
           "windows",
@@ -21614,7 +21612,7 @@
         "Url": "https://dev.to/gelinard/remodel-dont-rewrite-how-to-renovate-a-legacy-net-app-while-you-still-live-in-it-27ng",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-11-25T18:07:32.4564503Z",
+        "Data": "2026-11-25T18:56:00.7369315Z",
         "Tag": [
           "dotnet",
           "architecture",
@@ -21627,7 +21625,7 @@
         "Url": "https://dev.to/jav76/cantus-self-hosted-real-time-synced-lyrics-for-spotify-built-in-c-with-uno-platform-27m",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-11-25T18:07:32.4564552Z",
+        "Data": "2026-11-25T18:56:00.7369454Z",
         "Tag": [
           "dotnet",
           "csharp",
@@ -21640,7 +21638,7 @@
         "Url": "https://dev.to/ahmed_manai/local-rag-server-for-claude-and-copilot-in-c-here-is-what-i-learned-about-search-49d",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-11-25T18:07:32.4564606Z",
+        "Data": "2026-11-25T18:56:00.7369361Z",
         "Tag": [
           "ai",
           "rag",
@@ -21653,7 +21651,7 @@
         "Url": "https://dev.to/a95yman/vibe-coding-to-production-a-6-step-ai-coding-workflow-and-3-bugs-ai-almost-shipped-4551",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-11-25T18:07:32.4564652Z",
+        "Data": "2026-11-25T18:56:00.7369486Z",
         "Tag": [
           "ai",
           "programming",
@@ -21666,7 +21664,7 @@
         "Url": "https://dev.to/lostbeard/your-first-gpu-kernel-in-c-in-the-browser-and-on-the-desktop-4gb3",
         "Fonte": "Dev.to",
         "Score": 1,
-        "Data": "2026-11-25T18:07:32.4564703Z",
+        "Data": "2026-11-25T18:56:00.7369511Z",
         "Tag": [
           "csharp",
           "dotnet",
@@ -21678,8 +21676,8 @@
         "Titulo": "Azure DevOps Crash Course (Part 7): Docker, Azure Container Registry and Container Deployments",
         "Url": "https://dev.to/rehana_parveen_1b8844718a/azure-devops-crash-course-part-7-docker-azure-container-registry-and-container-deployments-2dkp",
         "Fonte": "Dev.to",
-        "Score": 1,
-        "Data": "2026-11-25T18:07:32.4564747Z",
+        "Score": 2,
+        "Data": "2026-11-25T18:56:00.7369539Z",
         "Tag": [
           "azuredevops",
           "docker",
@@ -21692,7 +21690,7 @@
         "Url": "https://dev.to/tayyab_hafiz_dev_0/validate-before-you-send-a-net-8-job-for-bulk-hubspot-upserts-g7e",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-11-25T18:07:32.4564907Z",
+        "Data": "2026-11-25T18:56:00.7901915Z",
         "Tag": [
           "api",
           "backend",
@@ -21705,7 +21703,7 @@
         "Url": "https://dev.to/tr00d/supabase-net-devlog-18-3mjn",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-11-25T18:07:32.5297157Z",
+        "Data": "2026-11-25T18:56:00.7901964Z",
         "Tag": [
           "supabase",
           "csharp",
@@ -21718,7 +21716,7 @@
         "Url": "https://dev.to/bakigervalla/winformswpf-to-net-10-the-6-breaking-changes-that-actually-bite-2j5n",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-11-25T18:07:32.529725Z",
+        "Data": "2026-11-25T18:56:00.7901997Z",
         "Tag": [
           "dotnet",
           "csharp",
@@ -21731,7 +21729,7 @@
         "Url": "https://dev.to/cartenvo/storepulse-a-free-read-only-health-check-for-nopcommerce-4p7n",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-11-25T18:07:32.5297311Z",
+        "Data": "2026-11-25T18:56:00.7902093Z",
         "Tag": [
           "showdev",
           "dotnet",
@@ -21744,7 +21742,7 @@
         "Url": "https://dev.to/gayatrichakrabarty14/migrating-from-net-framework-48-to-net-10-a-step-by-step-checklist-for-2026-1i5i",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-11-25T18:07:32.5297367Z",
+        "Data": "2026-11-25T18:56:00.7902029Z",
         "Tag": [
           "dotnet",
           "csharp",
@@ -21757,7 +21755,7 @@
         "Url": "https://dev.to/roman_miniailovvisiofor/pre-event-recording-in-c-save-the-10-seconds-before-a-motion-alarm-from-an-ip-camera-9ag",
         "Fonte": "Dev.to",
         "Score": 0,
-        "Data": "2026-11-25T18:07:32.5297436Z",
+        "Data": "2026-11-25T18:56:00.790206Z",
         "Tag": [
           "dotnet",
           "csharp",
@@ -22127,6 +22125,52 @@
           "ansible",
           "azure",
           "automation"
+        ]
+      },
+      {
+        "Titulo": "Britain\u0027s ghost stations",
+        "Url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+        "Fonte": "Hacker News",
+        "Score": 13,
+        "Data": "2026-11-25T18:56:00.8933499Z",
+        "Tag": [
+          "Another"
+        ]
+      },
+      {
+        "Titulo": "Deriving Black-Scholes",
+        "Url": "https://david.alvarezrosa.com/posts/deriving-black-scholes/",
+        "Fonte": "Hacker News",
+        "Score": 16,
+        "Data": "2026-11-25T18:56:00.927215Z",
+        "Tag": [
+          "science"
+        ]
+      },
+      {
+        "Titulo": "Moving Crystal Reports and SSRS reports to DevExpress for free: three routes and a checklist",
+        "Url": "https://dev.to/waqarsyd/moving-crystal-reports-and-ssrs-reports-to-devexpress-for-free-three-routes-and-a-checklist-38gc",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-11-25T18:56:00.7369564Z",
+        "Tag": [
+          "dotnet",
+          "devexpress",
+          "reporting",
+          "tutorial"
+        ]
+      },
+      {
+        "Titulo": "Build a Six Kalmas Flashcard CLI in C# (.NET 8) with System.Text.Json, Offline Cache and 9 Languages",
+        "Url": "https://dev.to/sunnahsource/build-a-six-kalmas-flashcard-cli-in-c-net-8-with-systemtextjson-offline-cache-and-9-languages-3kd5",
+        "Fonte": "Dev.to",
+        "Score": 0,
+        "Data": "2026-11-25T18:56:00.7369656Z",
+        "Tag": [
+          "csharp",
+          "dotnet",
+          "api",
+          "tutorial"
         ]
       }
     ]
