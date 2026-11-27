@@ -1,134 +1,120 @@
 ﻿# Tech News Report
 
-> Gerado em: 26/11/2026 18:45 UTC | Total: 62 artigos
+> Gerado em: 27/11/2026 18:38 UTC | Total: 55 artigos
 
 ## Hacker News
 
-- **[Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379)** — Score: 1892
-  `Another`
-- **[1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)** — Score: 1611
-  `security`
-- **[The New York Times warns photographers not to update Photoshop over AI features](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features)** — Score: 584
+- **[AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)** — Score: 1007
+  `ai` `webdev` `opensource`
+- **[Group chat where your AI talks behind your back](https://construct22.com/)** — Score: 598
   `ai`
-- **[GPT-6.2 Astra is the first model to beat Googlers' code golf records](https://bjin.github.io/go-codegolf-benchmark/#leaderboard)** — Score: 452
-  `ai`
-- **[Slow Ubuntu security response times](https://www.openwall.com/lists/oss-security/2026/11/25/9)** — Score: 398
-  `linux` `security` `devops`
-- **[Intel One Mono font](https://github.com/intel/intel-one-mono)** — Score: 375
+- **[Intel One Mono font (2023)](https://github.com/intel/intel-one-mono)** — Score: 570
   `hardware` `opensource`
-- **[Collection of preserved UI style guides](https://aresluna.org/ui-style-guides/)** — Score: 352
-  `Another`
-- **[Nextcloud Office Desktop app](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/)** — Score: 350
-  `webdev` `opensource`
-- **[Minipg: PostgreSQL as a Single Executable](https://progrium.github.io/minipg/)** — Score: 263
-  `database` `backend` `opensource`
-- **[Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years](https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/)** — Score: 226
-  `opensource` `architecture`
-- **[What VP ≠ VNP Means (In 3 Minutes)](https://www.friedgil.com/vpvnp)** — Score: 210
-  `Another`
-- **[Moat: Your OpenRouter Replacement](https://commandcode.ai/moat)** — Score: 195
-  `ai` `opensource` `backend`
-- **[45°C inlets just killed the chiller. Most people haven't noticed yet](https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831)** — Score: 194
-  `hardware` `performance`
-- **[Tracking Diseases Cured by AI](https://diseasescuredbyai.com/)** — Score: 175
-  `ai` `science`
-- **[An algebraic quantization of gravity from the null cone](https://arxiv.org/abs/2611.34924)** — Score: 154
-  `science`
-- **[Unconditional Integer Factorization in Subexponential Time](https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization)** — Score: 128
-  `science`
-- **[The history of civilization is the history of wheat](https://asteriskmag.com/issues/16/marginal-grains)** — Score: 116
-  `Another`
-- **[NP_R ≠ PAR_R](https://github.com/samueleverett01/bss-permanent-separations)** — Score: 88
-  `science` `architecture`
-- **[AMD Specific Patches for Llama.cpp](https://devnull.land/amd-specific-llama-cpp)** — Score: 79
-  `cpp` `opensource` `ai`
-- **[Curiosity Is No Solo Act](https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/)** — Score: 78
+- **[Company Culture = Slack Emoji ÷ √Headcount](https://lia.mg/posts/measuring-company-culture-with-slack-emoji/)** — Score: 521
   `career`
-- **[Discovery of curse ritual in trash dump surprises Egyptologist](https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html)** — Score: 66
-  `Another`
-- **[Show HN: Three Linux VMs in a browser tab, each running a different browser](https://michidk.github.io/sidebyside/)** — Score: 57
-  `linux` `webdev` `opensource`
-- **[YouTube Ad Punisher – Bypass anti-adblock](https://github.com/antonpictures/youtube-punisher)** — Score: 40
+- **[Hard Drive pricing has gotten bad](https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/)** — Score: 516
+  `hardware`
+- **[YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher)** — Score: 505
   `webdev`
-- **[CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)** — Score: 32
+- **[Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)** — Score: 483
+  `architecture`
+- **[AMD-specific fork of llama.cpp](https://devnull.land/amd-specific-llama-cpp)** — Score: 424
+  `cpp` `opensource` `ai`
+- **[Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email](https://techstackups.com/articles/google-workspace-ai-agents-mcp/)** — Score: 408
+  `ai`
+- **[Claude sabotaging ML research tasks?](https://twitter.com/RealAstropulse/status/2126119408997466389)** — Score: 369
+  `ai` `devops`
+- **[CTO of 'RansomwareHelp' indicted for wire fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)** — Score: 326
   `security`
-- **[The Engineering of Smartphone Cameras](https://www.pencilofrays.com/smartphone-lens/)** — Score: 24
-  `mobile` `hardware`
-- **[Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar](https://github.com/rxliuli/sim-drop)** — Score: 6
-  `mobile` `swift`
+- **[Buy Nothing Day – Friday November 27th 2026](https://www.buynothingday.co.uk/)** — Score: 297
+  `Another`
+- **[The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/)** — Score: 251
+  `ai` `architecture` `security` `performance`
+- **[Show HN: bouncemarket – a live prediction market game for a bouncing ball](https://bouncemarket.minhanhday.com/)** — Score: 244
+  `games` `webdev`
+- **[US Air Force's cloud computing platform hacked](https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163)** — Score: 235
+  `cloud` `security`
+- **[A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]](https://eprint.iacr.org/2026/3020.pdf)** — Score: 186
+  `science`
+- **[Kimi for Science: More scientific ideas, made possible](https://www.kimi.ai/news/kimi-for-science-program)** — Score: 159
+  `ai` `science`
+- **[Credit card skimming scripts using WebRTC found on popular shopping sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer)** — Score: 149
+  `security` `webdev`
+- **[New York and California age gating rules go into effect in the new year](https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year)** — Score: 147
+  `Another`
+- **[GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical)** — Score: 129
+  `ai`
+- **["What's Claude's fursona?" and other questions](https://herecomesthemoon.net/2026/11/whats-claudes-fursona/)** — Score: 127
+  `ai`
+- **[First images of the impact of DART asteroid deflection experiment](https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/)** — Score: 123
+  `science`
+- **[Mental Health Resources and Political Engagement](https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219)** — Score: 104
+  `Another`
+- **[I'm Scared of AI](https://thesoapbox.email/archive/3)** — Score: 99
+  `ai`
+- **[False computer-checked proofs](https://cr.yp.to/proofs/falseccp.html)** — Score: 92
+  `science`
+- **[Making a 3D fantasy map like a 16th-Century atlas](https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas)** — Score: 44
+  `games`
+- **[Pimalaya goes stable: Himalaya v3 and the pimdir standard](https://blog.pimalaya.org/pimalaya-goes-stable/)** — Score: 31
+  `rust` `opensource`
+- **[Show HN: I restored Palm's last device, and brought its OS to other platforms](https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/)** — Score: 26
+  `hardware` `mobile` `opensource`
+- **[Palliative Care for the Chronically Online](https://idiotecon.substack.com/p/palliative-care-for-the-chronically)** — Score: 24
+  `Another`
+- **[The NFL Player Who Left Football for Math](https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html)** — Score: 7
+  `Another`
 
 ## Dev.to
 
-- **[Remotion vs. CoAnimator When Your Product Demo Needs an Update](https://dev.to/ruixiao/remotion-vs-coanimator-when-your-product-demo-needs-an-update-3ikb)** — Score: 18
-  `ai` `react` `webdev` `automation`
-- **[The Internet Wasn't Built for Agents: The 30-Year-Old Assumption That's Breaking Everything](https://dev.to/aws-builders/the-internet-wasnt-built-for-agents-the-30-year-old-assumption-thats-breaking-everything-4cl6)** — Score: 14
-  `ai` `webdev` `infrastructure` `aws`
-- **[Exit Code 0 Is the Weakest Evidence You Have](https://dev.to/debashish_ghosal/exit-code-0-is-the-weakest-evidence-you-have-48g0)** — Score: 14
-  `discuss` `ai` `testing` `devops`
-- **[November's worst CVEs weren't clever. They were bad assumptions about state.](https://dev.to/cyclopt_dimitrisk/novembers-worst-cves-werent-clever-they-were-bad-assumptions-about-state-1dpg)** — Score: 13
-  `security` `webdev` `programming` `discuss`
-- **[Show DEV: Beating the Browser Memory Ceiling — Streaming 50GB WebRTC Files Direct-to-Disk with OPFS (Part 3)](https://dev.to/quantumtechcoder/show-dev-beating-the-browser-memory-ceiling-streaming-50gb-webrtc-files-direct-to-disk-with-opfs-10bj)** — Score: 8
-  `showdev` `webdev` `webrtc` `javascript`
-- **[JavaScript told me to buy 8 bags of concrete. I needed 7.](https://dev.to/saurabh_sharma_7a9a61107d/javascript-told-me-to-buy-8-bags-of-concrete-i-needed-7-5oh)** — Score: 6
-  `javascript` `webdev` `astro` `showdev`
-- **[RepoDNA v1.5.4 Released: Browser Storage Reliability and Safer Analysis Restoration](https://dev.to/sanskarin/repodna-v154-released-browser-storage-reliability-and-safer-analysis-restoration-3890)** — Score: 6
-  `opensource` `rust` `webdev` `devtools`
-- **[CVE-Harta: Autonomous Vulnerability Remediation](https://dev.to/kitarp29/cve-harta-autonomous-vulnerability-remediation-5e1h)** — Score: 6
-  `go` `devops` `security` `ai`
-- **[Building Clockwork: An AI-Native 2D Game Engine Verified End-to-End with Kane CLI](https://dev.to/theatomicshift/building-clockwork-an-ai-native-2d-game-engine-verified-end-to-end-with-kane-cli-3j2n)** — Score: 5
-  `ai` `gamedev` `showdev` `webdev`
-- **[Making agent retries safe across timeouts and restarts](https://dev.to/deavgprime/making-agent-retries-safe-across-timeouts-and-restarts-448b)** — Score: 4
-  `ai` `agents` `testing` `devops`
-- **[I Don't Need Your Permission](https://dev.to/stinklewinks/i-dont-need-your-permission-45e7)** — Score: 3
-  `ai` `career` `gamedev` `webdev`
-- **[Pure C# LLM inference vs Ollama, five months later](https://dev.to/lostbeard/pure-c-llm-inference-vs-ollama-five-months-later-31i)** — Score: 2
-  `csharp` `machinelearning` `llm` `dotnet`
-- **[Run an AI model in Blazor with no server and no API key](https://dev.to/lostbeard/run-an-ai-model-in-blazor-with-no-server-and-no-api-key-33l1)** — Score: 2
-  `csharp` `dotnet` `blazor` `ai`
-- **[Fix 'sorry, too many clients already' and hanging queries in Node pg](https://dev.to/amorizz/fix-sorry-too-many-clients-already-and-hanging-queries-in-node-pg-fmp)** — Score: 2
-  `postgres` `javascript` `programming` `webdev`
-- **[Launch an EKS Cluster Locally with Floci: No AWS Account, No eksctl](https://dev.to/axololtos_30/launch-an-eks-cluster-locally-with-floci-no-aws-account-no-eksctl-1bok)** — Score: 2
-  `kubernetes` `aws` `devops`
-- **[Postgres said DROP OWNED worked. DROP ROLE disagreed.](https://dev.to/niyigbodo/postgres-said-drop-owned-worked-drop-role-disagreed-60e)** — Score: 2
-  `postgres` `database` `sql` `devops`
-- **[How a Duplicate Debit Almost Reached Our Customers, and the Webhook Pattern That Prevents It](https://dev.to/rafengenharia/how-a-duplicate-debit-almost-reached-our-customers-and-the-webhook-pattern-that-prevents-it-1mm2)** — Score: 1
-  `dotnet` `stripe` `webhooks` `backend`
-- **[Designing .NET CLI Output for AI Agents](https://dev.to/rushuiguan/designing-net-cli-output-for-ai-agents-249o)** — Score: 1
-  `agents` `ai` `cli` `dotnet`
-- **[So i Tried NESTJS with a dotnet <DDD> mindset here is what i found:](https://dev.to/ferouzkassim/so-i-tried-nestjs-with-a-dotnet-mindset-here-us-what-i-found-1g73)** — Score: 1
-  `programming` `javascript` `dotnet` `nestjs`
-- **[Same invoice, four .NET HTML to PDF libraries: what broke](https://dev.to/frank_32f82b4e249028949b9/same-invoice-four-net-html-to-pdf-libraries-what-broke-2cih)** — Score: 1
-  `dotnet` `csharp` `pdf` `webdev`
-- **[[Kalamos Development] Auto-Update Lessons: Private Key Isolation, Build-Signing Separation, Key Rotation, and CI Queuing](https://dev.to/evanlin/kalamos-development-auto-update-lessons-private-key-isolation-build-signing-separation-key-4g)** — Score: 1
-  `automation` `ci` `devops` `security`
-- **[A security audit found 11 issues. Five of my fixes had bugs of their own.](https://dev.to/samuelmbabhazi/a-security-audit-found-11-issues-five-of-my-fixes-had-bugs-of-their-own-3anj)** — Score: 1
-  `security` `opensource` `testing` `devops`
-- **[AI agents and production: permissions, not prompts](https://dev.to/mohamedelgohary/ai-agents-and-production-permissions-not-prompts-1e89)** — Score: 1
-  `ai` `postgres` `security` `devops`
-- **[Linux Server Backup That Actually Restores](https://dev.to/shuvo_h/linux-server-backup-that-actually-restores-1994)** — Score: 1
-  `backup` `linux` `devops` `sysadmin`
-- **[I built a local RAG server for Claude and Copilot in C#. Here is what I learned about search.](https://dev.to/ahmed_manai/i-built-a-local-rag-server-for-claude-and-copilot-in-c-here-is-what-i-learned-about-search-2h3)** — Score: 0
-  `mcp` `rag` `dotnet` `ai`
-- **[Your HttpClient Retry Policy Probably Never Retried a Hung Request](https://dev.to/ahmedhex/your-httpclient-retry-policy-probably-never-retried-a-hung-request-8a4)** — Score: 0
-  `dotnet` `csharp` `api` `testing`
-- **[Upgrading .NET Is Easy. Keeping the Business Running Is the Hard Part.](https://dev.to/deepctech/upgrading-net-is-easy-keeping-the-business-running-is-the-hard-part-117n)** — Score: 0
-  `dotnet` `csharp` `architecture` `devops`
-- **[OcctCSharpBridge 3.0: Bridging Open CASCADE 7.9.0 to .NET 8/9/10 for CAD & BIM Apps](https://dev.to/zly258/occtcsharpbridge-30-bridging-open-cascade-790-to-net-8910-for-cad-bim-apps-4ke9)** — Score: 0
-  `dotnet` `cad` `opensource` `csharp`
-- **[Building a native, offline Pokémon save editor for Linux with Avalonia and .NET 9](https://dev.to/junko012/building-a-native-offline-pokemon-save-editor-for-linux-with-avalonia-and-net-9-2i3o)** — Score: 0
-  `showdev` `opensource` `dotnet` `linux`
-- **[How Windows Defender AMSI Flagged My Desktop Companion as Malware (And Why I Replaced PowerShell with C#)](https://dev.to/adil_rahiman_d18688376bef/how-windows-defender-amsi-flagged-my-desktop-companion-as-malware-and-why-i-replaced-powershell-3fbh)** — Score: 0
-  `windows` `node` `csharp` `security`
-- **[I Built a Tween Library Faster Than LitMotion for Unity](https://dev.to/seikasan/i-built-a-tween-library-faster-than-litmotion-for-unity-6ek)** — Score: 0
-  `unity3d` `csharp` `gamedev` `performance`
-- **[How I Built a 58 KB Open-Source Windows 11 Taskbar Internet Speed Monitor in Pure C#](https://dev.to/grafigrow/how-i-built-a-58-kb-open-source-windows-11-taskbar-internet-speed-monitor-in-pure-c-46m1)** — Score: 0
-  `windows` `csharp` `opensource` `productivity`
-- **[Replay Tests for a .NET Upgrade: Check What Your API Returned Yesterday](https://dev.to/deepctech/replay-tests-for-a-net-upgrade-check-what-your-api-returned-yesterday-53a3)** — Score: 0
-  `dotnet` `csharp` `testing` `api`
-- **[I Built a 58 KB Windows 11 Taskbar CPU, RAM & Disk Monitor in Pure C# (Open Source)](https://dev.to/grafigrow/i-built-a-58-kb-windows-11-taskbar-cpu-ram-disk-monitor-in-pure-c-open-source-1kkf)** — Score: 0
-  `csharp` `windows` `opensource` `productivity`
-- **[Claude Code `--resume` and Session Persistence in 2026: Picking Up Long Refactors Where You Left Off](https://dev.to/jsmanifest/claude-code-resume-and-session-persistence-in-2026-picking-up-long-refactors-where-you-left-off-5fei)** — Score: 0
-  `typescript` `ai` `javascript` `webdev`
-- **[1Password says an attacker reached an employee's GitHub account: what was copied and three GitHub checks](https://dev.to/axrisi/1password-says-an-attacker-reached-an-employees-github-account-what-was-copied-and-three-github-4naa)** — Score: 0
-  `security` `github` `devops` `news`
+- **[I Got Two AI Agents Talking. Then I Found Out They Weren't Hearing Each Other.](https://dev.to/kenielzep97/i-got-two-ai-agents-talking-then-i-found-out-they-werent-hearing-each-other-1fn6)** — Score: 35
+  `ai` `agents` `discord` `python`
+- **[How I built my own OS](https://dev.to/cloudwerx/how-i-built-my-own-os-942)** — Score: 22
+  `ai` `linux` `programming` `opensource`
+- **[C# 15 Unpacked: Popping the Hood on Labeled Loops and Finding No Labels at All](https://dev.to/georgekobaidze/c-15-unpacked-popping-the-hood-on-labeled-loops-and-finding-no-labels-at-all-4ci0)** — Score: 21
+  `microsoft` `dotnet` `csharp` `programming`
+- **[Under the Hood of Google Cloud Data Agent Kit: MCP Tools, SKILL.md Playbooks & Custom Guardrails](https://dev.to/gde/under-the-hood-of-google-cloud-data-agent-kit-mcp-tools-skillmd-playbooks-custom-guardrails-4568)** — Score: 9
+  `agents` `ai` `cloud` `mcp`
+- **[Zero Repeat Regressions: The Golden Metric & The Future of Agentic Trust](https://dev.to/gde/zero-repeat-regressions-the-golden-metric-the-future-of-agentic-trust-4857)** — Score: 5
+  `ai` `programming` `architecture` `softwareengineering`
+- **[The Check That Catches the Loop Misses the Fixation](https://dev.to/aheadkit/the-check-that-catches-the-loop-misses-the-fixation-56hg)** — Score: 5
+  `ai` `agents` `llm` `testing`
+- **[Your On-Device AI Works Offline. Does Your Web App?](https://dev.to/gde/your-on-device-ai-works-offline-does-your-web-app-38kj)** — Score: 5
+  `pwa` `ai` `webdev` `javascript`
+- **[Orchestrating Agents: When the Boundary Moves, So Do the Guarantees](https://dev.to/pinxiongcn/orchestrating-agents-when-the-boundary-moves-so-do-the-guarantees-o63)** — Score: 4
+  `ai` `agents` `strands` `aws`
+- **[Thinking on Constrained Deployments: Gemma E4B on 4GB 1650](https://dev.to/gde/thinking-on-constrained-deployments-gemma-e4b-on-4gb-1650-2cc6)** — Score: 3
+  `gemma` `llm` `benchmark` `ai`
+- **[Claude config: my rules were too heavy for small projects, so I added profiles](https://dev.to/angelodotnet/claude-config-my-rules-were-too-heavy-for-small-projects-so-i-added-profiles-30f6)** — Score: 2
+  `claudecode` `dotnet` `angular` `ai`
+- **[[Gemini in Action] Dev.to Text & Image Translator: Redrawing Chinese Screenshots with Nano Banana Pro & Gemini 4 Neon as Judge](https://dev.to/evanlin/gemini-in-action-devto-text-image-translator-redrawing-chinese-screenshots-with-nano-banana-423e)** — Score: 2
+  `ai` `automation` `gemini` `tools`
+- **[Two LLMs Can Trade a Fact With One Rotation. Where They Look Most Alike, They Almost Never Do](https://dev.to/p0rt/two-llms-can-trade-a-fact-with-one-rotation-where-they-look-most-alike-they-almost-never-do-43e7)** — Score: 2
+  `ai` `llm` `machinelearning` `deeplearning`
+- **[Build Your First MCP Server in .NET 11 — Give Your AI App Real Tools](https://dev.to/webgentle/build-your-first-mcp-server-in-net-11-give-your-ai-app-real-tools-595c)** — Score: 1
+  `mcp` `ai` `csharp` `dotnet`
+- **[How to Verify Razorpay Payments in ASP.NET Core](https://dev.to/naheel0/how-to-verify-razorpay-payments-in-aspnet-core-4con)** — Score: 1
+  `aspdotnet` `csharp` `webdev` `security`
+- **[Half-empty dorm, fully booked: how smarter bed allocation raises hostel RevPAB](https://dev.to/sanderaddink/half-empty-dorm-fully-booked-how-smarter-bed-allocation-raises-hostel-revpab-20ab)** — Score: 0
+  `algorithms` `csharp` `dotnet` `saas`
+- **[How I Built Live Exam Monitoring That Works With Zero Internet (SignalR + ASP.NET Core)](https://dev.to/anointedthedeveloper/how-i-built-live-exam-monitoring-that-works-with-zero-internet-signalr-aspnet-core-1587)** — Score: 0
+  `programming` `csharp` `webdev` `dotnet`
+- **[I added a reranker to my local RAG server. The right page now comes first for 18 of 22 questions instead of 12.](https://dev.to/ahmed_manai/i-added-a-reranker-to-my-local-rag-server-the-right-page-now-comes-first-for-18-of-22-questions-6g2)** — Score: 0
+  `rag` `mcp` `dotnet` `ai`
+- **[Grounded RAG in C#: retrieve, cite, and reject answers that cite nothing](https://dev.to/michalsurowka/grounded-rag-in-c-retrieve-cite-and-reject-answers-that-cite-nothing-4e5c)** — Score: 0
+  `dotnet` `csharp` `ai` `rag`
+- **[Compiling F# Directly to WebAssembly GC Without the .NET Runtime](https://dev.to/fsharp-wasm/compiling-f-directly-to-webassembly-gc-without-the-net-runtime-2hg5)** — Score: 0
+  `dotnet` `fsharp` `programming` `webassembly`
+- **[SinkSharp: A Structured Logging Library for .NET, Built Around an Async Queue That Never Blocks Your Hot Path](https://dev.to/prabhu_siva/sinksharp-a-structured-logging-library-for-net-built-around-an-async-queue-that-never-blocks-4big)** — Score: 0
+  `csharp` `dotnet` `dotnetcore` `sinksharp`
+- **[Enterprise tier compliance readiness in a chat backend](https://dev.to/pasztormark/enterprise-tier-compliance-readiness-in-a-chat-backend-jd2)** — Score: 0
+  `opensource` `dotnet` `compliance` `gdpr`
+- **[Why Large Projects Avoid Singleton Even Though It's Convenient](https://dev.to/toanlb_dev/why-large-projects-avoid-singleton-even-though-its-convenient-2hh9)** — Score: 0
+  `unity3d` `gamedev` `csharp` `architecture`
+- **[2-Week Deadline: Where Does Clean Architecture Fit?](https://dev.to/toanlb_dev/2-week-deadline-where-does-clean-architecture-fit-fp)** — Score: 0
+  `unity3d` `gamedev` `csharp` `architecture`
+- **[GameManager Is a Singleton and Cannot Be Touched: Handling Dependencies for New Unit Tests](https://dev.to/toanlb_dev/gamemanager-is-a-singleton-and-cannot-be-touched-handling-dependencies-for-new-unit-tests-gbk)** — Score: 0
+  `unity3d` `gamedev` `csharp` `architecture`
+- **[I built a free PredatorSense alternative for Acer Predator Orion desktops](https://dev.to/baronlabsdev/i-built-a-free-predatorsense-alternative-for-acer-predator-orion-desktops-35la)** — Score: 0
+  `showdev` `opensource` `csharp` `windows`
 
